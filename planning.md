@@ -6,13 +6,15 @@
 
 - select relevant Kaggle datasets. See the "datasetsNotes.xlsx" file.
 
-- select relevant APIs to create machine-generated text
+- select relevant APIs or develop programs to create machine-generated text
 
     - ChatGPT and its analogues (e.g, GPT-3.5) are one great option
 
     - the [Babel](https://lesperelman.com/writing-assessment-robo-grading/babel-generator/) system will generate essays that are syntactically accurate but semantically nonsensical. If they have an API, this is another option. 
 
     - Other options I'm haven't looked into yet (e.g., Microsoft's AI-bing, Google's Bard, etc.)
+    
+    - Potential modalities of machine-generated text: 1) high-quality ChatGPT-like text; 2) real-word, syntactically correct, but gibberish content (i.e., Babel); 3) explicitives, threats, harassment/discrimination; 4) 
 
 - Organize the data into a suitable database (maybe simple excel file, maybe more advanced SQL database)
 
@@ -34,6 +36,8 @@
 
 Steps we will likely need to take for written text processing:
 
+- read data into python
+
 - Lemmatization
 
 - tokenization 
@@ -43,3 +47,13 @@ Steps we will likely need to take for written text processing:
 - part-of-speech tagging
 
 - ?developing bags of words where reasonable?
+
+## Next Step To-Dos:
+
+- read data into python
+
+- very basic descriptive statistics (e.g., average length of text)
+
+- very basic data cleaning (e.g., lemmatization/tokenization/stemming)
+
+- **spend time on feature engineering**
