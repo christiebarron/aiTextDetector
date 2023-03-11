@@ -2,11 +2,22 @@
 
 ## NLP and Coding Pipeline
 
+### Project Descriptions
+
+1.  Your first project will focus on extracting some data and outputting it on Excel.
+2.  Your second project will focus on extracting some data, transforming it, and loading it into SQL/noSQL.
+3.  Your third project will focus on data visualization using web visualizations
+4.  Your final project will focus on all of the above, and transformations that are augmented with machine learning.
+
+The project should encompass at least one of the following 5 major machine learning modalities:  regression problems (supervised ML), classification problems (supervised ML), clustering/segmentation (unsupervised ML), computer vision (object ID), Natural language processing. 
+
 ### Datasets
 
-- select relevant Kaggle datasets. See the "datasetsNotes.xlsx" file.
+- select relevant Kaggle datasets. See the "datasetsNotes.xlsx" file. 
 
-- select relevant APIs or develop programs to create machine-generated text
+    - Can also scrape writing from websites, but there are no available classification (e.g., no guarantee writing is not machine-generated). Could perhaps web scrape Wikipedia snippets, LinkedIn posts, Medium.com blogs or the like. 
+
+- select relevant APIs or develop programs to create machine-generated text (i.e., the text we want to detect).
 
     - ChatGPT and its analogues (e.g, GPT-3.5) are one great option
 
@@ -38,21 +49,39 @@ Steps we will likely need to take for written text processing:
 
 - read data into python
 
-- Lemmatization
+- Preliminary data cleaning: 
 
-- tokenization 
+    - Lemmatization
 
-- Stemming
+    - tokenization 
 
-- part-of-speech tagging
+    - POS tagging (if relevant)
 
-- ?developing bags of words where reasonable?
+    - removing stop words
+
+    - Stemming
+
+    - part-of-speech tagging
+
+    - developing bags of words (where reasonable?)
+    
+- Feature engineering
+
+- Supervised Machine Learning: classification
+
+    - split into n fold for cross validation
+    
+    - test out a variety of ML classification models (e.g,. logistic regression, decision trees, random forest, etc.)
+    
+    - visualize output: various performance criteria for each classification model (confusion matrix, f1, precision, recall, specificity, sensitivity)
+    
+- Potentially turn into a website/app where it can output predicted possibility of text being a human vs machine generated? (or whatever it happens to be) 
 
 ## Next Step To-Dos:
 
 - read data into python
 
-- very basic descriptive statistics (e.g., average length of text)
+- very basic descriptive/summary statistics (e.g., average length of text)
 
 - very basic data cleaning (e.g., lemmatization/tokenization/stemming)
 
