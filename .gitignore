@@ -1,6 +1,9 @@
 # GIT IGNORE DOCUMENT FOR PYTHON-RELATED APPLICATIONS FROM GITHUB
  #https://github.com/github/gitignore/blob/main/Python.gitignore
 
+#mac folder metadata
+**/*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
