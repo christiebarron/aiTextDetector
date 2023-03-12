@@ -19,7 +19,7 @@ The project should encompass at least one of the following 5 major machine learn
 
 - select relevant APIs or develop programs to create machine-generated text (i.e., the text we want to detect).
 
-    - ChatGPT and its analogues (e.g, GPT-3.5) are one great option
+    - ChatGPT and its analogues (e.g, GPT-3.5) are one great option. "OpenAI's GPT-3 playground"
 
     - the [Babel](https://lesperelman.com/writing-assessment-robo-grading/babel-generator/) system will generate essays that are syntactically accurate but semantically nonsensical. If they have an API, this is another option. 
 
@@ -41,13 +41,15 @@ The project should encompass at least one of the following 5 major machine learn
 
 - Application: find python packages (e.g., the natural language toolkit - nltk) to operationalize the features identified in the literature.
 
-- Create python scripts that will run the feature extraction. 
+- Create python scripts and/or jupyter notebooks that will run the feature extraction. 
 
 ### Big picture NLP pipeline
 
 Steps we will likely need to take for written text processing:
 
 - read data into python
+
+- create the automatically generated text. Use an API to provide a large-language model with similar prompts as those given to students.
 
 - Preliminary data cleaning: 
 
