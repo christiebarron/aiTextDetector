@@ -19,13 +19,22 @@ Detecting machine-generated written text: an integration of NLP and ML
 - Christie Barron
 
 ## Project Description & Outline
-To add.
+The goal of this project is to develop a machine learning algorithm to detect whether a given text may be machine-generated. It will use a classification machine learning algorithm to classify written text as either authentic human-written text or machine-generated text. In its current iteration, it is mostly capable of differentiating between essays written by students in grades 7-10 and machine-generated text from large-language models. 
 
 
 ## Research Questions to Answer
 
-- Feature engineering: what features are most useful at distinguishing between human-written and machine-generated text? Do these features vary based on the context (aka dataset utilized)?
+- Feature engineering: what writing features are most useful at distinguishing between human-written and machine-generated text? Do these features vary based on the context (aka dataset utilized)?
 - ML Classification: How well can a machine learning algorithm detect machine-generated written text? Does classification accuracy systematically vary based on context?
+
+Data visualizations:
+
+- wordcloud of most common words once removed stopwords (human vs AI)
+- distributions of the various features grouped by writer (human vs AI): histograms or density plots
+- means on the features grouped by writer (human vs AI): barplot or Cleveland dot plot
+- table of point-biserial correlations between a feature and writer status (human vs AI)
+- table of descriptive statistics on the features grouped by writer status (human vs AI): mean, standard devaition, min, max
+
 
 ## Datasets to be used
 
@@ -42,41 +51,22 @@ Context 2: To be determined.
 Steps we will likely need to take for written text processing:
 
 - read data into python
-
 - create the automatically generated text. Use an API to provide a large-language model with similar prompts and context as those written by humans.
-
 - Preliminary data cleaning: 
-
-    - Lemmatization
-
-    - tokenization 
-
-    - POS tagging (if relevant)
-
+    - tokenization
     - removing stop words
-
-    - Stemming
-
+    - lemmatization
+    - POS tagging (if relevant)
     - developing bags of words (where reasonable?)
-
     - Descriptive statistics and visualization of response characteristics
-    
-- Feature engineering:
-
+- Feature engineering
     - Selection of relevant features 
-
     - Compute feature scores for all text stimuli.
-
     - descriptive statistics and data visualization comparing human and machine scores on features.
-
 - Supervised Machine Learning: classification
-
     - split into k folds for cross validation
-    
     - test out a variety of ML classification models (e.g,. logistic regression, decision trees, random forest, etc.)
-    
     - visualize output: various performance criteria for each classification model (confusion matrix, f1, precision, recall, specificity, sensitivity)
-    
 - Turn into a website/app where it can output predicted possibility of text being a human vs machine generated? (or whatever it happens to be) 
 
 ## Project Requirements
