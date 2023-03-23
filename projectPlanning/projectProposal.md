@@ -40,7 +40,9 @@ Data visualizations:
 
 Context 1: Student essay writing 
 - Kaggle ASAP student writing dataset for human-written essays.
-- API from a large-language model to generate similar essay prompts for machine-written essays.
+- API from a large-language model to generate similar essay prompts for machine-written essays. 
+    - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=programming-language-python) provides useful [prompt engineering](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/prompt-engineering) 
+    -  
 
 Context 2: To be determined. 
 - (social media posts? news articles? job posts? wikipedia articles?). To add.
