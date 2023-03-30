@@ -1,6 +1,9 @@
 # GIT IGNORE DOCUMENT FOR PYTHON-RELATED APPLICATIONS FROM GITHUB
  #https://github.com/github/gitignore/blob/main/Python.gitignore
 
+#any config files
+**/*config.py
+
 #mac folder metadata
 **/*.DS_Store
 
