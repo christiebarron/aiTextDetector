@@ -8,7 +8,7 @@
 - rough breakdown of tasks
 
 ## Project Title
-Detecting machine-generated written text: an integration of NLP and ML
+Detecting machine-generated written essays: an integration of Natural Language Processing and Machine Learning.
 
 ## Team Members
 
@@ -19,17 +19,19 @@ Detecting machine-generated written text: an integration of NLP and ML
 - Christie Barron
 
 ## Project Description & Outline
-The goal of this project is to develop a machine learning algorithm to detect whether a given text may be machine-generated. It will use a classification machine learning algorithm to classify written text as either authentic human-written text or machine-generated text. In its current iteration, it is mostly capable of differentiating between essays written by students in grades 7-10 and machine-generated text from large-language models. 
+The goal of this project is to develop a machine learning algorithm to detect whether a given text may be machine-generated. It will use natural language processing to extact features from an essay. It will then use a classification machine learning algorithm to classify written text as either authentic human-written text or machine-generated text. In its current iteration, it is mostly capable of differentiating between essays written by students in grades 7-10 and machine-generated text from large-language models. 
 
 
-## Research Questions to Answer
+## Research Questions to Answer for Project 1
 
-- Feature engineering: what writing features are most useful at distinguishing between human-written and machine-generated text? Do these features vary based on the context (aka dataset utilized)?
-- ML Classification: How well can a machine learning algorithm detect machine-generated written text? Does classification accuracy systematically vary based on context?
+- make this more detailed/specific (length of essays, fact that its school)
+- What are the characteristics of human essays? What are the characteristics of essays generated from large language models?
+- Feature engineering: what writing features are most useful at distinguishing between human-written and machine-generated text? 
+
 
 Data visualizations:
 
-- wordcloud of most common words once removed stopwords (human vs AI)
+- Word frequency, grouped by writer (human vs AI)
 - distributions of the various features grouped by writer (human vs AI): histograms or density plots
 - means on the features grouped by writer (human vs AI): barplot or Cleveland dot plot
 - table of point-biserial correlations between a feature and writer status (human vs AI)
@@ -41,11 +43,8 @@ Data visualizations:
 Context 1: Student essay writing 
 - Kaggle ASAP student writing dataset for human-written essays.
 - API from a large-language model to generate similar essay prompts for machine-written essays. 
-    - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=programming-language-python) provides useful [prompt engineering](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/prompt-engineering) 
-    -  
-
-Context 2: To be determined. 
-- (social media posts? news articles? job posts? wikipedia articles?). To add.
+    - Using either 1) Open AI's GPT-3 DaVinci3 large language model, or 2) Chat-GPT. 
+    -  Will use prompt engineering to get it to generate as realistic text as possible.
 
 
 ## Rough Breakdown of Tasks
@@ -70,6 +69,9 @@ Steps we will likely need to take for written text processing:
     - test out a variety of ML classification models (e.g,. logistic regression, decision trees, random forest, etc.)
     - visualize output: various performance criteria for each classification model (confusion matrix, f1, precision, recall, specificity, sensitivity)
 - Turn into a website/app where it can output predicted possibility of text being a human vs machine generated? (or whatever it happens to be) 
+
+## Notes on Projects 3-4 
+- ML Classification RQ: How well can a machine learning algorithm detect machine-generated written text? Does classification accuracy systematically vary based on context?
 
 ## Project Requirements
 - Note these mostly don't address comments from the rubrics. Will add later.
