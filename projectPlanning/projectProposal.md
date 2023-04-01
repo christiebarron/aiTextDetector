@@ -24,18 +24,18 @@ The goal of this project is to develop a machine learning algorithm to detect wh
 
 ## Research Questions to Answer for Project 1
 
-- make this more detailed/specific (length of essays, fact that its school)
-- What are the characteristics of human essays? What are the characteristics of essays generated from large language models?
 - Feature engineering: what writing features are most useful at distinguishing between human-written and machine-generated text? 
+    - What are the characteristics of human-written essays of students in grades 7-10? What are the characteristics of machine-generated essays composed by large language models?
 
 
 Data visualizations:
 
 - Word frequency, grouped by writer (human vs AI)
-- distributions of the various features grouped by writer (human vs AI): histograms or density plots
+- Correlation matrix and heatmap of the relationships between features.
+- distributions of the various features grouped by writer (human vs AI): histograms or density plots: Maisam.
 - means on the features grouped by writer (human vs AI): barplot or Cleveland dot plot
-- table of point-biserial correlations between a feature and writer status (human vs AI)
-- table of descriptive statistics on the features grouped by writer status (human vs AI): mean, standard devaition, min, max
+- table of point-biserial correlations between a feature and writer status (human vs AI): 
+- table of descriptive statistics on the features grouped by writer status (human vs AI): mean, standard devaition, min, max. Gayan will do this.
 
 
 ## Datasets to be used
@@ -69,6 +69,12 @@ Steps we will likely need to take for written text processing:
     - test out a variety of ML classification models (e.g,. logistic regression, decision trees, random forest, etc.)
     - visualize output: various performance criteria for each classification model (confusion matrix, f1, precision, recall, specificity, sensitivity)
 - Turn into a website/app where it can output predicted possibility of text being a human vs machine generated? (or whatever it happens to be) 
+
+### Project 1 Task Breakdown:
+- Data visualization: Maisam, Gayan & Vareesha
+- Descriptive statistics: Gayan & Vareesha
+- API for AI text generation: Christie & Maisam
+- Feature engineering: Paramdeep
 
 ## Notes on Projects 3-4 
 - ML Classification RQ: How well can a machine learning algorithm detect machine-generated written text? Does classification accuracy systematically vary based on context?
