@@ -60,4 +60,28 @@ for x in range(n):
     with open(f'../rawData/aiEssays/eid{essay_id}_{model}_{count}.txt', 'w') as f: 
         f.write(text)
 
+
+
+# # SAVE RESULTS
+# text_list = [] #create a list to add text files to.
+# ai_llm = [] #a list of the large language model used
+# eid = [] #essay prompt id
+# row_id = [] #final number
+# files = os.listdir('../rawData/aiEssays/') #get a list of all file names within the directory
+
+# #extract relevant information from ai-generated text files
+# for f in files:
+#     filename = f'../rawData/aiEssays/{f}' #save the filename
+
+#     with open(filename, 'r') as f: #open filename and save the text in it
+#         text_list.append(f.read())
+    
+#     #append metadata saved in the filename (llm used, essay prompt, and row id)
+#     ai_llm.append(filename.split("_")[1])
+#     eid.append(filename.split("_")[0].split("d")[1])
+#     row_id.append(filename.split("_")[2].split(".")[0])
+    
+# #save all extracted text to a pandas dataframe, then excel file.
+# df = pd.DataFrame({"row_id" : row_id, "essay_id" : eid, "ai_llm": ai_llm, 'ai_essay': text_list})
+# df.to_excel("../cleanData/aiGenerated.xlsx")
         
