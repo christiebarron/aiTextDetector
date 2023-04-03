@@ -7,10 +7,8 @@
 #Loading Depencies #####
 
 #if first time, run:   pip install transformers
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 import os #for working with paths
-
-
 
 
 # Model Setup ######
@@ -43,8 +41,8 @@ count = len(os.listdir('../rawData/aiEssays/')) +2 #so don't overwrite previousl
 
 #load the tokenizer and model
 model_name = "distilgpt2"
-model_name2 = "bigscience/T0pp"
-
+#model_name = "bigscience/T0pp"
+#model_name = "EleutherAI/gpt-j-6B"
 
 
 
@@ -62,18 +60,17 @@ model_name2 = "bigscience/T0pp"
 
 #loop through x texts generated
 
-for i in range loops:
+for i in range(loops):
   generator = pipeline('text-generation', model = model_name)
-  text = generator(prompt5, max_length = 200, num_return_sequences=n)
+  outputs = generator(prompt5, max_length = max_tokens, num_return_sequences=n)
 
   for x in range(n): 
     count = count + 1
 
     #configure the model to sample responses. see https://huggingface.co/docs/transformers/generation_strategies
-    outputs = model.generate(encoded_prompt5, do_sample=True, max_new_tokens = max_tokens) #penatly_alpha = 0.6, top_k = 4  #save the encoded generated text as output
-    text = tokenizer.batch_decode(outputs, skip_special_tokens=True) #decode the generated text so it is now text.
+    text = outputs[x]["generated_text"] #decode the generated text so it is now text.
     #save the text with a name including the essay id, model, and count
-    with open(f'../rawData/aiEssays/eid{essay_id}_{model}_{count}.txt', 'w') as f: 
+    with open(f'../rawData/aiEssays/eid{essay_id}_{model_name}_{count}.txt', 'w') as f: 
         f.write(text)
 
 
