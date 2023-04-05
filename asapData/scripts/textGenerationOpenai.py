@@ -39,6 +39,7 @@ n = 30 #number of essays to generate in single API call
 
 count = 0 #provide count number as text id to save
 count = len(os.listdir('../rawData/aiEssays/')) +2 #so don't overwrite previously generated text
+
 # Generating Essays #######
 #loop through i API calls
 
