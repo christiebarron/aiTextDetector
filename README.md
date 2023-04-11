@@ -23,3 +23,5 @@ The goal of this project is to develop a basic filter model as part of a larger 
 - archive: contains files that are no longer relevant. 
 
 - templates: contains highly-performing and highly-rated example templates *not written by us* designed for 1) automated *scoring* of the ASAP student response data and 2) to identify machine-generated text using a different dataset. These files were just used for idea generation.
+
+- text_analyzer: contains preliminary code for creating an application that can process text and classify it as AI-generated or human-written.
