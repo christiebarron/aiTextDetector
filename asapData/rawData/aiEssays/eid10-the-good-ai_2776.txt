@@ -1,0 +1,12 @@
+Golden Ratio
+The Golden Ratio, also known as the divine proportion, is a mathematical concept that has been used in art and design for centuries. It is a ratio of two quantities where the ratio of the smaller quantity to the larger quantity is equal to the ratio of the larger quantity to their sum. The value of this ratio is approximately 1.61803398875, which is an irrational number that goes on infinitely without repeating.
+The Golden Ratio has been observed in nature and can be seen in various forms such as spiral shells, flower petals, and even human anatomy. This has led many people to believe that it holds some sort of mystical or spiritual significance. However, its importance lies mainly in its aesthetic appeal and its ability to create visually pleasing compositions.
+One of the most famous examples of the use of the Golden Ratio in art is Leonardo da Vinci's painting "The Last Supper." The composition of this painting follows the principles of the Golden Ratio with Jesus at its center point. The proportions are so precise that they have been studied extensively by mathematicians and art historians alike.
+Another example can be seen in architecture with buildings such as Notre Dame Cathedral and The Parthenon following this principle. In fact, many architects still use this concept today when designing structures.
+The use of the Golden Ratio extends beyond just art and architecture though; it can also be found in music theory. Composers such as Mozart and Beethoven have used this ratio when composing their works by dividing musical phrases into sections based on this proportion.
+Despite being a mathematical concept, there are debates about whether or not it should be considered a true scientific principle. Some argue that it lacks empirical evidence while others believe that its prevalence in nature proves its validity.
+Regardless of these debates, there is no denying that the Golden Ratio has had a significant impact on various fields throughout history. Its aesthetic appeal continues to inspire artists today while mathematicians continue to study its properties.
+References:
+Livio, M. (2002). The Golden Ratio: The Story of Phi, the World's Most Astonishing Number. Broadway Books.
+Markowsky, G. (1992). Misconceptions about the Golden Ratio. College Mathematics Journal, 23(1), 2-19.
+Priest, G. (2013). The Golden Ratio: A Mathematical Odyssey. Princeton University Press.

@@ -1,0 +1,20 @@
+Archimedes Theory of a Circle Abcd and a Triangle K
+Archimedes was a Greek mathematician, physicist, and engineer who lived in the third century BC. He is known for his contributions to mathematics, including his theory of a circle ABCD and a triangle K. Archimedes’ theory of circles and triangles has been studied by mathematicians for centuries and is still relevant today.
+Archimedes’ theory of circles involves the relationship between the circumference of a circle and its diameter. He proved that the ratio of the circumference to the diameter is always constant, regardless of the size of the circle. This constant ratio is known as pi (π), which is approximately equal to 3.14159.
+Archimedes’ theory of circles can be demonstrated using a simple experiment. Take a piece of string and wrap it around a circular object such as a plate or cup. Mark where the string meets itself, then measure the length of string between those two points with a ruler or tape measure. This measurement will be approximately equal to the circumference of the circle.
+Next, measure across the widest part of the circular object with your ruler or tape measure. This measurement will be approximately equal to twice the radius (the distance from center to edge) or one diameter (the distance across). Divide your circumference measurement by your diameter measurement, and you should get an answer close to pi.
+Archimedes’ theory also applies to other shapes that can be inscribed within circles, such as triangles. Archimedes discovered that if you inscribe an equilateral triangle within a circle so that each vertex touches its edge, then you can find pi by dividing three times the length of one side by its perimeter.
+To understand this concept better, let us consider an example: Let ABCD be any quadrilateral inscribed in any given circle with center O as shown below:
+[Insert image]
+Let EFGH be another quadrilateral circumscribing this same given circle with center O as shown
+Let K be the equilateral triangle inscribed in the circle with center O as shown.
+We can prove that the area of quadrilateral ABCD is equal to the sum of areas of triangles AOB, BOC, COD and DOA. Similarly, we can prove that the area of quadrilateral EFGH is equal to the sum of areas of triangles EOG, GOH, HOF and FEO.
+Now let us consider a circle with radius r. The circumference of this circle is 2πr. We can inscribe an equilateral triangle within this circle so that each vertex touches its edge. The length of one side (s) of this triangle will be equal to 2r multiplied by sin(60°), which is approximately 1.732r.
+The perimeter (P) of this triangle will be three times its side length: P = 3s = 5.196r.
+Using Archimedes’ formula for finding pi from an inscribed equilateral triangle, we can divide three times the length of one side by its perimeter: π ≈ (3 × 1.732r) ÷ (5.196r) = 1.732 ÷ 1.732 ≈ 3.14159.
+Archimedes’ theory has been used in many fields over time including engineering and physics to calculate measurements such as volume and surface area for objects with circular shapes or parts.
+In conclusion, Archimedes’ theory on circles and triangles has been a fundamental concept in mathematics since it was first discovered over two thousand years ago. It has been used extensively in various fields such as engineering and physics to calculate measurements related to circular shapes or parts thereof.
+References
+Archimedes Biography - life, family, death, history ... (n.d.). Retrieved from https://www.notablebiographies.com/A-An/Archimedes.html
+Archimedes' Principle - Real-life applications. (n.d.). Retrieved from http://www.scienceclarified.com/A-Al/Archimedes-Principle.html
+Archimedes' Principle - The Physics Classroom. (n.d.).
