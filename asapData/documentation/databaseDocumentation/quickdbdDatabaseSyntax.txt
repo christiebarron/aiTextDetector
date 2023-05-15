@@ -1,0 +1,78 @@
+# Modify this code to update the DB schema diagram.
+# To reset the sample schema, replace everything with
+# two dots ('..' - without quotes).
+
+essay_raw
+-
+essay_id_sql PK int
+essay text
+
+
+essay_metadata
+-
+essay_id_sql int FK  - essay_raw.essay_id_sql
+essay_id int
+essay_set int
+ai_llm varchar
+ai_generated int
+
+essay_tokens
+-
+essay_id_sql int FK  - essay_raw.essay_id_sql
+word_tokens text
+setence_tokens text
+lemmatized_word_tokens text
+
+essay_features_continuous
+- 
+essay_id_sql int FK  - essay_raw.essay_id_sql
+rare_word_count int
+avg_sentence_length int	
+avg_parse_tree_depth int	
+parse_tree_depth_variation int	
+avg_adjectives_per_sentence int
+avg_adverbs_per_sentence int	
+avg_verbs_per_sentence int
+avg_nouns_per_sentence int
+flesch_reading_ease int
+flesch_kincaid_grade_level int
+smog_index int
+sentiment_polarity int
+sentiment_subjectivity int
+perplexity int
+total_word_count int	
+avg_word_length int
+TTR int
+stop_word_count int
+unique_word_count int
+
+essay_features_string
+-
+essay_id_sql int FK  - essay_raw.essay_id_sql
+word_freq text
+bigram_freq text
+trigram_freq text
+
+student_id
+-
+student_name varchar
+student_id PK varchar
+
+student_metadata
+-
+student_id varchar FK - student_id.student_id
+student_pseudonym varchar
+student_grade int
+student_teachers FK >-< teacher_id.teacher_id
+student_essays FK -< essay_raw.essay_id_sql
+
+teacher_id
+-
+teacher_name varchar
+teacher_id varchar PK
+
+teacher_metadata
+-
+teacher_id PK varchar
+teacher_grades int
+teacher_students FK >-< student_id.student_id
