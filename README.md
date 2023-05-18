@@ -18,7 +18,7 @@ The goal of this project is to develop a basic filter model as part of a larger 
     - primary/output: contains all figures, tables, and other output from analyses.
     - primary/documentation: contains documentation for the NLP pipeline.
     
-- projectPlanning: contains documents related to project management and planning.
+- projectPlanning: contains documents related to project management and planning. In particular, it has project proposals.
      
 - archive: contains files that are no longer relevant. 
 
