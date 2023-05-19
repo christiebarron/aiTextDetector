@@ -29,4 +29,6 @@ Loading was accomplished by using QuickDBD to develop entity relationship diagra
 
 ![Figure 1](https://github.com/christiebarron/aiTextDetector/blob/main/primary/Project2DatabaseDocumentation/Final%20Draft%20ERD.png)
 
-Subsequently, SQL was used to create the table schemata and load the data onto the Render database. 
+Subsequently, SQL was used to create the table schemata and load the data onto the Render database. Figure 2 provides an example of the SQL query and response. In this example, the essay id variable is used to link two tables to acquire both the essay text and the essay features extracted through the NLP pipeline.
+
+![Figure2](https://github.com/christiebarron/aiTextDetector/blob/main/primary/output/7bQueries.png)
