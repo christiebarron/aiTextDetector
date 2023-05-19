@@ -1,6 +1,6 @@
 # Project 2 Report
 
-For Project 2, we applied the extraction, transformation, and loading (ETLT) process to the processing of AI-generated and human-written essay data. We extracted additional text data through web scraping, transformed the data using Python, developed a back-end SQL database infrastructure in Render to load the data.
+For Project 2, we applied the extraction, transformation, and loading (ETL) process to the processing of AI-generated and human-written essay data. We extracted additional text data through web scraping, transformed the data using Python, developed a back-end SQL database infrastructure in Render to load the data.
 
 ### Extraction
 
