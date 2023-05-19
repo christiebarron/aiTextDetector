@@ -25,7 +25,7 @@ Python scripts were used to transform the scraped essays into a format suitable 
 
 ### Loading
 
-Loading was accomplished by using QuickDBD to develop entity relationship diagrams between the 10 tables with sample essays and mock additional data. Figure 1 provides a depiction of the final ERD:
+Loading was accomplished by using QuickDBD to develop entity relationship diagrams between the 10 tables with sample essays and mock additional data. See the [databaseDocumentation](https://github.com/christiebarron/aiTextDetector/tree/main/primary/Project2DatabaseDocumentation) folder for additional information. Figure 1 provides a depiction of the final ERD:
 
 ![Figure 1](https://github.com/christiebarron/aiTextDetector/blob/main/primary/Project2DatabaseDocumentation/Final%20Draft%20ERD.png)
 
