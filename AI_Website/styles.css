@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 50px;
+}
+
+.apple {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

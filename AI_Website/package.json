@@ -1,0 +1,11 @@
+{
+  "name": "ai_website",
+  "version": "1.0.0",
+  "description": "this is a website to showcase the results for the students in our database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
