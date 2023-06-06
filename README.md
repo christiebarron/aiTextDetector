@@ -8,6 +8,9 @@ application that identifies AI-generated written text.
 
 The results of this project will be used to develop a basic filter model as part of a larger NLP pipeline for the automated scoring of student essays.
 
+## Project 3: Full-stack Data Visualization Web Application
+Project 3 invovled developing a data visualization web application. 
+
 ## Project 2: Extract, Transform and Load
 
 Project 2 involved 1) data extraction through web scraping and data-generation with [Mockaroo](https://www.mockaroo.com/), 2) data transformation using Python, and 3) data loading using [QuickDBD](https://www.quickdatabasediagrams.com/) and [Render](https://render.com/) with subsequent SQL queries. 
