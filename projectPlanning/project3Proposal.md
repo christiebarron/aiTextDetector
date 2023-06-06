@@ -4,7 +4,7 @@ We propose creating a full-stack data visualization web application using a comb
 
 This project will include three different dashboard pages. The first two involve a server that performs multiple manipulations on data in a database prior to visualization. The final is a dashboard page with multiple charts that update from the same data.
 
-### 1. Text-input AI text detection: 
+### 1. Text-input AI text detection
 
 A text-input dashboard in which anyone can input written text and our app will provide a dashboard depicting the likelihood it was AI-generated.
 
@@ -12,7 +12,7 @@ A text-input dashboard in which anyone can input written text and our app will p
 
 ### 2. Text-input Writing scoring
 
-A text-input dashboard coinciding with a report card. Anyone can input human-written text and our app will provide a dashboard and feedback on the quality of the writing. 
+A text-input feedback dashboard similar to a report card. Anyone can input human-written text and our app will provide a dashboard and feedback on the quality of the writing. 
 
 - User-driven interaction: textbox with an event listener.
 
