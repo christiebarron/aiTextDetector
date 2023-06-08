@@ -3,12 +3,32 @@
 ## Introduction
 
 This repository contains a project to 1) develop an application that will 
-use a large language model to automatically write text and 2) an 
+use a large language model to for automated text generation and 2) an 
 application that identifies AI-generated written text. 
 
-The goal of this project is to develop a basic filter model as part of a larger NLP pipeline for the automated scoring of student essays.
+The results of this project will be used to develop a basic filter model as part of a larger NLP pipeline for the automated scoring of student essays.
 
-## Folder structure
+## Project 3: Full-stack Data Visualization Web Application
+Project 3 invovled developing a data visualization web application. 
+
+## Project 2: Extract, Transform and Load
+
+Project 2 involved 1) data extraction through web scraping and data-generation with [Mockaroo](https://www.mockaroo.com/), 2) data transformation using Python, and 3) data loading using [QuickDBD](https://www.quickdatabasediagrams.com/) and [Render](https://render.com/) with subsequent SQL queries. 
+
+Key folders/files for Project 2 include:
+
+- [Project 2 Proposal](https://github.com/christiebarron/aiTextDetector/blob/main/projectPlanning/project2Proposal.md): the proposal for using ETL within this aiTextDetect project.
+
+- [Project 2 Report](https://github.com/christiebarron/aiTextDetector/blob/main/projectPlanning/project2Report.md): the final report written upon completion of Project 2.
+
+- [Project 2 Database Documentation](https://github.com/christiebarron/aiTextDetector/tree/main/primary/Project2DatabaseDocumentation): Documentation of the Render SQL database, including an entity relationship diagram.
+
+- [Project 1 and 2 Scripts](https://github.com/christiebarron/aiTextDetector/tree/main/primary/scripts): python, jupyter notebook, and SQL syntax used to scrape and wrangle the data. 
+
+- [rawData](https://github.com/christiebarron/aiTextDetector/tree/main/primary/rawData): Data scraped from the web or generated with Mockaroo.
+
+
+## Repository Folder structure
 
 - primary: contains all of the code and data we are using for the NLP pipeline. Refer to this to see all work completed for project 1 and project 2.
 

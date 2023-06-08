@@ -24,10 +24,12 @@ A text-input feedback dashboard similar to a report card. Anyone can input human
     - [Word Cloud with D3 cloud](https://github.com/jasondavies/d3-cloud) and associated [horizontal bar chart](https://d3-graph-gallery.com/graph/barplot_horizontal.html) of most common words.
     - performance on features compared to the average student (in ASAP dataset perhaps?)
 
+
 ### 3. Teacher (Summary) Dashboard
 A teacher dashboard depicting the writing characteristics of 100 different students whose writing has already been analyzed. These interactive graphs will mirror our work in project 1. 
 
 - User-driven interaction: drop down selecting different a) students and b) features.
+
 
 - Proposed visualizations for all data together:
     - histogram or pointplot summarizing all 100 essays in single graph (across all modalities)
@@ -38,4 +40,6 @@ A teacher dashboard depicting the writing characteristics of 100 different stude
 - Proposed visualizations for individual student scores:
     - Top and bottom 10 performers (writing score).
     - Top 10 essays potentially AI? (or alternatively, essays that are above cutoff?)
+
+
 

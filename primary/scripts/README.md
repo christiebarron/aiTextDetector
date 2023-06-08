@@ -19,3 +19,7 @@ These scripts form a pipeline and are intended to be run in a consecutive order.
 - 5: scripts used to conduct exploratory data analysis and data visualization of the extracted features.
 
 - 6: a script used to transform data for project 2.
+
+- 7: scripts related to the databases on Render
+    - 7a: the SQL script depicting the table schema.
+    - 7b: the SQL script used to run queries

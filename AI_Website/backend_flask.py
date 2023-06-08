@@ -67,6 +67,7 @@ if __name__ == '__main__':
     db.create_all()
     app.run(debug=True)
 
+
 @app.route('/teacherDashboard', methods = ['POST'])
 def teacher_dashboard():
     #USE SQLALCHEMY TO ACCESS THE DATABASE
@@ -117,3 +118,5 @@ def teacher_dashboard():
 
     #push to API
     #use that dataframe in javascript code.
+
+
