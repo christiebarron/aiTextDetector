@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    if request.method == 'POST':
+    if request.method == 'GET':
         input_text = request.form['input_text']
         processed_text = text_features.text_preprocessing(input_text)
         results = {
