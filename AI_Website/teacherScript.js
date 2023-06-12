@@ -3,7 +3,7 @@
 
 //READ AND PROCESS THE STUDENT METADATA
 let studentData = "../project3.json";
-console.log(studentData);
+
 
 
 //STEP 1
@@ -14,32 +14,52 @@ function init() {
       //console.log(data); //works
 
       let studentArray = []
-  
-      //extract names
+      let dict_test = {}
+    
+        //extract names
 
       for (let index = 0; index < data.length; index++){
+          
         let studentName = data[index]["student_name"];
         studentArray.push(studentName)
+        
         console.log(studentName)
-      }
+
+//       dict_test["student"] = studentName
+//       dict[]
+//  = 
+//       Two lists 
+//       in a dictionary = {"student_name": [],
+//               "Essay_Length":[]}
+
+
+       }
 
       console.log(studentArray)
   
       //create drop-down menu
       let namesSelect = d3.select("#selDataset");
   
-      //for loop
-      for (let index = 0; index < sampleNames.length; index++) {
+      //append the student name to the drop-down
+      for (let index = 0; index < studentArray.length; index++) {
         const element = studentArray[index];
   
-        // Append the text id, add a property to it.
+        // Append the text id, add a property to it. (WHAT IS THIS DOING?)
         namesSelect.append("option").text(element).property("value", element);
       }
-      buildCharts(sampleNames[0]);
-    });
-  }
-  
-  init ()
+      
+      //buildTable(studentArray)
+      //buildCharts(sampleNames[0]);
+    }
+)}  
+
+// function buildTable(array);
+
+//   var myTable = d3.select('#table')
+//   myTable.append("tr")
+//   myTable.append("td").html(`<h1>${array[1]}</h1>`)
+
+init ()
   
   //step 2: build charts
   function buildCharts(id) {
@@ -49,7 +69,7 @@ function init() {
     d3.json(studentData).then(function (data) {
   
       //extract metadata
-      let metadata = ;
+      //let metadata = ;
       //extract samples
       let samples = data.samples;
   
@@ -61,7 +81,7 @@ function init() {
       metadataPanel.html("")
       
       //select relevant id sample. use arrow function to loop through all ids and select the id that matches.
-      let sampleMetadata = metadata.filter(o => o.id == id)[0]
+      let sampleMetadata = metadata.filter(o => o.student_id == student_id)[0]
   
       console.log(sampleMetadata) //works!
   
@@ -78,7 +98,7 @@ function init() {
       let horizontalBarChart = d3.select("#bar")
   
       //select relevant id data. use arrow function to loop through all ids and select first id that matches
-      let idBarData = samples.filter(object => object.id == id)[0]
+      let idBarData = samples.filter(object => object.student_id == student_id)[0]
   
       //acquire relevant data for bar graph
       let otu_labels = idBarData.otu_labels;
