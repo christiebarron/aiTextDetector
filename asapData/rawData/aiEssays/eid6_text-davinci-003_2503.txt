@@ -1,9 +1,0 @@
-
-
-The Empire State Building was a revolutionary structure when it was completed in 1931. The engineers decided to install a unique feature—they included a large mooring mast, which made the building the only skyscraper with a built-in docking port for dirigibles. This allowed the building to become even more iconic, but the engineers faced many obstacles to making the mooring mast a reality.
-
-The first obstacle the engineers had to contend with was the size of the mast. The design of the building wouldn’t allow a large metal mast to be installed on the roof, so the engineers had to develop an innovative way to anchor the mast securely into the building. To achieve this, they designed an intricate system of guy wires that could support the weight of a dirigible. The wires were connected to reinforced concrete anchors which were placed throughout the building’s lower floors. Additionally, the engineers came up with a new way of attaching the mast to the building’s exterior, using steel brackets instead of metal screws. 
-
-Another challenge that the engineers had to overcome was constructing the mast itself. Since it was made of steel and weighed approximately 25 tons, it had to be constructed in sections and then transported to the building on trucks. The engineers had to figure out how to get the pieces onto the 81st floor of the building, since the conventional cranes of the time could only reach the 40th floor. To solve this problem, they designed a special hanging platform that could be used to lift the sections into position. 
-
-Finally, installing a dirigible port also presented several technical problems. Since

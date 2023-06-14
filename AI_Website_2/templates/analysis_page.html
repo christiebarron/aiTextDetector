@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analysis Page</title>
+    <link rel="stylesheet" type="text/css" href="/static/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <h1>Analysis Page</h1>
+    <label for="teacher">Select a teacher:</label>
+    <select id="teacher" onchange="loadData()">
+        <!-- Options will be filled by JavaScript -->
+    </select>
+
+    <div id="students">
+        <h2>Students</h2>
+        <!-- Student names will be filled by JavaScript -->
+    </div>
+
+    <div id="classData">
+        <h2>Class Data</h2>
+        <!-- d3.js visualization will be added here -->
+    </div>
+
+    <script src="/static/analysis_page.js"></script>
+</body>
+</html>

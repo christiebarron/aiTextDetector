@@ -1,0 +1,9 @@
+
+
+The Empire State Building is an iconic landmark of New York City and was one of the first skyscrapers to feature a dirigible dock for docking airships in the 1930s. However, the task of constructing a mooring mast that was suitable for dirigibles to dock with posed considerable engineering and construction challenges. In the book “The Mooring Mast” by Marcia Amidon Lüsted, we gain valuable insight into the various obstacles faced by the builders of the Empire State Building. 
+
+The first challenge faced by the engineers and workers was the selection of a suitable mast material. It had to be strong enough to withstand strong winds, yet flexible enough to bend without breaking. The team eventually settled on a special type of steel called manganese-molybdenum alloy. This metal was light, malleable, yet able to withstand severe weather conditions and remain firmly rooted in place. The base for the mooring mast was built with a hot mix of steel and concrete. This provided a strong platform that was capable of bearing the weight of the mast and any docked airships.
+
+The next challenge was the wind shear. Wind shear is the change in wind speed and direction over a short distance or period of time and can be particularly hazardous to aircrafts. To counteract this problem, the engineers designed an intricate system of cables and poles that could be adjusted in accordance with prevailing winds. This allowed airships to remain secured even in strong winds, while also giving them the freedom of upward and downward travel.
+
+Additional challenges included constructing a functional docking platform and dev

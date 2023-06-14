@@ -1,9 +1,0 @@
-
-
-The iconic Empire State Building in New York City stands as a testament to the engineering ingenuity of its builders. However, the challenges they faced in designing the building to allow dirigibles to dock were immense. In “The Mooring Mast” by Marcia Amidon Lüsted, the unique risks and obstacles associated with engineering such a project are described in detail.
-
-One major challenge the builders of the Empire State Building encountered was the featurous complexity of the navigational system necessary for guiding dirigibles to a safe landing and mooring. Given the size, weight, and wind dynamics of the vessels, dirigibles had to be navigated precisely and virtually on a straight line in order to land on the Empire State Building mast and moor accordingly. The navigational system needed to be highly accurate, and further complicated by the changing wind conditions that could alter the course of an incoming dirigible and had to be accounted for.
-
-A second major obstacle engineers needed to address was the mooring tower for dirigibles, which had to safely secure vessels weighing thousands of pounds and ensure stability in the presence of wind shear and turbulence. To solve this problem, the builders of the Empire State Building had to construct a tower that could provide a sufficient anchorage while still allowing the vessels to maintain their lift capacity and remain in level flight. Additionally, a system of pulleys and shock absorbers needed to be constructed to ensure that the mooring tower could safely house dirigibles in the presence of high winds and turbulence.
-
-Finally, the technical expertise needed to operate the mooring mast

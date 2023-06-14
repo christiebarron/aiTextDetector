@@ -1,9 +1,0 @@
-
-
-The Empire State Building has been an iconic architectural masterpiece for New York City since its opening in 1931. One of the most impressive features of this building was its plan to allow dirigibles to dock at the 86th floor. This engineering feat was a source of fascination to many, and achieving it was an immense challenge.
-
-The very height of the building posed a significant obstacle. Because the building was so tall, conditions at the top were very windy, making maneuvering a dirigible difficult. Gusts up to sixty miles per hour created a turbulent environment at the mooring mast. Additionally, the heavy winds and thermal currents were so rugged that it could be difficult for a dirigible to remain level when the process of mooring began. Depending on the size and weight of the dirigible, the winds could be so strong that the craft could not secure a good angle, or gain enough power, to dock successfully.
-
-The technical challenges involved in rigging the mooring mast proved to be another obstacle. The engineers had to ensure the mast could firmly hold the cable that would be used to tether the dirigible while docked. Any sudden changes in wind direction could cause the cable to snap and the aircraft to become unbalanced. As multiple dirigibles visited the Empire State Building, the all-important cable had to be checked and replaced regularly, a task that required tremendous precision, expertise, and resources.
-
-Designing the system for connecting the dirigible and the mast was also a challenge. While many different configurations were tested, including a hook and slot assembly and releases, none proved strong enough to

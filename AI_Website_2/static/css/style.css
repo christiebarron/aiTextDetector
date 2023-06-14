@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#chart {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+#dropdown {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#select-parameter {
+    padding: 5px;
+    font-size: 16px;
+}

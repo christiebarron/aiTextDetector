@@ -1,9 +1,0 @@
-
-
-The Empire State Building, once complete, stood as a formidable piece of architecture in the heart of New York City. Its record-breaking height and majestic presence are what many consider to be some of its defining features, but one less spoken of is its attempt to be the first skyscraper to permit dirigibles to dock.
-
-When the idea of allowing dirigibles to dock at the Empire State Building was first proposed, it presented a number of engineering obstacles that needed to be addressed. The first was the actual structure of the Empire State building itself. Its steel superstructure, while strong and reliable, was not made to withstand the extra strain of an airship docking, or the strain on internal supports during airship take-off and landing. In addition, the winds encountered at the building’s upper floors could complicate a landing as well. A comprehensive wind study needed to be conducted, and railings and other safety features added to the buildings structure.
-
-The second obstacle looming for the engineers to tackle was the building’s location. The Empire State Building is situated right in the center of a crowded metropolis, one dealing with smog, exhaust, and fuel emissions. These pollutants were of particular concern because of the combustible nature of airships and their propensity to catch fire. As such, engineers were tasked with designing a system that either filtered these pollutants otherwise managed its levels.
-
-A third issue was what to do with the dirigible passengers once they’d docked. The notion of building a special terminal most likely could not be approved. Therefore, the engineers had to come up with

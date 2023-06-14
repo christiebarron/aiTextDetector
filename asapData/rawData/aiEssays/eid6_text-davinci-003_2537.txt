@@ -1,9 +1,0 @@
-
-
-When the Empire State Building was built in 1931, one of its most novel features was the 200-foot mooring mast at the top, designed to allow dirigibles, or airships, to dock. However, allowing dirigibles to dock posed a unique set of obstacles.
-
-The first challenge was the sheer height of the mooring mast and the difficulties of accurately navigating a large, relatively slow-moving dirigible up to that height. Dirigibles were typically much larger than airplanes, and their pilots had to be careful to keep the vessel steady and avoid getting pushed by the wind during its approach. A missed approach could potentially be disastrous, as evidenced by the destruction caused when the Hindenburg accidently scraped against the mooring mast during its approach in 1937.
-
-In addition to the challenges of navigating a large dirigible up to the mooring mast, there were also safety issues to consider. Dirigibles were filled with extremely flammable hydrogen, and a collision between a dirigible and the mooring mast could easily cause a spark, igniting the entire vessel. To minimize this risk, the Empire State Building commissioned special automatic winches to quickly and safely lower the dirigible down in the event of an emergency.
-
-Finally, docking a dirigible presented unique challenges related to the mooring mast itself. The mast had to be sturdy enough to withstand the strain of attaching the vessel, yet lightweight enough to avoid causing the building to become unstable. To resolve this issue, the engineers at Starrett Bros. and Eken used a combination of lightweight steel and concrete instead
