@@ -16,10 +16,6 @@
     margin-bottom: 10px;
     padding: 5px;
   }
-  .apple-cursor {
-    cursor: url("/static/css/mouse_cursor.png"), auto;
-  }
-  
   
   button {
     background-color: #4CAF50;

@@ -1,6 +1,6 @@
 document.getElementById("login-form").addEventListener("submit", function(event) {
   event.preventDefault();
-  
+
   var username = document.getElementById("username").value;
   var password = document.getElementById("password").value;
 
@@ -11,7 +11,7 @@ document.getElementById("login-form").addEventListener("submit", function(event)
     if (xhr.readyState === XMLHttpRequest.DONE) {
       if (xhr.status === 200) {
         // Login successful, redirect to analysis_page.html
-        window.location.href = "/analysis_page";
+        window.location.href = "/dashboard";
       } else {
         // Login failed, display error message
         var response = JSON.parse(xhr.responseText);
@@ -22,10 +22,5 @@ document.getElementById("login-form").addEventListener("submit", function(event)
 
   var data = JSON.stringify({ "username": username, "password": password });
   xhr.send(data);
-})
-document.getElementById("")
+});
 
-
-
-
-;
