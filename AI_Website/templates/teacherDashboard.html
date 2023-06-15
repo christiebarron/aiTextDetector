@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dropdown Events</title>
+
+   <!-- <script src="project3.js"></script> -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- load plotly  -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- load teacher wrangle javascript -->
+    <!-- <script src="../test.js"></script> -->
+    <script src="../teacherScript.js"></script>
+
+</head>
+
+
+
+<body>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>Individual Students' Essays</h1>
+          <p>Use the drop-down menus to see the full essays written by each student.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2">
+          <div class="well"> 
+            <h3>Name and Essay Selection:</h3>
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+            <select id="selEssay" onchange="option2Changed(this.value)"></select>
+          </div>
+          </div>
+        </div>
+        </div>
+        <div class = col-md-5></div>
+          <div></div>
+          <p>
+             </p>
+        <div class = col-md-5></div>
+             <h3> Student Essay: </h3>
+          <div id = "studentEssayToPrint"></div>
+          <p> </p>
+        <!-- <div class="col-md-5">
+          <div id="bar"></div>
+        </div>
+        <div class="col-md-5">
+          <div id="gauge"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div id="bubble"></div>
+        </div>
+      </div> -->
+      <div class="row">
+        <div class="col-md-12">
+          <div id="table"></div>
+        </div>
+      </div>
+    </div>
+  
+
+
+
+    <!-- load d3 -->
+
+    
+  </body>
+  
+  </html>
+  
