@@ -3,6 +3,31 @@
 //READ AND PROCESS THE STUDENT METADATA
 let studentData = "../project3.json";
 
+
+function essayPrint(id2, essay2){
+  console.log(indivStudent.filter(o => o.student_name == id2 ))
+  console.log(essay2)//indivStudent[id2]["essay"])
+  var headingElement = document.getElementById("studentEssayToPrint")
+  headingElement.textContent = essay2 // indivStudent[id2]["essay"]
+}
+
+//loop over and key-value pair.
+
+
+//step 3: option change
+
+function optionChanged(id){
+  //buildCharts(id)
+  intialProcess(id)
+  console.log(id)
+}
+
+function option2Changed (id2){
+  essayPrint(id2)
+}
+
+
+
 //STEP 1
 function intialProcess(id) {
     //get data
@@ -50,39 +75,20 @@ function intialProcess(id) {
         // Append the text id, add a property to it. (WHAT IS THIS DOING?)
         essaySelect.append("option").text(element1).property("value", element1)
       }
-
+      essayPrint(id, essay)
       //let essayPrint = indivStudent.filter(o => o.essay_set == element1)
     }
   )
 }  
 
 
-intialProcess ()
+
+
+
+
+intialProcess ('Leora Roakes')
 // essayPrint(id2)
 // optionChanged(id)
 // option2Changed(id2)
-
-  function essayPrint(id2){
-    console.log(indivStudent.filter(o => o.student_name == id2 ))
-    console.log(indivStudent[id2]["essay"])
-    var headingElement = document.getElementById("studentEssayToPrint")
-    headingElement.textContent = indivStudent[id2]["essay"]
-  }
-  
-  //loop over and key-value pair.
-  
-  
-  //step 3: option change
-  
-  function optionChanged(id){
-    //buildCharts(id)
-    intialProcess(id)
-    console.log(id)
-  }
-
-  function option2Changed (id2){
-    essayPrint(id2)
-  }
-
 
   
