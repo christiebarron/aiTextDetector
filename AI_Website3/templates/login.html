@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Login</h1>
+    <form id="login-form" action="/login" method="POST">
+      <input type="text" id="username" name="username" placeholder="Username">
+      <input type="password" id="password" name="password" placeholder="Password">
+      <button type="submit">Login</button>
+      <button onclick="window.location.href='/register'">New User</button>
+      <button onclick="window.location.href='/surprise'">Click Me!</button>
+
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

@@ -10,6 +10,7 @@ The results of this project will be used to develop a basic filter model as part
 
 ## Project 3: Full-stack Data Visualization Web Application
 Project 3 invovled developing a data visualization web application. 
+Please refer to AIWebsite3 for the final version of project 3.
 
 ## Project 2: Extract, Transform and Load
 

@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-image: url("/static/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#chart {
+    width: 1100px;
+    height: 450px;
+    margin: 0 auto;
+    float: right; /* Add this line to push the chart to the right */
+    opacity: 0.8;
+}
+.dropdown-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#dropdown-essay-set,
+#dropdown-parameter {
+    flex: 1;
+}
+
+#dropdown-essay-set select,
+#dropdown-parameter select {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.sidebar {
+    width: 225px;
+    /* background-color: #383838; */
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    background-color: rgba(39, 39, 39, 0.8);
+}
+.sidebar-item label {
+    color: white; /* Set the text color to white */
+}
+
+.sidebar-item {
+    margin-bottom: 10px;
+}
+
+.main-content {
+    margin-left: 220px; /* Adjust the value to leave space for the sidebar */
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #383838;
+}
+
+#glossary-button {
+    margin-top: 10px;
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Add custom styles here */
+    </style>
+</head>
+
+<body>
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-expand-md navbar-light navbar-dark bg-dark sticky-top">
+        <a href="https://plot.ly">
+            <div class="align-items-center no-gutters row">
+                <div class="col"><img height="30px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"></div>
+                <div class="col"><span class="ml-2 navbar-brand">Textual Detectives</span></div>
+            </div>
+        </a>
+        <div class="navbar-nav ml-auto">
+            <!-- Individual Essays Button -->
+            <a class="nav-item nav-link" href="teacherDashboard.html">
+                Individual Essays
+            </a>
+            <a class="nav-item nav-link" href="word_cloud.html">
+                Word Cloud
+            </a>
+            <!-- Add more buttons as needed -->
+        </div>
+    </nav>
+    <!--essay-set-->
+    <div class="sidebar">
+        <div class="sidebar-item">
+            <label for="select-essay-set">Select Essay Set:</label>
+            <select id="select-essay-set">
+                <option value="1">Essay Set 1</option>
+                <option value="2">Essay Set 2</option>
+                <option value="3">Essay Set 3</option>
+                <option value="4">Essay Set 4</option>
+                <option value="5">Essay Set 5</option>
+                <option value="6">Essay Set 6</option>
+                <option value="7">Essay Set 7</option>
+                <option value="8">Essay Set 8</option>
+            </select>
+        </div>
+       
+        <div class="sidebar-item">
+            <label for="select-parameter">Select Parameter:</label>
+            <select id="select-parameter">
+                <option value="rare_word_count">Rare Word Count</option>
+                <option value="stop_word_count">Stop Word Count</option>
+                <option value="avg_word_length">Average Word Length</option>
+                <option value="avg_sentence_length">Average Sentence Length</option>
+                <option value="sentiment_polarity">Sentiment Polarity</option>
+                <option value="flesch_kincaid_grade_level">Flesch-Kincaid grade level</option>
+                <option value="TTR">TTR (Type-Token Ratio)</option>
+                <option value="smog_index">SMOG Index</option>
+                <!-- Add more options based on available parameters -->
+            </select>
+        </div> 
+        <div class="sidebar-item">
+            <label for="select-chart-type">Select Chart Type:</label>
+            <select id="select-chart-type">
+                <option value="bar">Bar Chart</option>
+                <option value="line">Line Chart</option>
+                <!-- <option value="scatter">Scatter Plot</option> -->
+                <!-- Add more options for different chart types -->
+            </select>
+        </div>   
+    </div>
+    
+    <!-- Main content area -->
+    <div class="container-fluid">
+        <h1 style="margin-top: 60px;color: white;">Comparative Dashboard</h1>
+        <div id="chart"></div>
+        <!-- Glossary Modal -->
+        <div id="glossary-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>Glossary</h2>
+                <ul id="glossary-list">
+                <!-- Glossary terms will be dynamically added here -->
+                </ul>
+            </div>
+        </div>
+
+         
+        <!-- Chart containers -->
+        <div id="bar-chart"></div>
+        <div id="line-chart"></div>
+        <div id="scatter-plot"></div>
+        <div id="pie-chart"></div>
+        <div id="heatmap"></div>
+        <!-- Glossary Button -->
+        <button id="glossary-button">Glossary</button>
+
+        
+        <!-- Teaser Trailer -->
+        <div id="teaser-trailer" style="margin-top: 600px;">
+            <h2 style="color: white;">Project - 4: Coming Soon!</h2>
+            <p style="color: white;">Explore our Live App and detect if an essay is AI-generated or human-written.</p>
+            <a href="/live_app" class="btn btn-primary">Try it now!</a>
+        </div>
+
+        
+
+    </div>
+
+    <!-- JavaScript code -->
+    <script src="{{ url_for('static', filename='js/script_data.js') }}"></script>
+</body>
+
+</html>
