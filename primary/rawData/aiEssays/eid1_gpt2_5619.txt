@@ -1,0 +1,13 @@
+Computers have many effects on people. Even if your computer has just 3 or 4 computers, you need 10. This may cause a lot of problems, and you should take this into consideration when evaluating your own systems.
+
+Let's look at several other factors that could affect your computer.
+
+Your hardware
+
+If you install the Macromedia Flash Player on a computer that has an SSD, your computer will be much faster. It may also have higher performance. This can be done from a graphical session by running the following command and clicking on the program button in the upper right hand corner of the screen, while holding down the Option button. The option might be called "Fade in & out."
+
+1. Download the Macromedia Flash Player. When you do this, choose the program that you are trying to save to and drag the folder with the downloaded version into the browser. Do not use the extension as the Flash Player may not work if you have the Macromedia Flash Player installed.
+
+2. Click the "Copy from Flash Player" button. You can also have both Macromedia Flash Player and the program selected in the options dialog if your computer has both.
+
+Your computer will start. When you launch the Macromedia Flash Player, you see three options that will allow you to save a PDF file in the Flash Player. Click the "Download File" button cooling your computer down by using the "Save File" button to open

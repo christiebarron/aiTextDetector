@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The setting defines the shape of the lane, the corner, the line of sight (distance), and a number of other important parameters such as 'distance' from the boundary, the speed zone, the width and depth of road as measured in meters.
+
+The set contains a wide range of numbers. This is often used to show where the cyclist is traveling or is traveling at speed (often only slightly down) or to predict where to take a run or a run off the road when going fast.
+
+The following section gives information about the set, in a simple way. It describes how it is derived from that given in the 'Rough Road Ahead' setting:
+
+'Rough Road Ahead' describes a range of numbers, including, but not limited to: 'Rough Road Ahead: 60 km/h', which means a speed of 40 km/h, 'Rough Road Ahead: 60 km/h', which means a speed of 50 km/h, and so on.
+
+Example: The following example represents a typical roundabout in the 'Parks and Recreation & Park'. It's a very short road. The speed of the bus is 40 km/h, but the distance is a metre. If the user wants to enter the street, there are two options. If either one of them is impossible, it is possible to use 'Rough

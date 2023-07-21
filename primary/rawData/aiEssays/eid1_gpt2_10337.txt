@@ -1,0 +1,13 @@
+Computers have many effects on people.
+
+It means that there's a cost to not having to maintain a system to keep all the data it needs to run smoothly. There also is a cost to having to write code in order to keep everything from crashing on an un-usable heap. At their best, libraries that do all this without needing to do anything are nice, but, at their worst, they aren't very good.
+
+So, if your library needs to Detective the entire game of Dungeons & Dragons in about 20 minutes — it's hard to avoid that — the libraries can be very useful if you spend an hour doing some "testing" on one game instead of others.
+
+But for a lot of people, these libraries don't make it to your game in a moment!
+
+I'm not talking about a few hours of playing the game of TPC — or playing it with friends to get a better understanding of what is the best way to navigate an enormous screen full of people and equipment! — but I'm talking about the time you spend with your coworkers and coworkers, your friends, and perhaps even your boss, reading or reading or watching movies, watching music, or watching anime.
+
+Your coworkers might say, "Uh that should be nice", but, "Well, no, I thought that was interesting", or, "Can you put it into a program that actually works?"
+
+My colleagues may say — "But, no way,"

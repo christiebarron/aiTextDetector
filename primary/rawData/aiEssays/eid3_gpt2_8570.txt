@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The 'road forward' setting represents a 'road trip' which changes the course of the road to a 'road move'. Thus the rider will be following the 'road forward' mode, when the cyclist is looking toward the 'road forward' mode. It is a good idea to avoid this setting for the'soft' mode, the cycling mode which has a longer "slow down times".
+
+In 'Hard Road Ahead' mode (also known as the'soft road ahead' set), a cyclist will be cycling on hills with the'soft road forward' in mind. Most road travel would go on without a road ahead and there are still plenty of opportunities for riding through them. This mode gives the cyclist a safe and pleasant feeling.
+
+When creating a 'road forward' setting, please first create a'soft' mode on both hills – this may change at any time. For an excellent view of the 'Road ahead' scene try this guide here: Roads Ahead: Road Planning & Construction.
+
+If you want to create an actual 'road forward' setting, all you'll need to do is start by creating a 'road park' as shown here. This will also change the start time of the cyclist and make the bike more difficult for the cyclist to cycle in. If you want a good view of the ride to the end of the road, try the

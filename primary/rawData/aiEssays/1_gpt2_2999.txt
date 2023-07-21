@@ -1,0 +1,27 @@
+Computers have many effects on people.
+
+Here is the full list of computer programs you will create.
+
+Computer programs for general use, including
+
+Word processor, spreadsheet, spreadsheet app
+
+Word processor for making your web application
+
+Office 365 Word application
+
+Sketching MID and SED documents
+
+In order to start creating your "programs", you will typically need:
+
+The computer that will create them. This one will probably look like "computer". The computer will probably be used for your personal projects.
+
+Who will do these?
+
+At this point it's important to know who you are, what kind of program you want and who you wish to create and what kind of system you are writing.
+
+In theory your only way to get used to the computer you have is to create them. (See the screenshot below. It was from the same day I learned it, I just have the other two copies of Windows on my computer and they are all very different.)
+
+With a computer you will be able to:
+
+Run this program in Windows, using only a single-purpose program (e.g., Word, Excel, PowerPoint, OneNote, PowerPoint Pro). It will perform two tasks: create a new text document (e.g., a Word template), and put that document into each document you select within the document, if available, as indicated in the link below; use Word to read it by

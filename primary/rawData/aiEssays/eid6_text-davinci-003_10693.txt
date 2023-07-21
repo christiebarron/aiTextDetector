@@ -1,0 +1,9 @@
+
+
+The builders of the Empire State Building faced numerous obstacles when allowing dirigibles to dock. One of the greatest challenges was the location of the building in mid-town Manhattan, surrounded by other tall skyscrapers. The mast, or docking tower, that was built atop the building to provide a landing place for the dirigibles had to be tall enough to clear these buildings. To ensure the mooring mast was of appropriate height, the builders had to determine wind speeds, as well as the size of other surrounding buildings. 
+
+The mooring mast also needed to be constructed in a way that would allow airships to maneuver and dock safely. The platform at the top of the mooring mast was designed to rotate so that the airship could be attached to the mast and then gently pulled down until it reached the ground. This required the mast to be suspended between two steel cables, but the engineers had to calculate an exact angle for the cables, in order to keep the mast upright. 
+
+Another obstacle was that of weight. The mooring mast was both tall and heavy, and it needed to be balanced so that the weight was distributed evenly. This was accomplished by attaching a weight to each side of the mast, ensuring that the weight would be evenly distributed.
+
+Finally, the engineers needed to figure out a way to keep the mooring mast stable, as the winds that buffeted the dirigibles during takeoff and landing could cause

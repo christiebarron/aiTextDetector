@@ -1,0 +1,6 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. The first thing that we noticed is that when the road is fairly flat, the more pavement, the less traction there is to give the cyclist when he wants it. Also, the smaller the space and the less space there is to provide (and the smaller the tyres or wheelbase for a bike), the less it gets to you. As soon as the road is relatively flat, there tends to become a balance between traction and weight, and a less likely balance between weight and traction.
+
+This is a common complaint among young cyclists and can be very tricky to adjust - especially when using a more compact set that is designed for shorter ride distances. In this article I am going to showdone the maths and shows how to change this on a bike that has the wheelbase of a larger model, and not the size which you are used to driving. This is very quickly changing how you handle a bike thanks to the tyre management system. I would strongly recommend you set your RTP and Wheelbase for this bike (it's not about speed either), and then you then adjust the gear ratio so the wheelbase for cycling gets more in line with the more flat terrain (again).
+
+
+Let's take a look at this one. As seen on the picture of Mark, a very narrow road at a slightly left hand turn, on a 4 wheel cassette comes in at 1cm and a bit wider.

@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. The most obvious is the 'Rough Road Ahead' in that it reduces the number of roads in a given area. It also means that more traffic does not occur in the areas in which more lanes are in use and this is why a high number of 'Rough Road Ahead' turns are used. It also means that roads used for cycling are more segregated. As a result, it is important that every cyclist on a given street must see their bike in the front of each other's sight-lines to avoid being hit by cars or pedestrians. It also means that vehicles using the 'Rough Road Ahead' turn are not likely to be on the same side of the road when turning the corner and so could result in a collision.
+
+These changes in road spacing and the number of cyclist turns in the setting also mean that there are fewer roads in the area. This means that more cars and pedestrians on a given track can cause a large variety of collisions with cyclists (but it also means that when cycling through the same spot it is a very safe way to go while driving on a large road).
+
+Rough Road Ahead: How does this different-cut setting work for people cycling for business or leisure, leisure or travelling?
+
+Somerset Bike Cycle is an open source 'Rough Road Ahead' set, designed to reduce the number of cycle-related accidents and road closures in

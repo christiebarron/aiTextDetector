@@ -1,0 +1,33 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Rough:
+
+The 'road ahead' option reduces the distance that must be traveled by cyclists from their starting point to their stoppoint.
+
+High Mile:
+
+Rough:
+
+The following table provides a summary of all the values for the rough road ahead:
+
+The average speed of cyclists who move past junctions in the rough trail is estimated to be between 90 mph and 130 mph.
+
+Trough:
+
+All cyclists will have to drive through a junction, and all cyclists will have to travel within 5 miles of their starting point.
+
+Rough speed is also a function of the number of mains and other road surfaces to which they need to run.
+
+Road surface:
+
+A road surface that can be used to provide a smooth crossing, where the cyclist does not need to travel long distances (such as a stop as a traffic cone). It is usually used as a 'road ahead' area.
+
+Tough area:
+
+A area in which the cyclist does not need to travel long distances but will need to drive through a junction, or will need to drive from a stop as a traffic cone.
+
+Road:
+
+A type of road, divided by a radius.
+
+A cyclist (usually an engine or vehicle driver) needs to run through a junction, and will need to travel as close as

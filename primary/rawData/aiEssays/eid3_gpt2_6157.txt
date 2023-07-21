@@ -1,0 +1,16 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. This page describes these settings and how they work, and how to set them. It also breaks down the options to choose from in 'Rough Road Ahead'. However, other methods apply, so check out this page to see what other options apply.
+
+Rough Road Ahead: Cycle Routes
+
+Rough Road Ahead is a tool for mapping and categorising cycle route information in a simple, yet powerful way.
+
+A cyclist knows exactly how a given lane (the cycle lane) operates as shown in the grid below, and its locations within a path can be easily identified with a simple mapping.
+
+The grid below shows the full cycle route for each lane, where the information is displayed. The map is in its original location:
+
+The following screenshot shows the same map in its place in the grid, with a different grid layout, with the green outline above the cycling lane in red instead:
+
+
+The grid in the above screenshot also shows the full cycle route for each lane that it has a green outline above, for example, Hutton Road, Vauxhall in front of Hutton University, the Croydon Junction at the junction with the Oxford Road terminus and Luton Road from Hutton Road.
+
+By contrast, in a similar technique in the grid for cycling route information, we need a grid in another area. The green outline in green area,

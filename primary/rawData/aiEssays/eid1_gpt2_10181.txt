@@ -1,0 +1,12 @@
+Computers have many effects on people. At some point you get an idea of what a hard drive looks like and it becomes useful to think how it works with it. This is what I call the Disk Driver Problem.
+
+Let's start with some basic data from each part of the disk and move through it.
+
+
+We will talk about how an SSD can make data hard to understand. As you may have guessed from the names, all disks with solid state drives have hard disks that are not "packed". This means that data can never be read using a hard drive. The drive does not have to be a hard drive to write or modify or hold, such as a microSD card or computer flash drive. It needs the disk to stay fresh and the hard drive to grow and repair. Hard drives do not have to be "packed". After data is read the data is written with the proper "hard drive" in place, if there is enough space the data must be "packed". The drive must be very, very efficient and it needs fast reads. If the data is hard the data can only be read at the proper speed at the right time. This is called the Disk Management Particle.
+
+There are many problems in the storage industry, which are described in the next section.
+
+Storage Management Particle
+
+Storage management is a good tool that allows you to manage and make changes to data. That is, to change data on a hard disk. The

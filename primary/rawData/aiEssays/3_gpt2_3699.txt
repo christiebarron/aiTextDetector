@@ -1,0 +1,13 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. Some will feel more like a 'bad trip', whilst others may feel less like a 'hard' trip.
+
+Biking with an Outlet: "Roadways are very short distances. If you're stuck in a car or a bike, you may not find much enjoyment in cycling through the city. Therefore, it will be helpful to set aDEBUG.DEBUG.1 environment variable to prevent collisions. "
+
+This setting controls what is displayed as cycling through streets at different speeds. It will also set its own behaviour. Note that although it can be disabled with some settings, some devices will automatically enable this setting if you select it via Settings. In other circumstances this will be overridden in your own settings (such as when setting up your cycling account in the App Settings - see below - for more on setting these).
+
+It is important to note that setting this'setting' will be set at startup only. By default it is set to 0. It will not affect the performance of all other settings in the App, even if you make the changes required at the end of the app.
+
+There are several other settings, and a lot more that can be found in the app's custom settings which you can check in the settings.
+
+A little background background
+
+This setting controls what is visible to users in the city or area with a location overlay, by default,

@@ -1,0 +1,15 @@
+Computers have many effects on people. If your computer is not equipped with high-density PC software (i.e., a hard drive), then a lot of things can happen:
+
+It gets clogged with files and memory (and vice versa). Hard drives (e.g., hard drives stored in hard discs), have high bandwidth and generally take up more space and are slow to get back. Hard drives with a hard drive cache are less likely to get stuck. Hard drives with an older software version that might have been created for them cannot access the files if they are still usable.
+
+Hard drives that no longer operate correctly in the operating system or in your computer's BIOS
+
+We know things you just can't see. Computer BIOSes may not have that feature but it does add new bugs, glitches, and performance issues.
+
+There are a lot of good reasons why machines running Windows are often hard to read or process. Readability may be too high for people with the right hardware and other computers. Your computer may be hard to use because its BIOS or its drivers can't be updated.
+ Invest in a software update to fix your computer's lack of functionality.
+
+Readability has a lot of drawbacks, such as not being able to quickly check your system for errors and errors that might occur without your help.
+
+
+This list of problems, as well as specific solutions, can be found in my eBook, Security and Efficiency, by Edward W.

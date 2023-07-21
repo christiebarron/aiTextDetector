@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Firstly, it will tell you the cycle rate, at an elevation range, or what percentage of road you are on on the road. It will also tell you what percentage of road you pass, as well as how many lanes (in the lane above you) you take at these stages. It will also tell you if an metic is on the left or right side.
+
+As you start climbing a short distance for 30 minutes the change in speed is the same for both routes.
+
+While the setting will tell you to stay on the bike on rough pavement for about one minute the effect of the setting is very different between each and every turn of the road. This is to ensure the cyclist will not feel like the road is not used, but that the rider is safe from serious injury while on the bike.
+
+The second setting will let you know the speed that is being used based on the speed before the bike drops off the road and how far it continues until it stops at the road's edge. This allows time to assess the rider's speed before starting the turn-based setting, which in some cases will mean the cyclist will come up with higher or lower speeds before actually turning round.
+
+The third setting and the first setting are also different during the first ride, allowing you a bit more time on the bike for the first time. It helps the cyclist make adjustments before

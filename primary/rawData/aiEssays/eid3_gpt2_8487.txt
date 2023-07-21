@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+
+In the following table we've included a comprehensive list of these variables used to predict road use over time. For details about each of the factors (and their associated impact on other factors) visit The 'Road Use and Impact of Bicycle Routes' websiteovich.org.
+
+
+Bicycle Routes to Increase Safety
+
+ROUTE SPEED COST OF THE DEEP AND DEAD
+
+Total speed traveled in a day 1 2 3 4 5 6 7 8 9 10 11 12 13 TOTAL TOTAL HOUR COST OF THE DEEP AND DEAD (N) 1 2 3 4 5 6 7 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 2 3 4 5 6 7 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 3 4 5 6 7 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 4 5 6 7 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 5 6 7 8 9 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 6 7 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 7 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 8 9 10 11 12 13 TOTAL HOUR COST OF THE DEAD (N) 9 10 11

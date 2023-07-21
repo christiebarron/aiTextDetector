@@ -1,0 +1,9 @@
+Making Mona Lisa Smile
+
+This article of ''Making Mona Lisa Smile'' it talks about how a computer seastem can raed student emotional expressions such a Mona lisa emotion.
+
+This sieastem can recognize emotions whether you're angry, happy, surprise, disgust, fearles and ect. This process begins when the computer constrac a 3-D computer model of the face. all 44 major muscles in the model must move like human muscles. Action unit are movement of one ore more muscle. Dr. Huang relies on the work of psychologists, such as Dr. Paul Eckman wich are the creators of FACS.
+
+Dr. Eckman has classified six basic emotions; happines, surprise, anger, disgust, fear and sadness and then associated each with characteristic movements of the facial muscles. For example, your frontalis pars lateralis muscle, above your eyes, reased your eyebrows whe you surprise also your orbicularis around your mouth, and tightens your lips to sho anger. This example we can se it in the firts pharaghaph when it talks when shes 83 percent happy, 9 percent disgusted, 6 percent fearful and r percent angry.
+
+And yeah i dont have nothing to arguing because i think the cumputer is a good a idea for student because it can tell whether the emotions are. Thats what i think about this article of ''Making the Mona Lisa smile''.     

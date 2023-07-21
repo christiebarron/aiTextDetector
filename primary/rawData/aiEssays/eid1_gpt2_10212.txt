@@ -1,0 +1,13 @@
+Computers have many effects on people.
+
+In the short term, the computer will turn on when the hardware begins to malfunction. It will not power out of power for up to 30 minutes. If the hardware is on, the computer will resume its normal function at the lowest possible operating temperature. You either can take another set of clothes if you like, or leave it to take the same clothes if not.
+
+If you change the computer settings, the computer will shut down when you take the clothes from the computer room. All clothes that are still in the room by the time they are touched to activate will remain fully charged.
+
+If you have more than one computer, you will notice a series of small changes to the system. The first is that each computer is different, as they are plugged in at different times, they cannot run concurrently, they cannot boot, and they don't run in one of the first three modes simultaneously. Changing the default settings will give the computer a few different, different settings.
+
+As of version 1.3.0, we also changed the number of colors to match different software versions. For Mac, Apple TV, Roku, and PS3 you can disable the option to run multiple ColorCards (with 3 colors on your PC each), or to do a color chart at the same time.
+
+All Windows users can now switch up or down in multiple modes.
+
+All Linux users can now enable the option to run all

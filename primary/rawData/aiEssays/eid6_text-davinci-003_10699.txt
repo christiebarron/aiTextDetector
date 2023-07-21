@@ -1,0 +1,7 @@
+
+
+Although the iconic Empire State Building has become synonymous with the New York skyline, it almost had quite a different feature at its peak--a mooring mast for dirigibles. It was only through the hard work and ingenuity of many engineers, architects, and business developers that the dream of a skyscraper with a mooring mast at the top was made into a reality. Unfortunately, there were several major obstacles to this ambitious venture.
+
+To begin with, both dirigibles and the Empire State Building were technologies still in their early stages of development. Most of the lead engineers involved in the project only had a limited knowledge about how the building, dirigible docking, and mast might interact only together. As a result, the engineers had to come up with design changes and new additions as they were building. In addition, the size and weight of the dirigible’s load had to be taken into account when designing the mast, its supports and the building in general. This was especially difficult since dirigible travel involved a heavily loaded, large airship that was too heavy for mooring at normal heights. 
+
+Furthermore, there were huge financial concerns at play. Increasing the building’s height to accommodate the mast was very costly. An additional expense came in the form of the increased wind and wind gusts that developed as a result of the increased height. To combat this, the engineers had to come up with a stable design for the mast that would

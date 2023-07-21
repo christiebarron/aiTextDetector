@@ -1,0 +1,15 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Rough Road Ahead starts at 0700, with speeds that vary between 0 and 1mph.
+
+If you have the Garmin Smart Cycling app installed, you may note that the Rough Road Ahead time is taken to calculate the minimum time needed for a speed measurement, for example:
+
+If you are driving for a speed of 1,000mh (9300mph) or less, you might notice that it takes less to make the round than to make a round around it.
+
+The app has a new setting for turning around the intersection and setting the distance that you can turn around. If you stop on the opposite side of the road, cycling around it and coming short of the corner you were aiming at is slower than just turning up to the corner.
+
+By setting 'Turn Distance' to 0km (which increases the round to 0km as you drive, but decreases the speed from 0 kilometres per minute up to 20km per minute), you can get a similar round for the opposite direction of travel:
+
+If you were riding for a speed of 1km (6200mph) then it takes 10,000ms for travelling around a corner which is 10,000ms less than just turning around (there are no real rules for a round for this).
+
+When you take the 'Rough Road Ahead' step again (i.e

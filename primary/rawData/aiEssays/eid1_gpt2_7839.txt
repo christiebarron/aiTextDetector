@@ -1,0 +1,13 @@
+Computers have many effects on people.
+
+Take that for example:
+
+Imagine you have a computer, or at least that's how computers think of anything. It's simple; you just get down-graded and do stuff like you'd do reading a story. In other words: you don't run programs by checking it against the hardware you run.
+
+But that wouldn't be complete without a little bit of a "scaling" or "crowd-sourcing". Scaling does not mean that the computer should just become smarter and perform "best" or perform "worst" or whatever the outcome of its operation. Quite the contrary: you could create your own operating system or add new languages or even build a new program in code to improve the computer. This is possible but difficult. What matters is that the programmer can make the machine think. Here is how:
+
+We start by putting our computer into some sort of computer "training room". The computer sits in a central room (a storage room), and we put the computer through a few tests to see if it's doing things it wants. Our program doesn't make any noise or other odd behaviour, and doesn't "make the thing think" because this is just not the case.
+
+When a test (which I can't prove, since it's not a computer test) results at this point it's out to which computer the machine belongs, which you have to perform.
+
+When "

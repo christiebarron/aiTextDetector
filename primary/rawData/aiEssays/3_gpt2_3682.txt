@@ -1,0 +1,13 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The main issue I had with this setting is the way it restricts cycling movement. The cyclists can be pushed at any moment and can't move past one other rider. In effect, they must cross the bike twice before you can do any sort of cycling movement, which leaves them stuck on the road for some time. This is not so bad when you include any time before or after road use.
+
+However, you have to remember it's an optional setting, and people often need to use it if they want to keep cycling going. This is a mistake I think many cyclists make when choosing between the setting T, or the setting H in this post. It's simply a choice people made that made the rider feel like there was an option for them to have that option.
+
+With H you can define what is included in the ride from the start, and what has already been done before you hit the pavement, or whether you want some kind of extra boost.
+
+T(H) - How long you will put in if you are just getting started. This is something you typically see on websites where a person sets a ride and when you are driving you can enter the next stage to make a run up the road if you are sure you are making a very sharp turn at Turn No.
+
+H(H) - How long it will take you to arrive
+
+T

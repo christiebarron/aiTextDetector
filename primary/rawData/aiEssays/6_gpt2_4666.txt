@@ -1,0 +1,8 @@
+The builders of the Empire State Building faced several obstacles in allowing dirigibles to dock. A "high Router Mode" meant they couldn't use the control module to "drive-to-the-right" where the vehicle's cockpit had been removed. They didn't want the drone being able to carry its payload while in the sky or in low-gravity. It also meant that it had no control over its position relative to the ground.
+
+"You always needed to think about other possibilities," says David Lutke, a principal engineer with the California Robotics Laboratory and chair of a technical team working on U-2, in an email exchange with Science Daily.
+
+They had to figure out how to build the drone with the help of the US Air Force Research Laboratory at Fort Bragg, where Lutke worked to find a drone's "high-frequency range." They found a way to combine sensors from both drone and ground craft that could deliver remote communication for remote control of U-2's head.
+
+The first time they flew it down a runway -- in February 2015 in an airport near Newark, N.J. -- they experienced a drone as fast as it could, with a 2.0-kilometer (3,000 ft) tail roll and 2.2-kilometer (6,200 ft), which gave it a range of less than a mile. "When you look at it as an aircraft, that's what you need."
+

@@ -1,0 +1,9 @@
+The road to the truly autonomous car
+
+Wouldnt you want a car that can drive by itself? Google has had cars that could drive independently under specific conditions since 2009. Their cars had driven more than half a miliion miles without a crash.
+
+In 2013, BMW announced the devolopment of "Traffic Jam Assistant." the car can handle driving functions at speeds up tp 25 mph, but special touch sensors make sure the driver keeps hold of the wheel. They can steer, accelerate, and brake themselves, but all are designed to notify the driver when the road ahead requires human skills ,such as navigating through work zones and around accidents. This means the human driver must remain alert and be ready to take over when the situations requires. This necessitates the car being ready to quickly get the drivers attention whenever a problem occurs.
+
+GM has devoloped driver's seats that vibrate when the vehicle is in danger of backing into an object. The google car simply announces when the driver should be prepared to take over. Other options under considerartions are flashing lights on the windshield and other heads-up displays. Manufacturers are also considering using cameras to watch that drivers are remaining focused on the road. While the driver watches the road, the car watches the driver.
+
+Tesla has a projected a 2016 release for a car capable of driving on autopilot 90 percent of the time. In 2020 the cars that would be able to drive by themself are Mercedes-Benz, Audi, and Nissan. Wouldnt you like a car that could drive by itself?                                                                           

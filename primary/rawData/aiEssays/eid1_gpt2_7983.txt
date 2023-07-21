@@ -1,0 +1,11 @@
+Computers have many effects on people. I've always liked my first laptop, and I thought they might be interesting enough to try out. When the keyboard got in my way (thanks for the tip) I didn't understand just how many bits could be printed on one piece of paper. I can also see on the top of the screen that some of those printed on some of my other PCs, which would have been easy to reproduce. But I just found that in order to get the same results in the browser (at least in the browser OS, since it works really well, but in the browser itself, I couldn't really use the program for things) I needed to do something with my mouse. I could type the URL (see below) in the browser as long as the following occurs (e.g. if I have the address: 'https://www'):
+
+
+http://www.gnu.org/software/man.html
+
+
+The problem seemed to be that there was one line of text somewhere. While this was something which was easy to recognize, it wasn't really possible to type it with my hand without it showing up. So I set up an image file which scanned the mouse button, and created a rectangle which looked like this (this is the original image, created by jmw.
+
+What this shows you is the current address of the text inside the rectangle. This has the letters and numbers in some areas
+
+which do need to

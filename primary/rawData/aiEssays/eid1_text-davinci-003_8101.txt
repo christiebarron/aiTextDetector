@@ -1,0 +1,10 @@
+
+
+The building of the Empire State Building was a complex endeavor due in part to its height, and the goal of having dirigibles dock atop the structure. The project encountered a number of obstacles that needed to be overcome for the dream of flight to be realized.
+
+The first challenge was the enormous wind forces produced by the 10,000 foot tall mast atop the Empire State Building. To obtain the necessary strength and stiffness against the wind, the mast was designed with large steel trusses at the base, gradually diminishing in size as the mast increased in height. These trusses were connected at key points to create stiffness and additional strength against wind. 
+
+The second challenge was to anchor the mast securely enough so that it would not be blown away in high winds. To achieve this, a large, anchor-shaped platform was added at the base of the mast and two additional anchors about 1000 feet above the platform. The platform worked together with the anchors to provide additional strength and support against gusting winds.
+
+The third challenge was to design a system for the airships to attach to and dock safely. Using existing mooring technology, engineers developed the “Mooring Mast” system, which featured a steel base that the dirigibles could attach to as well as othersafety systems. It was designed so the dirigibles could attach to the mast in a variety of different ways, depending on the size and needs of the dirigible.
+

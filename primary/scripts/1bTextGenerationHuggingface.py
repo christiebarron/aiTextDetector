@@ -1,6 +1,5 @@
 # Description #####
-#this python script generates text based on a series of prompts using OpenAI's text-davinci-003 model
-#It requires an OpenAI API key, which is not included on github.
+#this python script generates text based on a series of prompts using Hugging Face's LLMs
 
 
 
@@ -9,9 +8,6 @@
 #if first time, run:   pip install transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import os #for working with paths
-
-
-
 
 # Model Setup ######
 
@@ -43,26 +39,18 @@ count = len(os.listdir('../rawData/aiEssays/')) +2 #so don't overwrite previousl
 
 #load the tokenizer and model
 model_name = "distilgpt2"
-model_name2 = "bigscience/T0pp"
+#model_name2 = "bigscience/T0pp"
 
-
-
-
-
-
-
-
-
-#tokenizer = AutoTokenizer.from_pretrained(model_name)
-#model = AutoModelForCausalLM.from_pretrained(model_name)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
 
 #tokenize the prompt using model-specific tokenizer. see https://huggingface.co/docs/transformers/preprocessing
   #using padding as its is best practice
-#encoded_prompt5 = tokenizer(prompt5) #padding = True)
+encoded_prompt5 = tokenizer(prompt5) #padding = True)
 
 #loop through x texts generated
 
-for i in range loops:
+for i in range (loops):
   generator = pipeline('text-generation', model = model_name)
   text = generator(prompt5, max_length = 200, num_return_sequences=n)
 

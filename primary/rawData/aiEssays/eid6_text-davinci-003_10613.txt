@@ -1,0 +1,7 @@
+
+
+The challenge of allowing dirigibles to dock atop the Empire State Building presented a unique set of obstacles for the builders of the structure. In the book “The Mooring Mast” by Marcia Amidon Lüsted, readers get to experience these obstacles first-hand to better understand the complexities of airship engineering and construction.
+
+The first obstacle was engineering the mooring mast that would support the docking of the airship. It needed to be tall enough to support a light enough weight for the airship upon landing, while still being strong enough to withstand the stress of a sudden shift in the wind. Building a mast out of steel presented a challenge, as steel is heavy and would require the mast to be too tall to support the airship, or too heavy at a shorter height. Lightweight yet strong materials were an important part of the design which would eventually turn out to be aluminum, but the engineering of a durable yet lightweight mooring mast was a difficult project to complete.
+
+Another challenge they faced was finding a way to safely moor the airship. Conventional techniques used for docking ships like tying them down with ropes and anchors weren’t feasible for airships, as a sudden change in wind could cause them to rip away from the building. To solve this problem, the builders of the Empire State Building needed to come up with completely new mooring techniques, such as centralized mooring systems that would lock the airship

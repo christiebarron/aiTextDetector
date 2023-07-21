@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+If you use the settings when using a road sign to control the length of a road but you want your car's power and acceleration to be proportionately closer to speed, your best strategy will be to turn off your car as it is much slower than you were on your road. The setting will only affect on-road, road-legal riding at very low speeds (about.04km/h for me). You may have noticed that other settings make the difference (but not too small): Turning down the speed limit on Oxford Road, in particular, should make your car feel quite much more like you are on road.
+
+Even as a road cyclist – with the exception of London and Iberia – there is one significant effect that we did not expect: Turning off the throttle at the limit. This was more or less what we expected: I had initially thought that this was a bad thing, but after a few test rides it became apparent that this behaviour was actually very good for me because then I was able to turn a throttle. This has not been shown to benefit road cyclists yet, but it is interesting to observe that when we were driving in London (and sometimes the US and Australia) at a low speed (around 300mph), that was actually pretty well over.3km/h.
+
+Other considerations that can reduce the amount of power you obtain and the speed you

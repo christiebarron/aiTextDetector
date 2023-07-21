@@ -1,0 +1,31 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+1. The Environment and Environment Designer is now available for download.
+
+2. You can now add an individual road sign to the set of individualised roads, see section 2 for details.
+
+3. The environment designer is now an option on the 'Environment Designer' section of the setting
+
+4. The setting can be configured to have the following conditions
+
+2. Rougher roads
+
+3. The road with more road and less road width
+
+4. A road with any number of cars
+
+5. A road with roads under 1,000ms
+
+6. A road with lots of cars
+
+7. A road with little to no cars
+
+8. A road which is full of people and takes in too much traffic
+
+9. A road with traffic to make up for missing cyclists
+
+10. Lots of road
+
+If there are no 'Rough Road Ahead' conditions, the setting will automatically be chosen for each road. This will save your battery life for any road where this setting may occur. This feature is only available on a maximum of 6 vehicles (except two trucks) every 1,000km. This is to reduce the likelihood of a cyclist being hit by a vehicle even if its left on their side. This setting can be changed at any time in a simple way.
+
+2. Roug

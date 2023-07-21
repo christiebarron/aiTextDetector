@@ -1,0 +1,19 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. The setting reduces the likelihood of a bicycle collision while also providing a safe, well-planned and enjoyable ride. These elements were added in the version 1.4.6.1 (released on 12/10/15). Some of the setting properties will be subject to change prior to being released for cycling enjoyment or to their release under the COTA 1.4.14 Open Beta, and some will be changed upon the end of this public release.
+
+Other settings that would have changed in the version 1.4.6.1 include:
+
+Road safety
+
+Dive safety
+
+Riding the bike safely
+
+Hazard and safety at night
+
+Stopping and using an emergency vehicle on highway or highway not designed to contain emergency vehicles (e.g., a car).
+
+Additional notes about these modifications:
+
+Tests for each of these settings were conducted to ensure each of them was safe. However, this has not been tested by the Cycling Team before, and we do not recommend testing those sets by yourself.
+
+It takes time to adjust the setting. The first step is to determine which of the two files you want to change. The setting you want to change is probably what are referred to as 'Bike' files. By default they have a number of variables with a numerical value of 1 (1 indicates you want to disable bike use for

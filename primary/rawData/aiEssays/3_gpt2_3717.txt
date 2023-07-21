@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. It helps to know what types of road you are seeing, even if you're only passing on asphalt or under brush.
+
+When you want the 'Rough Road Ahead' setting, select 'Rough Road Ahead'. This will suggest you are approaching the junction, and will also let you know that there is an empty section of 'road'.
+
+When you can't see the 'Road Ahead' setting (or lack thereof) click on the 'Help screen', in the upper left corner. 'You can adjust the map using the navigation bar.'
+
+You should see the difference between some conditions:
+
+In many cases you won't notice any difference in colour. That could be a problem in some rural areas where you will see red colouring in some areas. The colour of many roads in this region is usually brown or orange - and this should be a problem in other cities in the area. A bad way to measure car colour colour with GPS will be the orange in some road and the grey in others - the 'Rough Road Ahead' set has the wrong green.
+
+There are many options for different road conditions. To help the car detect the difference between the two colour tones, use the different road mode, 'road.pct' and you can even see if the tyre fits the road as long as you're in it. If you are unable to see the

@@ -1,0 +1,29 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. They include:
+
+• The more active you are the more effective your ride will be
+
+• The extra speed of riding in rough conditions has a greater effect on your ride performance
+
+• The more people you use as a passenger and rider, the faster your chances of getting the job done
+
+• When a bike or car has high speed tyres, you are better protected while riding in a flat corner
+
+• You would normally know when to stop for a short gap where you can avoid a hazard
+
+• You can be expected to slow down ruin the performance of a small-sized tyre of your choice
+
+• Your braking mechanics have more control over how long the car drives
+
+To take into account the number of cyclists you know and how effective your riding becomes, the following settings are selected for you based on your performance.
+
+The next, more important, settings will control how quickly you can use your bike. 'Rough Road Ahead' settings are set to a value of 10 times the average speed you will drive on a road trip (1km/hr).
+
+For example:
+
+30 minutes: on a road trip: 25 km/h (+6%); 45 minutes: on a road trip: 10 km/h (+11%).
+
+What would happen if you had:
+
+40% more headroom?
+
+10% more body mass

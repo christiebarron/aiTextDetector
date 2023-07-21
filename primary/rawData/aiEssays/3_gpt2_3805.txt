@@ -1,0 +1,3 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. In this case the set contains two 'L' and a 'R'. The l is the distance travelled while the 'C' is the amount of time spent outside driving, with different degrees of freedom for different roads.
+
+Road Distance (in kilometres) Rrough Road Ahead (km(s)" Distance 1km 0 0.3 5 10 0.6 15 3 0.4 - - - - - - - - - - 0.3 - - 0 4 14 0.4 20 - 0.4 3 16 0.4 30 - 0.3 5 18 - 0.3 30 - - 0.developed - 0 6 24 0.4 25 - 0.3 30, - 0.3 30, - - 0.3 - 0.2 6 2 12 0.3 1 19 0.3 30 1 28 1 8 0.3 3 21 0.3 3 22 0.3 - 0.4 30 - 0.3 - - 0.3 36, - 0.3 0.03 - 0.03 0.02 1.04 0.04 1.10 0.09 0.02 1.09 0.03 +0.3 - - - - - Road Distance (km(s)" Distance 2 kilometres 0 0 - - - 50 0 40 0 55 0 65 0 70 0 72 0 76 0 78 0 79 1 80 0 80.5

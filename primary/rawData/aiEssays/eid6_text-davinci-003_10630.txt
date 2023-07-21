@@ -1,0 +1,7 @@
+
+
+The Empire State Building was once the world’s tallest man-made structure. Its iconic observation deck made it a popular tourist attraction from the moment it was completed in 1931. Even more remarkably, it was designed to accommodate the mooring of airships, or dirigibles, so passengers and cargo could disembark directly onto the building’s 202-meter-long mooring mast.
+
+However, the path to making the Empire State Building one of the first dirigible-docking buildings in the world was a long and arduous one, filled with complex engineering and safety issues. A leading obstacle encountered by the builders of the Empire State Building was the wind. Located in midtown Manhattan, the building was too close to the East River to allow for a safe landing in strong winds. To remedy this, engineers concluded they needed an unloading station at the top of the building, beyond the confines of the canyon-like city grid, with extended mast up to 200 meters above street level to anchor a dirigible.
+
+The next challenge faced by the architects was finding the material that would be durable enough to hold nearly 350 tons in the heavy winds of the upper atmosphere. They settled on steel as the most efficient and cost-effective material. But the use of lighter, stronger materials like steel needed to be balanced with safety considerations. Since high winds could potentially sweep a heavy airship off the mooring, the engineers had to factor in uneven wind loads

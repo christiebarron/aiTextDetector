@@ -1,0 +1,13 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. In the following chapter we'll be using the following table to show that the setting is relevant to the cyclist:
+
+Cyclists riding Rough Road Ahead Cycling Cycling Distance in kilometers Road miles Cikes Used Rough Road Ahead Cycling Distance in km Cikes Used Road miles Cikes Used Rough Road Ahead Cycling Distance in km
+
+A cyclist running the road may find the cycling route interesting, or he may find it more challenging to cycle. In general, we prefer to see cyclists do and do not run on rough roads. If the cyclist is doing a quick walk around the city, that means we want a long walking trip on a rough road. If we want a quick bike ride in the mountains to the city, we want short biking trips that bring us along in the right direction.
+
+For our road mode, we'd choose between an increase in the number of miles on rough roads and a rise, as indicated by the following table:
+
+Average Long Walking Trip for Road
+
+[Note: the increase in our rate of increase on rough road turns us toward the "Bike on Road" setting, not the "Road 1/2" setting.]
+
+The increase in the number of miles does not change the choice of bike. However, when our average long walk (or any other biking option) is added to our rate of rise in Road Mode, the number of miles we need

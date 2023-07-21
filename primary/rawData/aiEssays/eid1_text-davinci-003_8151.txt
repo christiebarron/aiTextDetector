@@ -1,0 +1,7 @@
+
+
+The effort to allow dirigibles to dock at the Empire State Building in the early 1930s presented a series of obstacles to engineers. Though the concept of airships was revolutionary and believed to be the future of travel, it was not without significant challenges and risks. The “Mooring Mast”, designed by the architect Hiram Berliner, was intended to provide an anchor for the mooring of dirigibles at the top of the building.
+
+The first challenge engineers faced was ensuring that the “Mooring Mast” could withstand the weight of the airships. Berliner, who mainly used iron as his material of choice, designed the mast out of a lightweight alloy called Duralumin. This alloy allowed the mast to be lighter and more flexible, thus preventing it from being torn from the building during strong winds. Another challenge engineers faced was accounting for the force of the airship’s thrusters as it maneuvered to dock. Engineer Marcus Neale is credited with addressing this challenge by designing a system of pulleys that connected the airship to the mast. By pressing down on the pulleys, the airship was able to remove the thrust when docking, further preventing any damage to mast or airship.
+
+Though these engineers managed to overcome a series of challenges, ultimately it was not enough to save the “Mooring Mast”. The Hindenburg disaster of 1937 raised questions about the safety of air travel

@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+This is a simple 'Road Ahead' setting that makes it very easy to control the way through an uphill run (or to move an item by its tread length to another), or on a climb. In a setting that adds to the already good feel of any road-riding system, it is also a fantastic visual aid for the rider.
+
+Rough Road Ahead: an Overview of the Routing System
+
+This setting was first offered a while back and has since been widely used in urban environments to help prevent falls and injuries throughout the course of a run.
+
+In practice, Rough Road Ahead isn't designed to have a clear view on a road, just as it isn't designed for downhill and uphill splits. If you're looking to get that same view over a narrow'mountain' course, you'll have to select the Routing System Mode option, and be able to see how a specific portion of the road should flow. A nice side effect of this setting is that it encourages running, which gives you a quick and easy way to go about taking a run.
+
+Rough Road Ahead also enables you to use Rough Road (or any other setting you like) to switch between some of the default routing options that you'll need to navigate through on your route. Here, you can choose between three options using the Routing System Mode 'S' option.

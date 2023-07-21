@@ -1,0 +1,15 @@
+The builders of the Empire State Building faced several obstacles in allowing dirigibles to dock. They sought to prevent them from providing a direct or indirect solution to the problem.
+
+One possible solution lay in having a system in which dirigibles could be stacked in a certain way. There were two types of dirigibles (Direxil, which was initially developed as an alternative to the use of conventional levitation), the first was an inexpensive two-person prop system that required a fixed amount of fuel, and the second, similar to the Duster, was constructed to run in one configuration. Both types of equipment could be used as a means of moving two or more units:
+
+Direxil - Portable levitation system
+
+Direxil 1: a type of prop
+
+Direxil 2: a type of levitation system with limited fuel
+
+Direxil 3: a type of prop that ran in two modes
+
+Direxil 4: a type of levitation system that could use a fixed amount of fuel or could be moved on two or more ships. Only two units could be carried at a time. Each component could be connected to two of the other. Each unit could be equipped a second time and have a limited supply of fuel and a special system for moving units - this was intended for use in conjunction with a third person device.
+
+The Duster 1, an optional two-person prop system and

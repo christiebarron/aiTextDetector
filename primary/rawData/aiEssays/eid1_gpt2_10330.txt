@@ -1,0 +1,13 @@
+Computers have many effects on people. There is a tendency to confuse information. There is only one way to change that fact.
+
+One thing is certain though, what a computer can do is put everything in its control. The best computer programmers know no computer history. This is not a surprise, since they have been in regular contact with computer scientists all their lives. One day in 1976 a British computer scientist and mathematician called Edward Bell, a computer who had come directly from IBM's Cambridge lab in the United Kingdom, decided that he had some work to do, and that Bell wanted to make more computers.
+
+Bell, who was fascinated by the importance of data management, decided to do more than just program one computer. He used his computer to figure out how to manage multiple systems and how to deal with data that a few people, as many as four people in his team, didn't already know about. As he described in a letter to his colleagues: "Everything here is a little bit more than three years old. Not only is there no hard way of managing the world, you get to control so much more."
+
+So where did the data come from?
+
+What were the problems it faced?
+
+For every problem you solved, there was one bad one. Each time it popped up, you had to work with the best and the best team but there's no easy way to see which one was actually right.
+
+A simple example would be:

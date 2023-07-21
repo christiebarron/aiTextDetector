@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. The settings control the 'turnaround time' of certain cyclists as well as how they approach the track and use the track to go back and forth. Additionally, the 'turnaround time' can vary according to the area where you live and your age, and it can also influence how the speed of those on the other side of the bike.
+
+All the settings range from 0 in the upper right corner to 100 in the lower right corner. The 'turnaround time' has been rated to range from 5 to 7 mph but this may not be optimal
+
+The 'turnaround time' to start will vary according to the area where you live and your age, and it can also influence how the speed of those on the other side of the bike. If you change speed to 5 mph then you are already too slow and will get stuck onto the road when you stop to hit one or the other rider.
+
+Each time you brake on to the track or get around on the track and get into range of those on the other side of the bike you can get caught. If you don't stop before about 3-4 minutes have a few riders on the other side of the ride who don't want to make it over but are tired or have broken their legs.
+
+In some cases the 'Rough Road Ahead' setting can also give good insight into how you are going to react

@@ -1,0 +1,28 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Rough Road Ahead
+
+The setting means you get:
+
+Trip control – the speed limit at which you turn.
+
+Speed limits in advance and in advance of road conditions.
+
+How do I add a custom road to my Roadmap?
+
+You can add a custom road to your Roadmap by using the Add/Delete menu in the Roadmap menu. To do so, hit the button at the top right, select your Roadmap, select "Custom" and then click the green "Rough Road Ahead." There will be an option to disable the Roadmap mode for this road and then you can add or disable the setting.
+
+How do I remove the setting from my Roadmap?
+
+Delete the Roadmap setting. Press E to return or use the following commands to delete the setting and your ROC is restored.
+
+Restore ROC
+
+Restore the setting to ROC of the setting you wish to remove. Use the "CTRR" menu option to select a custom road. The ROC on the left side of the road will be removed by holding down Escape then clicking OK.
+
+Remove ROC
+
+Remove an ROC from your road. The setting that the setting deletes is, "Rough Road Ahead".
+
+What does ROC look like when I switch on the setting?
+

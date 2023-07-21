@@ -1,0 +1,13 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. There are all sorts of different settings which we use to adjust what it means to ride a road.
+
+Comes with the bike itself to have an easy to use control to easily tweak the 'road' option.
+
+So that's the full set of details on the tyre settings, below is a set of tyre presets.
+
+These are provided for people new to cycling a road not expecting a car, but are probably for folks who have a bike, have an old vehicle and want an easier ride.
+
+There are a number of variations. These are just recommendations, don't try new things in the road setting settings.
+
+To view more set of settings, head on over to the tyre settings menu (in my case, tyre settings.txt) if you're having problems with any of the settings.
+
+Ruger Settings

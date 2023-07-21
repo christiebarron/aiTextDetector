@@ -1,0 +1,9 @@
+Computers have many effects on people. They affect the amount of time and resources it takes people to perform and remember the right tasks and activities, how many steps people do in a given task, how many people will respond in a given moment, etc. There is no way to keep track of them all, therefore we must use a "brain count" algorithm (or "B" for that matter) to track them all. Harbaugh is known for having built a billion pieces of software, including most common tasks, to measure people's mental effort, productivity and reaction times.
+
+It can be difficult to figure out which kinds of people perform poorly based on an average of these numbers. Some may not seem to be getting what they want. They may not even be doing all the things that cause people to act as they choose. If this is the case, we can see the big picture here. A system that makes sense to understand, and which we can then see to improve on. And if the results of a B and E algorithm are in line with this, how could we not, just a few years ago, also have this information?
+
+And this is where the numbers really come to light.
+
+In his new book The Power of Probability, author David Steinbeck tells of one of his experiences:
+
+"'The first time a mathematician said that there were two possibilities for probability, I would have predicted no. You know, there are two hypotheses about what could

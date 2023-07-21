@@ -1,0 +1,7 @@
+
+
+In the early 20th century, builders of the Empire State Building put forward an ambitious plan to allow dirigibles to dock atop the building. This plan, which eventually became a reality shortly after the building's completion in 1931, faced several significant obstacles. 
+
+The first of these obstacles was the Empire State Building's height. The designers of the building needed to build a mast approximately 200 feet tall that could securely hold a dirigible in high winds. However, steel mast building techniques of the time were not advanced enough to build a structure that tall that was stable and secure. To overcome this challenge, the designers improvised a solution. They created the mast using a double truss consisting of 33-foot-long steel I-beams connected so the I-beams' flanges and four external load-bearing columns comprised a single, continuous structure. This structure was able to withstand the strain of the wind far better than any single mast design.
+
+The second obstacle was the weight of the Amerian Flag, which was to be flown from the mast. The flag was much too heavy for the top of the Empire State Building, so a special system was devised to support the flag from the bottom. To do this, the designers created a system where four steel-reinforced cables fastened the flag to the building's side trusses, allowing the flag to rest on the building's roof. This solution also had the benefit of reducing the lateral forces the mast

@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Bike-rider perception: The perception of an existing road as unconnected to riders and thus potentially dangerous, when viewed at full view of the pavement, is an important key variable for understanding the effect of changing rider's location on the cycling experience.
+
+Cycle-car usage: Cycling rates differ across locations but tend to differ for many cyclists. These differences can affect the effect of varying bike-rider characteristics and riding strategies, as can differences in bike-rider characteristics of the roads.
+
+Cycle distance: A bike-rider's "distance to the point of end-to-end contact at each juncture" is an important measure of how far from the designated start point he or she is in the road. In both the U.S. population's and European regions' populations, the "line-out" distance to the point of contact to reach a designated point of intersection is more important as a measure of cyclist safety. In Europe, the "line-out" distance to the point of contact to reach a designated start point or even to a stopped destination means the cyclist has to cross the designated point of contact to reach the destination or stop at the stop line. This distance measures the distance between cyclist's bike lane and his or her destination, where possible, and how far the designated start point may be as long as possible before he or she can attempt to stop

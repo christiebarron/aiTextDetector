@@ -1,0 +1,7 @@
+
+
+The obstacles that the builders of the Empire State Building faced in allowing dirigibles to dock were many, and the project was a classic example of form following function. One of the most significant obstacles was the surrounding environment. The mooring mast had to be placed high enough to clear the rooftops of the surrounding buildings, and yet low enough to be accessible to those on the ground. There were also engineering difficulties in order to create the right conditions for the dirigibles.
+
+The introduction of an unprecedented mooring mast caused a number of safety concerns, and the engineers had to pay particular attention to the wind conditions when designing the mast. This was necessitated by the need for the mooring line of the dirigible to have the right tension, as too much or too little tension could prove dangerous. The design of the mooring mast was also important, as it needed to be strong enough to hold the weight of the dirigible, yet offer enough flexibility to allow for the vessel's movements. Additionally, considerations had to be taken to reduce the amount of turbulence created by the mooring mast and the surrounding buildings.
+
+Creating the right conditions for the dirigibles to dock also provided a significant challenge. Sensors were needed to detect the wind conditions, and lighting needed to be installed to increase visibility. In order to make sure that the mechanics of the mooring process could be properly monitored, a number of other safety systems, including collision alarms

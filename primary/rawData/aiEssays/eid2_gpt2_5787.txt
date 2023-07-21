@@ -1,0 +1,7 @@
+I believe that censorship of materials in libraries can be a better system than using any kind of censorship, as long as the text and/or images are clearly readable. This means that an online library, or some such website, could use its algorithms to detect copyright violations."
+
+One can conclude that these results are somewhat problematic, as censorship can be a very powerful tool for suppressing news and information in the first place. The other, if present, concerns the possibility that censorship could be counterproductive for preserving public values on the internet. Given that many people would find many (read: a lot of, many, many, many) criticisms of certain content even mildly amusing, I thought I'd put together an analysis of the most common examples of censorship that came to mind:
+
+Copyright Violations
+
+The most common kind of government-censored information is to have the copyright laws enforced by a government agency. You may see, for example, this section of Wikipedia saying, "...no single state or individual may, without the express written consent of the Copyright Board,isconsultally impose an arbitrary restriction on access to, or the access to information collected in support of, copyright." These laws are supposed to prevent the "author" being "responsible" in any way. This is not really an isolated problem: if a user is in possession of a copy of a copyrighted work – if people were to create a new public domain account or file a new copyright complaint against the author (or anyone else

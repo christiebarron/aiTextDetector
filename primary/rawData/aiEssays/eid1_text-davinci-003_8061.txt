@@ -1,0 +1,9 @@
+
+
+The major obstacle faced by the builders of the Empire State Building was the need for a secure system to allow dirigibles to dock. After its completion in 1931, the Empire State Building was the highest building in the world and was capable of acting as a landing platform for dirigibles. However, the task of designing a secure system to safely dock a huge and unstable airship was an immense challenge. 
+
+The problem was solved by utilizing a set of ingenuity and cleverness in combination with the already existing infrastructure of the Empire State Building. The solution was, essentially, a tall airship mast at the 76th floor. This mast included a steel cable that was strung far out into the sky to allow dirigibles to hook their tethers. Called the “mooring mast,” it was designed to constantly provide the necessary tension so that the airship could stay securely docked in the winds of Manhattan. 
+
+One of the key challenges in designing the mooring mast was how to securely support the tremendous weight of a landing airship. To do this, the Empire State Building deployed a series of cables that were strung from below the base of the mast in an intricate web. This system was based on the physics of tension, rather than compression, and allowed the mast to maintain the support necessary for the heavy loads.
+
+In terms of engineering, the designers and engineers of the mooring mast also faced the challenge of

@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. For instance, the number of times the cyclist jumps, how fast they're moving, the amount of wind they're riding, etc. It's easy to see the effect where the bike is pushed around, but there are some areas where the setting affects the behaviour of the rider.
+
+The bike's speed, when it's driven further and faster the cyclist is more likely to hit a tree, or to catch a train, if it's passed so quickly that it misses an intersection, as shown in the following examples:
+
+There may be other ways in which this can make for more difficult biking. There's not too much of a hard limit to how fast the bike ought to go, but this is always the case even after some steep climbs or hard turns. Cycling with it under heavy load in your car or SUV may take as many turns as you'll likely need in this environment as well (even at 50mph and below). This is because the amount of power that comes from the road is a big part of how powerful the bike is. It's possible to change the way that that power is distributed in your system on the fly to keep the bike stable under load.
+
+A lot of work is involved in optimizing the cyclist's road clearance, how hard the bike needs to go in an intersection, and what you need to achieve and prevent from doing it. There will be some work

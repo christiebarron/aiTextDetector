@@ -1,0 +1,17 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. It is an option to set an option to reduce the time it takes for a cyclist to turn around from their destination. It can also provide an indicator 'How far away you are to get before stopping'. This option can be set from the 'Rough' option in the Cycling Information System.
+
+This is where you can set road conditions for your cyclist's road use. It comes in two modes:
+
+Option 4 (Optional)
+
+A standard road setting will reduce the time it takes for a cyclist to turn around on a narrow road and they then begin cycling along the pavement. The option will also change from a normal setting if the road has been paved, to a lower setting if it has an elevated finish of 1 metre (2 ft).
+
+Option 4 (Standard)
+
+If the road has been paved the cyclist will cycle on the paved road, if they have to make a cut. A 'Rough Road Ahead' setting that follows the pavement will reduce the time it takes for the cyclist to turn around on the paved road and they then drive straight through on the flat flat road.
+
+This approach will reduce the time it takes for a cyclist to turn around on the paved road by 30 minutes, which is what the ROWMAP is for you.
+
+Option 5 (Optional)
+
+If the road has been paved the cyclist will cycle on the paved

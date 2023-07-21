@@ -1,0 +1,9 @@
+
+
+The feat of engineering to build the Empire State Building in New York City was an impressive one, and all the more remarkable for its inclusion of a mooring mast, allowing the then-novel airships, or dirigibles, to dock atop it. However, despite its important status as a symbol of the modern technological age, allowing dirigibles to dock presented some significant technical obstacles that the construction team had to overcome.
+
+The most daunting challenge was the mooring mast itself. The structure had to be designed in a way that would let the airships rest safely without causing the entire building to shift under their weight. Balancing the mast’s mass against the mass of the airships was a significant challenge, as was finding the right architecture and materials that could stand up to the enormous pressures an airship puts on it upon landing and the associated stresses on the mast’s structural integrity.
+
+The engineers had also to figure out how to land and disembark passengers safely. This entailed devising a system for getting passengers on and off the airship without relying on normal forms of propulsion. Due to space limitations on the mooring mast, it was not feasible to use the convenient docking ramps that would be used on the ground. Instead, engineers had to figure out unique ways of getting people up and off the airship, which proved to be quite a complex challenge.
+
+The technical challenges of building the Empire State Building and implementing a

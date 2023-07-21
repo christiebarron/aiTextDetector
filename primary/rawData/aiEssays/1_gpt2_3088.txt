@@ -1,0 +1,9 @@
+Computers have many effects on people. Let's focus on the computer. To some extent, you use certain types of computers, and they can be designed to do quite a bit of work in one way or another, but all the same your job is to do some things that other computers can't:
+
+The computer must know some information about the system. Do you actually care about this and are you just doing things to make the system go along?
+
+The computer can be a lot of things — you can use one device for example, but you also have many different, quite specialized computers. Or if you use one machine you can use it for other purposes, such as debugging or searching: for instance, all the time you are going to make the program, but you can also use different machines for different ways of doing some things.
+
+You do the same job at home with all sorts of different computers that you have. For example one machine is running the GUI programs and the other computer is sitting in your living room using a computer monitor. So you can write programs that do the same thing for different people and different machines and things like that.
+
+I had one job where I worked with a couple of people to use the computer as a remote control for remote programs. (You know, not to call us remote.) Here's one way I use the computer with my computer, but I don't tell people I need to do the process, or they'll just

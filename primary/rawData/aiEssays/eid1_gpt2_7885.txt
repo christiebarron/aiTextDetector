@@ -1,0 +1,24 @@
+Computers have many effects on people.
+
+In this article, we will consider the following factors:
+
+If the computer has multiple components and has many processors, then it is more likely that a computer of two or more components will be an efficient computer in order to perform tasks.
+
+Each user in the market may have multiple devices using that computer to perform different tasks.
+
+If there are multiple competing computers at any given time it sometimes cannot compete, possibly owing to more than one processor, which sometimes can not be done correctly.
+
+Many of the computers with multiple components have an "acceleration time" which allows the processor to perform tasks at a slower pace.
+
+Processor Power Consumption
+
+Processors use power over voltage and speed for most tasks, but may not have the ability to perform tasks more efficiently.
+
+
+The power consumption of a typical computer is determined by the maximum voltage and speed it can receive per second (VSC).
+
+The higher the VSC value it can receive, the faster it will perform tasks. However, a processor needs to run at more power when it receives power that is not as high as the user desires.
+
+To evaluate the power consumption of a computer, we use voltage and speed readings from the computer, which can be used to determine the power usage.
+
+An internal voltage meter can look at power consumption for each processor to understand how much power is actually expended by each computer, and thus,

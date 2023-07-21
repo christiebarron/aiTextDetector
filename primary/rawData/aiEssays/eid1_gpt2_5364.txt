@@ -1,0 +1,13 @@
+Computers have many effects on people.
+
+The main culprit is the lack of software on devices that do not support virtualization of data. This happens to an increasing percentage of computers, especially when used within a virtualized world. Many users start using an unlicensed network, which can cause instability. The problem is that as the number of computers with virtualizations grows, it seems they all get caught up in a system lock and will become locked out, which can slow down the work that has been done.
+
+Some other solutions to this problem are that computers should not be shut down just because some of the system calls failToday. This problem may be too much for many users, but it is not the problem, it is the technology and it has been a huge driver for the change that will happen.
+
+Another good way to fix this situation is through using the Netstat tool. Many people think it is too hard to do this with the Netstat tool, so there is no easy solution. These solutions are described more in our discussion:
+
+How to Use a Windows 8.1 and Windows 8.1 Enterprise User ID (USERID) Tool
+
+How I can Disable Windows 8.1 and Windows 8.1 Enterprise User ID (USERID) Tool Using the "Enable Windows 8.1 and Windows 8.1 Enterprise User Id" command-line option
+
+How to Disable Windows 8.1 and Windows 8.1 Enterprise User ID (USERID

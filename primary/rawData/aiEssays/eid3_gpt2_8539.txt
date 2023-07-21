@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. One of the most important things we noticed about these settings is that they tend to improve the cyclist's performance.
+
+The following table compares the 'Poor Road Ahead' or Rough Road Ahead with the 'Good Road Ahead' and also provides us an indicator of how the setting affects a cyclist's performance. The ROUGH Road Ahead setting increases the rate with which the cyclist climbs, the Rough Road Ahead setting is the rate of falling, and the ROUGH Road Ahead setting is the rate of descending.
+
+Rough Road Ahead Setting Duration of Climbing Percentage of the Ride Fitting a good ROUGH Road Ahead setting gives the cyclist a better grade than a ROUGH Road Ahead setting. The ROUGH Road Ahead setting increases the speed during a climb and reduces the distance seen before the climb due to a reduction in time spent climbing and the distance seen on a climbing jump during a Good ROUGH Road Ahead setting.
+
+Good ROUGH Road Ahead Setting Distance Distance in Goto Goto Distance taken from Bierwicks (10, 12, 13, 13m) 30m 70m 90m 60m 120m 60m 120m 50m 110m 90m 100m 70m Inverse the width between the two hills so that it overlaps the top of the hill with the bottom of the hill. After two days the cyclist can drop. 10 20 30 40 50 80 90 100

@@ -1,0 +1,7 @@
+
+
+The effort to dock dirigibles safely at the Empire State Building was an ambitious project conceived by the Manhattan Engineering Company promoter Alfred Mossman. In his 1927 proposal for the Empire State Building, the “Mooring Mast” was intended to serve as a terminal for dirigibles and provide the city with an exciting new form of transportation. Although the original vision for the building included plans for a docking mast extending from the top of the Empire State Building, the challenge of actually docking these enormous airships required a number of daunting engineering obstacles.
+
+Initially, the main engineering challenge the builders of the Empire State Building faced was figuring out how to safely attach a mooring mast to the rooftop of the skyscraper. The additional elevation of the mooring mast posed a stability issue for the building’s frame, so considerable attention was required to develop a design that could keep the structure secure while also allowing for heavy airships to moor and take off safely. Additionally, the structure had to factor in temperature changes that would expand and contract the building to prevent the frame from being ripped apart by the stresses of airships.
+
+Further complicating the project were the risks of aircraft collisions. While the proposed mooring mast was designed to be lightweight, its significant height extended the range of airplane take-off and landing paths at the nearby LaGuardia Airport, automatically increasing the risks of aircraft collisions with the mooring mast. As such, the designers had

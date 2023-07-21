@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. I am not going to be specific and I have written the setting in this post, but the basic idea is that if the cyclist follows the path of a wide and wide road (in an incline or steep curve that is only a couple of degrees), there should be no significant gradient between the road surface and the mountain.
+
+My personal take is that my favourite setting on 'Rough Road Ahead' is the one where there is no gradient. This way, the gradient depends on any route or curve in the 'road'.
+
+I have tried every route/turn, then tried the worst and found that the most difficult part was in the 'open streets'. It was a constant challenge and I have tried a number of times but the most difficult point where I have encountered this 'open route' that had some very fast and unstable road surfaces was 'Rough Road Ahead' in 2001. In addition to this, other road-related settings are mentioned and, if you do not include the 'open roads' feature then this can become a problem.
+
+I did a pretty intensive post of these road-related set-up guides for 2011 showing how they work, so I decided to do a post on 'Rough Road Ahead in 2011' and the new 'open roads' setting.
+
+I was surprised to find in the guide how much each setting also has a gradient, so

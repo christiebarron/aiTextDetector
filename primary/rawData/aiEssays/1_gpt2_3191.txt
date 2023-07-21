@@ -1,0 +1,7 @@
+Computers have many effects on people. One thing is very clear - we've all become more aware of software development cycles, which means we're more willing to invest in them - and more committed to creating long-term value at the expense of being less agile and less productive.
+
+We might be spending $250,000 of our lives, for example, on trying out a system that is very robust, yet also has a significant number of bugs. We spend $1000 of our time looking at how to make software so that it works, and we do it well. But we're often asked "What about the bugs you see before release?" - and that's a big, dumb question.
+
+To show that our efforts do pay off, let's consider what happens when everyone's spending $250,000 on a system that has over a hundred bugs per year. The more bugs we add, the more likely it is that we'll lose market share.
+
+If we had an estimate of bugs per year, that would mean our software has the potential to add more than 500 bugs per year. If you take our market share numbers by their original numbers - that is the amount per million of bugs per year. Because we're looking at the entire industry, we must consider it at its basic level to determine if our market share is being driven by our product line and our innovation. As we look at our current market share, we would expect our current market share to be much

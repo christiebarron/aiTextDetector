@@ -1,0 +1,11 @@
+The builders of the Empire State Building faced several obstacles in allowing dirigibles to dock.
+
+In the 1980s and 1990s, though, designers began to realize that these large-scale robots could be employed effectively in larger environments. Using sensors, they could determine the proper size for an individual to walk to and from the building, and to land on.
+
+"You could have an elevator," says David W. Miller, a researcher at the University of Wisconsin-Madison who has spent much of his life working on humanoid robotics. Miller's research reveals that in its early prototype, a user could have easily walked to the top of a tower, from an elevated building, and land on the ceiling. But just as in other areas of the world, that didn't work for robots.
+
+To figure out how to build these systems, Miller and his colleague Scott Wilson and two scientists at the University of New Hampshire-Holland in the U.S. have developed a clever and sophisticated system of software that they call a "fisherman's ladder." Each ladder could tell a different part of the system what to position on the platform: On one side is the ladder's platform of stairs; vertically, the platform is a platform of stairs. The tool used is a computer system that is capable of predicting that the path will be short.
+
+The concept has just one flaw, but it would make sense to it anyway.
+
+In other words, the diver would

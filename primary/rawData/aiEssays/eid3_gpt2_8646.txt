@@ -1,0 +1,14 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. It allows the cyclist to see and feel what has been built. They notice it's not the kind of bike that can compete with other bikes, and so, is it too hard?
+
+What this mod does not do is allow those with good knowledge to choose an option in a bike selection page, and there's lots of data available. The first rider in I know of to test this option is Dr Steve, who's very excited about what you've got here, especially as he works on more things that he'd like to do with the mod. There will be more information if we can convince him to test another option.
+
+The 'Fifty Pints' option in 'Rough Road Ahead'
+
+This is the only option on 'Rough Road Ahead' that allows them to compare the road surface with other road surfaces, so we'll add it to each one. The downside to this would be the lack of a detailed comparison menu available with different roads. Our hope is that it will be better used by the user, when testing their chosen option.
+
+Here is what the 'Fifty' option looks like:
+
+
+How to find 'Rough Road Ahead' in the game
+
+As you can see if your game is open (using the game's installer), you'll often encounter things you might have noticed before, such as the way there are two different

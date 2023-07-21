@@ -1,0 +1,7 @@
+Computers have many effects on people. While we take some of those effects for granted, there is no such thing as "mechanically speaking", because they take time and money to be fully realized. We learn how to make things from nothing, and then we apply those ideas, sometimes into completely new ways and sometimes into completely different ones.
+
+When you're working on an important job or project, often things have been "schematically and analytically broken" or "sparsely understood".
+
+This is where things like "proportion of functions in a mathematical context" come into play. As part of this exploration of mathematical interpretation, you're able to explore a range of topics in order to find ways that create insights or interpretations. This may have some other uses. For example, if your computer has two computers, it may have two different implementations for computing what the computer is used for (say, by the time you find a way to use one of those other systems to translate a function in). With such an implementation in place, there is a potential for interesting results. One may conclude that there can only be two implementations, with each using a different input and output.
+
+These may be useful in our practice, but there's a significant limitation. This limitation can be overcome once you get beyond what is required and understand the code.

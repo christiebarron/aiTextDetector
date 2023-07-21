@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+One of the most obvious is that the conditions on roads may not be right for the rider to pass the car, but it does reduce the number of possible 'Rough Road Ahead' (RIOs).
+
+However, that is also a reflection rather than causation. The data shown in Table 1 were taken from a wide range of road types, that are usually on the left of an urban driving environment, and so the numbers for this set of conditions are slightly skewed. In general, the RPI's on the left of the road show that cars do less (or not at all) to pass cars on the right of the road. For example, the lower right corner of the London Road is most likely to have a small number of RPI's on the left, while the top left corner of an urban driving landscape is most likely to lack any RPI's at all.
+
+Table 1: RPI conditions on roads for 2013 (Mileage) to 2015 (Eyes per kilometre). Figure 1 View largeDownload slide Comparison of RPI conditions among the UK road types (Mille, UK).
+
+Table 1: RPI conditions on roads for 2013 (Mille, UK). Figure 1 View largeDownload slide Comparison of RPI conditions among the UK road types (Mille, UK).
+
+As for conditions on the roads listed in Table 1 above, we can

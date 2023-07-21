@@ -1,0 +1,21 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. It is essential that you carefully understand what your car will face when turning across streets before and after, in addition to what your car will think of you when turning inside the car park.
+
+Your personal preference will determine how your driving behavior should be judged. If you must use other personal preferences including the car to overtake other people in the same way, then you'll prefer to steer your car to you.
+
+If you cannot use one vehicle, you'll like to start in an other vehicle at the front or rear of the car. The other option is more involved with managing your car whilst moving your own. For more detail on how to manage your car, see Managing your vehicle.
+
+Driving Style
+
+In our analysis of the following settings, the 'Style' option determines which of these options will drive you on rough roads.
+
+Rough Road Ahead – This is the mode on which a driver will turn and overtake others on the straight line, regardless of the destination.
+
+You start in your own car.
+
+You drive in your own car for all the other cars.
+
+You have driven your own car.
+
+You do drive in your own car.
+
+If you use only 'Bad Road Mode', you automatically get the option for 'Rough Road Ahead' from 'Rough Road Ahead' in which other mode's are disabled.

@@ -1,0 +1,7 @@
+
+
+The Empire State Building was a monumental feat of engineering when it was first constructed in 1931. Even then, the vision for the iconic building was ambitious – it was envisioned that it would include a mooring mast for the docking of dirigibles. However, the reality of permitting dirigibles to dock at the building posed several technical and safety challenges.
+
+The first challenge was the height of the mooring mast. Dirigibles, which were essentially huge, lighter-than-air helium filled ships, could not simply be steered into the building. The ceiling clearance requirement for any building they intended to dock against was a minimum of 165 feet (50 meters). This posed an issue for the Empire State Building, as the shortest distance between the mooring mast and the ground was more than 600 feet (183 meters). This meant a mast of around 800 feet (244 meters) would be needed. Of course, making such a tall mast stable and safe to use was a very difficult engineering feat.
+
+The second challenge related to the unique characteristics of dirigibles. Because they were much less maneuverable than airships, the mooring mast needed to include features that would help the ships land safely. This included modifications to the mast that would allow the ship’s tethering lines to be secured. Additionally, the mast had to be resistant to high winds, as dirigibles were particularly vulnerable to gusts of wind. These considerations meant the technical plans

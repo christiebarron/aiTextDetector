@@ -1,0 +1,15 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. For a comparison, the following data point makes the sense that makes the driving easier:
+
+The following figure is a simplified example of the setting on how to reduce traffic. Use the information in the table to get the maximum mileage, while the following information shows your options:
+
+Miles/hr for Road or Road Distance (miles divided by mpg) Total mileage for Road or Road Distance (miles divided by total miles) Total mileage for a road
+
+The following table shows how the road settings affect the performance of the bike. Use the information in the table to calculate the difference between the 'normal' driving and 'hard' handling of vehicles.
+
+In addition to the cycling parameters, you can change the starting and stopping speeds of many other vehicles. See below for different road settings.
+
+Changing the 'average' driving speed (in mph or kilometres per hour) from 30% (the actual'miles per hour' for road for example) to 20% (miles km per hour)
+
+Taking into account the way the driver takes the motorbike (i.e. the difference in the speed between two car lengths in road) you can give a good example:
+
+30% 60% 80% 100% 100% 100 mph 30% 90% 91% 100% 100 km/hr 100% 110% 120% 130% 140

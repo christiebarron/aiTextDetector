@@ -1,0 +1,10 @@
+
+
+The design and construction of the Empire State Building presented a face of seemingly insurmountable challenges. The most prominent obstacle was the plan by the architects to include an open deck high atop the building from which dirigibles could dock. Despite the daunting task of designing such a feature, the engineers were successful in meeting the challenge head on.
+
+The first challenge the engineers of the Empire State Building faced was the magnitude of the task. Designing and constructing a building with a structure that could safely support dirigibles without compromising the
+experience of the building was a difficult feat. Not only did the engineers have to create a structure from which the dirigibles could dock and take off, but they also had to ensure the building's stability while doing so. In order to mitigate this risk, the engineers designed the mast which extended from the 106th floor and provided support to the surrounding structure of the building.
+
+The second challenge the engineers faced was the complexity of the mooring mast design. As outlined in The Mooring Mast by Marcia Amidon Lusted, the mooring mast would serve as a central point at which the dirigibles would dock. The mast was comprised of a series of overlapping segments which provided the steady connection needed to securely moor the dirigibles. The design of the mooring mast necessitated the integration of temperature, wind, and pressure readings to ensure the dirigibles were safely moored.
+
+The third challenge

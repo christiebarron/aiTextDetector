@@ -1,0 +1,9 @@
+Computers have many effects on people. There were two types of data to consider when analysing the world of personal computer software. These variables include software properties (like operating system compatibility), and algorithms (like security) that cause problems. Of particular interest to researchers is software that increases the level of human knowledge via the ability to identify vulnerabilities in the hardware or software that is using that software.
+
+Although originally intended to investigate the influence of computer hardware on how we learn, this work has become widely interpreted as having an anti-cyber-threat effect. This may be because of the lack of formal studies on its potential impact on our knowledge or because we do not want to be exposed as people who don't understand.
+
+What is the use of this research on research on computer systems, or on computer hardware, that might help to better understand other computer systems for the future? We want to take you through the process, but we need your help before we'll send you our findings.
+
+The following sections will outline the current state of online Dolphins. Click each of the links above to explore and read further.
+
+Software Applications: These domains (in the list above in this issue of Wired magazine) are the most active. We do not know enough, or do not care, how much and whether we can detect them. Software Applications in these domains are usually referred to as 'FOSS' domains that may seem to be unrelated and not related at all, with only a

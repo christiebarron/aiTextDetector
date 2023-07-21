@@ -1,0 +1,9 @@
+Computers have many effects on people. Some may affect them differently.
+
+Some of the impacts of changes to computer-generated images and video can actually affect what people may see, and what data they have. A few different methods of producing video and audio sound have been built and designed in order to make the process easier for us to work with. In some cases, some effects go something like a little more than we EVE users can handle; they can add texture, colors, or shapes to the world they are in. These can have a dramatic effect on actual visual interactions at a higher resolution than our current means, but that doesn't mean it can't make some good things happen.
+
+This is only partial explanation. Our approach is very similar to capacitor simulation based on simple calculations. At the moment, there is limited research in this field, so we are focusing solely on this aspect of computer sound processing. While there is great promise in the future, the fundamental assumption of most computers and sound processing systems is to have high output. This is no longer true, and most of what we do can only be seen when we can see it visually.
+
+Since our main goal is to make the world as realistic as possible for all users, we are going to introduce some new models for sound processing to the world.
+
+Wavefront simulations are a simple but clever way to experiment with sound that changes the world you see. For more information on sound simulations, go here: Waves

@@ -1,0 +1,7 @@
+
+
+The builders of the Empire State Building had a unique and ambitious challenge ahead of them when they set out to allow dirigibles to dock atop the building. The task presented a complex array of obstacles for the engineers to overcome. 
+
+The first issue was the availability of a large mooring mast, capable of bearing the great weight and wind pressure of a dirigible. The mast was not a simple construction, but a machined, steel, conical spire, externally braced with steel cables that reached the upper roof level of the Empire State Building. The engineers required an accurate and exact mooring area, since a dirigible was large enough to cause structural damage if it was “off-center” when docking onto the mooring mast. The solution found by the engineers was to mount the mast atop a 25 ton concrete foundation, or “raft”, located 200 feet above the ground and connected to the 102nd floor of the building. The mast was also reinforced with a central steel cross beam extending across the diameter of the mast, adding stability during docking and to prevent thumping due to the wind pressure on the dirigible.
+
+The next part of the engineering challenge was providing the exact conditions required to allow a dirigible to smoothly dock onto the mast. This was particularly tricky since the dirigibles of the early 20th century had no engines, so they were dependent on air pressure and currents to move around. The engineers had

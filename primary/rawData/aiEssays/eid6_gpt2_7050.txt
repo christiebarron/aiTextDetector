@@ -1,0 +1,11 @@
+The builders of the Empire State Building faced several obstacles in allowing dirigibles to dock. One was to let the pilot move left on the ground or up. But this limited the pilot's ability to move freely when his left arm was jammed, allowing him to drift to the right or right hand side of the structure. A fourth obstacle that needed to be removed was the ceiling, which was too low for many pilots to stay out in.
+
+Advertisement - Continue Reading Below
+
+"If they could build something that would hold a quarter of the planes for five years," says Eric R. Shafron, PhD, head of the Center for Artificial Intelligence and Automation at the University of Rochester, "they shouldn't have to build something like that. This is like saying there are 100 million people in the United States but only 5 or 10 million are on vacation. It doesn't make any sense."
+
+A solution that makes sense
+
+In a follow-up paper published last month, the MIT team identified a way that this space-based solution could make flying safer by making the plane fly straight and maintain stability while making passengers and crew happy. The team is studying Schaefer et al.'s flight control system on a smaller Airbus A330-200. It also looks for aNeighbor to make the most of the lack of turbulence, which could be helpful if you have an emergency.
+
+"When all planes are flying at 50 miles per hour, they just don't

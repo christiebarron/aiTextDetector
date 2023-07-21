@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Firstly, in the case of the set-up, it marching mode helps in protecting it from the risk of falling through the walls. It protects the cyclist from collision (although even this is possible if the cyclist has suffered a serious injury).
+
+Then there is the 'Growth' mode.
+
+The number one factor is that these can be run by anyone - they are the easiest to implement in the context of a single rider.
+
+Here are an example run of 'Rough Road Ahead', with its settings selected from the cycling information menu within each line:
+
+# Rider mode set # # Rider 2 position set # # Rider 3 position set # # Rider 5 position set # # Rider 6 position set # # Rider 9 position set # # Rider 10 positions set # # Rider 11 position set # # Rider 12 position set # # Rider 13 position set # # Rider 14 position set # # Rider 15 position set # # Rider 16 position set # # Rider 17 position set # # Rider 18 position set # # Rider 19 position set # # Rider 20 position set # # Rider 21 position set # # Rider 22 position set # # Rider 23 position set # # Rider 24 position set # # Rider 25 position set # # Rider 26 position set # # Rider 27 position set # # Rider 28 position set # # Rider 29 position set # # Rider 30 position set # #

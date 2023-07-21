@@ -1,0 +1,39 @@
+Computers have many effects on people. You can read more about them here.
+
+How To Get It
+
+Use your laptop
+
+If you're not in a PC. Instead, download a file called bsdcard for easy-to-use software download. Use the.deb file at the top of your computer when downloading.
+
+Run
+
+With this command (with your installed Debian/Kernel 3.19 or newer), open the.deb of the raspbian-setup utility.
+
+sudo apt-get install raspbian-setup python-nss-client
+
+Run with
+
+sudo raspbian-setup -i
+
+After it installs, download the kernel for x86 and the linux-headers package from raspbian-setup. (Or, you can use the apt-get installer for your PC.)
+
+How you might use
+
+Raspbian and Linux.
+
+Raspbian
+
+Create an account by clicking "Create Account". The address for your computer will be displayed.
+
+Register and login.
+
+Open the "config" and "update-programms" files that go with your system.
+
+If you don't see a log file and only want to download and run linux, you can create one using apt and the command of the Debian installer.
+
+raspbian-setup -i
+
+The Debian packages can optionally be manually added with:
+
+apt-

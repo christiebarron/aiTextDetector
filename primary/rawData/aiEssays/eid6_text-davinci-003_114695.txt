@@ -1,0 +1,7 @@
+
+
+Building the Empire State Building was no easy feat; ambitious architects, tireless engineers, and by the time it was completed in 1931, 3,400 workers had made New York City's iconic structure a reality. Of course, a building this large had to include some extra features, and one of the most ambitious was the inclusion of a mooring mast that could accommodate dirigibles. But incorporating the mast was no small feat; building the Empire State Building with this supplementary feature came with its fair share of challenges.
+
+To begin with, the architects of the building had to contend with the mooring mast’s size. With the structure standing 830 feet high, it would be one of the tallest in the world and dwarf the design of the building itself. The engineers estimated the mast would have to be over a hundred feet in length with a diameter of nineteen feet, likely increasing the already considerable cost. Besides the structure’s engineering problems, the architects had to face the public’s attitude as well; in the early 19th century, dirigibles were still relatively new, and many were wary of the potential hazards of having a large airship flying around New York.
+
+The physical implementation of the mast was even trickier than the design. On the top of the mast had to be a steel platform, so jet streams caused by the structure would not cause the dirigibles to lose traction, and below that had to be a number

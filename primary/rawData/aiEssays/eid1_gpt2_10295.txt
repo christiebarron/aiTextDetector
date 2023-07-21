@@ -1,0 +1,18 @@
+Computers have many effects on people. To use the internet you can use a computer and send data to machines. It's not for everyone.
+
+
+When we send data back to our data centres, it will take a couple of months to transfer it back to these centres for re-export. We use three main methods of transfer with our computer, all of which require different services.
+
+
+The three methods of transfer can be explained on the main pages of our UK website:
+
+
+1.) By using an IP address which you set up at a moment's notice, computers in the UK send you 'em to your computer
+
+2.) By sending data about us to websites that use cookies enabled and cookies on your browser
+
+3.) By sending data to your phones or tablet when you use the internet
+
+These techniques are only used when you are using internet services such as Facebook, Flickr, Whatsapp and Instagram, or when using e-mail or internet message. However if you use these methods, the data we collect about you will be for the purposes of research purposes, that is to say 'for the research benefit and benefit of your children, who use you in the social services we use, for research purposes, under these circumstances'.
+
+3.) If you want to set up a mobile broadband or a data roaming network from your home country or country of business then you don't need a VPN. There are no such networks available in many other countries where you can

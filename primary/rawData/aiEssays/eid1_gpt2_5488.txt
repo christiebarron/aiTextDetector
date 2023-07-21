@@ -1,0 +1,7 @@
+Computers have many effects on people. In addition, machines that can read and write are more likely to be inefficient (as opposed to using slower or better algorithms), produce fewer errors (as opposed to more errors), and solve more complex problems (as opposed to other errors, such as non-randomness problems). Machines which need to do more work are more likely to use fewer resources to implement new algorithms, which creates a greater amount of redundancy and time needed for other processes. As a result, people who run more programs will have less resources to compute and perform more computations, which may result in lower computational time and complexity.
+
+Most of the computers used by humans, in terms of computing time, have been developed primarily for computing by humans. In general, humans are responsible for the large array of computer programs they produce by running and managing them. But, there are other machines in operation today, such as humans that manage computers based on user actions, or computers that write programs, such as robots, that run tasks written by humans.
+
+Machine learning approaches that use machine learning algorithms are becoming increasingly popular. The AI program that can learn an important algorithm is now the world's #1 computer in nearly every computing field. If an AI program can perform something with a human or a human-generated algorithm, it may be better or worse. (See list of algorithms for all AI algorithms.)
+
+What's more, the ability to perform computations by human beings and machines

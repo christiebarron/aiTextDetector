@@ -1,0 +1,10 @@
+Computers have many effects on people. However, they are all very different things. One is that a machine that only knows a basic thing is extremely inefficient at handling the complex data set, and this becomes an enormous advantage when making complex decisions in the context of a complex data-sets. Another is that a machine that wants to do a bunch of complicated things in a finite amount of time just can't. In fact, the basic human task of analyzing a complex data set at once is a huge bottleneck for this human. If the human is able to do this, then a whole system from an average-sized complex data set is possible, which probably takes a lot of time. But this means human brains always have to keep up with this new complexity because it takes a lot of Barrier Time, because it takes a great deal of people's time.
+
+
+There will always be some time-tolerance problem to some parts of the system, because the more complicated things happen in the process of processing the data, or the more complex things happen with some less processing time, there comes a point at which even some machines will run out of computational power. This usually means that when a machine was given some kind of basic information that it needed to make the important decisions, people probably got bored.
+
+
+Many other problems are quite small in their complexity in the absence of a very basic way toward handling complex data sets. They are:
+
+
+- Most problems require very large amounts of expensive time

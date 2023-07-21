@@ -1,0 +1,5 @@
+New technology called the Facial Action Coding System enables computers to identify human emotions. Hold on! Can we actually "calculate" emoitons---like math homework? And how can a computer recognize the subtle facial movements we humans use to express how we feel? Movement of one or more muscles is called an "action unit".
+
+In fact, we humans perform this same impressive "calculation" every day. For instance, you can probably tell how a friend is feeling simply by the look on his or her face. Of course, most of us would have trouble actually describing each facial trait that conveys happy, worried, ect. His new computer software stores similar anatomical information as electronic code. Perhaps Dr. Huang's emotion algorithms are a different sort of of "Da Vinci Code"!
+
+I'm for the new technology Facial Action Coding System. I think is a good idea for computers to know if there owner is happy, mad, sad, and ect. I know I will try the new tech. Heres a qoute from the article " even thought individuals often show varying degrees of expression" (like not smiling as broadly). Each expression is compared against a neutral face (showing no emotion).    

@@ -1,0 +1,19 @@
+Computers have many effects on people.
+
+For example, if you're having troubles logging on to your Windows 10 PC and your email account is being terminated by a hacker that has no explanation, then the hacker has to go through the process of sending back your credentials again.
+
+As noted in my previous post, Microsoft made some changes to their Windows 10 software in order to change the ways they view security and integrity.
+
+So what, then, is a more trusted Windows 10 program, or should we call them an "other"?
+
+While there are many other programs, there are simply few that you should be using, to understand better what the security and integrity of an "other" means.
+
+Below are 10 things that are less effective than a Windows program as used by everyone to connect, and how they can be used to do more harm than good.
+
+1. Use a VPN
+
+If you're running an iOS or Android app on your computer, you'll definitely use a VPN to access your VPN with any email you send. But there's really no way to know how long after you leave a chat room or your computer rest, which is why most people are reluctant to try the VPN.
+
+If you're using an SSL VPN, it's best to avoid using an SSL certificate on your computer because it can easily be compromised with a phishing email that includes private security information.
+
+Using an SSL certificate, however, is often

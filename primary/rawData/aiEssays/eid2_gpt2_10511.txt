@@ -1,0 +1,19 @@
+I believe that censorship of materials in libraries might result in some confusion, although for now the library system should work as expected.
+
+1.1 How might libraries be updated?
+
+I believe the goal is for libraries to be updated to meet the needs of their users. This means they will have improved, more efficient and more stable code. I have also introduced an open source version of library_update where the code itself is not shared by the community. In addition, this feature is Avalanche software built with Go for easy implementation and use with Go. To get these features you will need,
+
+a Go build and a basic Go source tarball
+
+a golang version 2.5 or newer
+
+a version of Go 2.6 or older
+
+3.1 How do I upload the binary?
+
+You add a copy to your repository in either git or gvbsa. The binary includes the library files that your repository uses. For example:
+
+This example can be used to upload a package via the package_repo_package_file and jammed the distribution. If you upload a file with its source files in separate folders, the package will now make a separate, separate and separate commit. The binary can be uploaded to this repository by downloading the binary and using the following commands :
+
+cd ~/src/package_repo_package_file git submodule update -b /var/lib/go/src/package_re

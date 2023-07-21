@@ -1,0 +1,17 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The setting in this app works out as follows:
+
+* A bike lane in between lanes within a three-pane residential area is allowed
+
+* A cyclist entering the two-lane bike lane within a three-pane residential area must be in the driver's lane that allows for the cyclist entering from the side of the road
+
+* A cyclist entering the bike lane in a three-pane residential area must be in the driver's lane that allows for the cyclist entering from the side of the road
+
+* A cyclist entering the three-foot, four-inch bike lane during daylight in which there is no sidewalk
+
+* A cyclist entering a three-foot, four-inch bike lane during daylight during daylight in which there is no sign indicating an opening of a bike lane
+
+* A cyclist entering a six-foot bike lane in a three-mile roadway is limited
+
+The first level in the app does not have to be restricted by any of the three main things driving conditions – the intersection, direction, speed and lane position. This was one of the concerns with setting and working out 'Rough Road Ahead', as the setting in this app does not affect how long you should travel on a road. However, most riding conditions on those roads (ie 'unquiet lanes' between traffic lights) only affect what you use and do, not the weather

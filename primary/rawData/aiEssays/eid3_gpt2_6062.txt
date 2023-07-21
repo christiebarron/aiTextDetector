@@ -1,0 +1,23 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+In 'Rough Road Ahead' there are two major characteristics of roads: the average road width is greater for roads with little or no road space.
+
+The average road width among roads is 2.46 hectares. This corresponds with a very narrow road width of 42.5%.
+
+A road of 42.5 hectares is a very narrow road, with a width of 42.4 hectares in the middle of the street.
+
+Roads with only roads that are not narrow or very narrow with low road space are considered as 'Rough Road Ahead'. Roads not narrow can and do not have wide road spaces (unlike roads that have little or no road space).
+
+Traffic on roads that are narrow and narrow are also considered as 'Rough Road Ahead' in this sense.
+
+Note that on a low road space:
+
+a) the road must be very broad
+
+b) the length of the road must lie in a short range of road spaces
+
+[Note: an 'Rough Road Ahead' condition is needed if the road was at least 2.46 hectares long and it must now stand more than 12.4m long (see table [1.7]).
+
+A narrow road space is defined as a distance (for one metre or more in a particular distance) between two road spaces.
+
+However, not all

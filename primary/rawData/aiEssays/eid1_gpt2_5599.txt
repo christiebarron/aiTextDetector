@@ -1,0 +1,11 @@
+Computers have many effects on people.
+
+If you have a computer with multiple operating systems and many virtual machines running on the same operating system each time, it will all just be so crowded that you don't know that you are actually being isolated. Instead, you might be stuck with "I'm not running this program locally anymore, or something" and "this program is running locally, or another virtual machine running it locally." This is quite dangerous. It requires the user to understand where they are and how virtual machines are managed.
+
+Also, you may still find yourself in a situation where something is "right" and doesn't really work. A program that runs on an operating system or Linux computer, but the programs inside that device may not run on a new host. We don't know every single single case where it won't work because of this problem; it is hard for us to pinpoint a solution.
+
+If you already know what you are doing, and you know what to do to get it working correctly and correctly, there is obviously nothing you can do. You might try to stop it (try the same technique with some other computer or OS) by clicking on the virtual drive or by making the operating system run on it. But even if that doesn't work, it may mean some kind of problem as it is.
+
+3. Don't try to stop the program.
+
+If it is not "correct" then no one can control it.

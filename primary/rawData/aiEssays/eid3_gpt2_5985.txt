@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Some conditions make the conditions difficult, others are more manageable.
+
+In particular, high temperatures, particularly when wetter, make the climbs harder and more difficult. There are also some areas which may not be suitable for cycling or use, such as, well-built and relatively narrow streets. But these vary with rider preferences and the climatic conditions.
+
+Also in terms of the cycling preferences of our current and former users, it is important to add in that we are concerned about how the user interface will work in the future. They simply won't be able to make use of this features at the earliest.
+
+We plan to integrate feedback from cycling aficionados into our next cycle experience. This user interface is available to all riders who wish to try the features on their own. Users can download the current cycling session for free by following our instructions along with the current cycling schedule.
+
+Our Cycle Tracker is based on feedback we received from those with different views – those who have decided to ride bikes that are a bit too cold, those who want to make faster, those who only ride between 7am-2pm and those who just do one or two miles a day. As of this writing, our website is offline due to a bug that affected the accuracy of our estimates.

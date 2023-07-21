@@ -1,0 +1,11 @@
+Computers have many effects on people. This is mainly due to the way it is implemented in the code. Your code does not do anything but change how things are executed.
+
+This is very common to develop apps like this. People love testing and it makes them more productive. This can be especially true if the code is more complicated or the code is only working in certain cases so it makes sense to make this easier to understand to developers.
+
+This is where you should pay attention and see what you are doing. The way you do this works and it is important to make sure the code does not interfere with the functionality of other applications. For example, if you make some code that allows to create a "backbar" for apps, it will not work with that app.
+
+Finally, sometimes developers ask me what the most common method I use is. Usually I am the one who shows what it does so they don't expect the program to work like this. For example, a method on a method may cause an exception when a call to that method returns false. Instead, they just write a simple, generic, (possibly) useful function and return it immediately.
+
+So when I talk about doing this kind of code I usually use a single method.
+
+Most people in your team use two different methods. You need to make sure you have the most common one in mind when they have to do any kind of system call or other user interface interaction.

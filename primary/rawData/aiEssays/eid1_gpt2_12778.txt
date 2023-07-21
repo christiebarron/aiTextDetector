@@ -1,0 +1,9 @@
+Computers have many effects on people. Sometimes you need to see a particular character develop on screen or the user has to be an avatar-like character. You can create a world where the characters are all connected together. That's not to say the worlds you need to create are infinite or infinite-level. However, if you add in some kinds of interactive features like the ability to be animated to show an avatar as he has moved around you will let characters change that. You have to make sure that all of the virtual worlds and the game are just as immersive and dynamic as possible.
+
+Here's a great example in Unity's demo. The demo is called "Puzzle Art", it's about trying out various levels of puzzle-design. It's only a few feet long which makes the game simple and clear. However, there are ways we can create a much more immersive world with a controller.
+
+The best way to make a world that's like in real life is to have a very realistic world that exists on real space. You have to create that same "World" between levels so other worlds can interact and interact with each other in the same believable way.
+
+If the VR headsets and PS4 are available and you can do really good things with them, then what is the point in allowing the content makers to make the content available for you and create their own virtual worlds and experiences within the games?
+
+The point of VR is to make you a true

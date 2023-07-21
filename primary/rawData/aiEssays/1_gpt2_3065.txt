@@ -1,0 +1,21 @@
+Computers have many effects on people.
+
+Faster learning
+
+When we start working with neural networks, we often see how much faster learning we can get from different inputs.
+
+This doesn't show up in human brains!
+
+The idea is that learning via the brain-brain link between neurons is an important step toward the more-advanced (brain) brain in the process.
+
+This is great news for our learning, but it isn't the way most people are thinking out of their minds.
+
+Here's how our brain works: Think of a graph, your neurons are connected, and there's information that you can move across the data. At least an average person's brain can be moved. When a person writes down an input, the brain generates a neural net that is called the "net of inputs".
+
+It can move some of the input through a subset of the network, and the inputs do not need to be contiguous with each other. By running in the exact same data-flow conditions, the network of neurons can move more efficiently.
+
+Because these networks can be reattached on the fly, learning from it can be much harder.
+
+In fact, the same thing is happening if you build your first neural network. The same thing is happening with your second. It starts with the first and moves to the third.
+
+The theory is that, to keep this sort of loop going, neural networks need more input

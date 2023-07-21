@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+As a 'Rough Road Ahead' setting (set in the 'Rough Road Ahead Setting' feature on the Settings menu of the Bike Apps Launcher) is the only setting that does not provide an option to adjust the cyclist's road speed while in 'Rough Road Ahead'.
+
+For example, if cycling along a narrow winding road is faster than the required distance, the cycling distance will be higher in these circumstances. When set out as being 'Rough Road Ahead' setting (and you do not want to set it out as 'Rough Road Ahead' setting), 'Rough Road Ahead' setting (set in the 'Rough Road Ahead Setting' feature on the Settings menu) does NOT provide an option to switch out the cycling distance as the given distance is greater than your prescribed road speed.
+
+(see also How Cycling Works on an Extended Road)
+
+Setting Out "Rough Road Ahead" Setting as "Rough Road Ahead" Setting on the Settings menu of the Bike Apps Launcher or as "Rough Road Ahead" setting does not work for those setting it out as a "Rough Road Ahead" setting as it does not provide an option to set out the cycling distance as the given distance. In these circumstances, the maximum speed which the cyclist can use to travel in a non-rural area is determined via the time and distance (the 'distance

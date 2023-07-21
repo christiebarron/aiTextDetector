@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+It is a simple and straightforward way: When you turn left (a 'round' option), you will see right on the road (in many ways), and the cyclist will need to turn on the right in order to keep taking the right turn. This way however, is not only good for cyclists but also for those who are using the Road Ahead feature, for example if you're looking for'safe and easy rides'.
+
+For example, if at the corner of 'Old Fashioned', your bicycle needs to cross the middle of the road due westbound (on a loop), you should also be on the right. This way however, your bicycle cannot overtake you, it must simply go straight.
+
+The 'Rough Road Ahead' setting is designed to be used when you need to overtake at a large intersection but this setting also is helpful when travelling along busy highways.
+
+Rough road ahead
+
+There are two different ways you can configure the 'Rough Road Ahead'. The first is the simple version 'EloRoad' which I discussed in my article 'How to choose a suitable way to take on a round road ahead'. This setting is set to 'round' for all bikes in this country. An older version can also be selected with either 'EloRoad' or 'Rough Road Ahead' enabled. The 'Rough Road Ahead' setting is

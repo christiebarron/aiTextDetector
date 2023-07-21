@@ -1,0 +1,17 @@
+Computers have many effects on people.
+
+One of the largest is the lack of privacy in the Internet of Things (IoT) infrastructure. This is due to the fact that there is usually no one-time data being shared but by having a company like IBM set up the IoT platform (which has the power to do the data aggregation), these sensors can do most of the work without any human intervention.
+
+For companies like Facebook to be able to access the data the hardware could just be that much faster. Instead of the billions of dollars being spent around how to do things like sending photos, WhatsApp might be able to do data aggregation based primarily on what the companies provide. Of course, they are all going to have to come up with similar algorithms and hardware based approaches when they decide to do all of this.
+
+Other Dimension: More Reliable
+
+The next major dimension is to make a business less reliant on third parties.
+
+The Internet of Things is basically the opposite of what we need to make good business decisions.
+
+The people who come up with the data need help so they can make informed decisions with the customers.
+
+One of the main advantages of using companies like Facebook, like Uber, or Slack will be that everyone will have their own way of knowing their stuff.
+
+It's also a big shift in our ability to make a business work. One of the things that I am particularly concerned about in the IoT era is the loss

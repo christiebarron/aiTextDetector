@@ -1,0 +1,15 @@
+Computers have many effects on people. It's like having them constantly monitoring their life on the net. I found several interesting articles in this type of blog. Perhaps these will also draw other audiences to this area, particularly if some were considering this as a possible "spare part" to help support the development of a computer that can perform a lot of things on the web.
+
+This topic has been taken to be the main forum for this community. The more specific issues are the ones that I am still working on.
+
+I am at the time still having trouble translatingBuilding into a decent and stable OS. This isn't to say that I don't enjoy it but many of the tasks it requires is probably not a priority. I am still very aware of the potential (and even expected) work that needs to be done for this.If you'd help me further, I'd be sure to tell me where you went in.
+
+What does this mean for you?
+
+I've tried running Python through this topic using the following approach: You must have some sort of Python installed with Python 3 so you can build your own.
+
+Install the following:
+
+pip install python-python1.10.1
+
+I've created a small build script that takes this and the code from this page and creates or edits a static folder and then creates its own static folder.This should all seem pretty simple, just remember that it will not automatically create a

@@ -1,0 +1,11 @@
+Computers have many effects on people. It's up to them to find a cause and fix the problem quickly instead of wasting resources. This isn't to say that people who have already solved it will go any further than you would think, if the problem is not solved quickly enough. That is our sole responsibility. And we don't want you to just sit there and let your "problem" run on its own without the other people's input. We're not here to have your input fix every annoying problem. But we're here to get you to do just that.
+
+I'll go over some other points from this post:
+
+• On a simple mathematical level, each algorithm's performance is the sum of all known potential. If you have zero randomness, chances are that a single algorithm will perform better than a computer that only takes one step. In order to get the exact same user experience as your PC or Mac, you must take every possible step you can think of in order to achieve the same performance. We cannot know which algorithms are doing the best but it isn't enough to just "put the computer out there".
+
+• I've heard this phrase before:
+
+"Don't be a fool". This phrase was taken from the English philosopher Alan Turing, who was killed by a train in 1953 in a plane crash, who was a little more sympathetic towards computer scientists.
+
+• Computational complexity is an incredibly high one. In fact, we do

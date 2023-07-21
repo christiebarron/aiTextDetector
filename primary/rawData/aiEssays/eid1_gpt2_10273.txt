@@ -1,0 +1,9 @@
+Computers have many effects on people. We tend to believe that those effects can be controlled only by software programming, while the actual effect of different programming languages can be much stronger. In fact, the most common programming language for a single user, Java, is at first completely unknown. In other words, it is not surprising that a program is made up of many small functions that have different semantics. In real life, all this complexity is caused by each individual programmer having different control structures. Each program and a specific function can be customized by many people or by programmers to suit their needs and needs in a particular work environment.
+
+The most common program on Linux is Rookie. This one is based on Erlang. But it is also based on other languages that use the Erlang compiler. If you use the Erlang compiler to make a program, you must use the Erlang compiler to make the program run with a lot more detail. Erlang uses many different compile-time operations, which are referred to as special instructions. They are used to enable the Erland compiler to compile a program. For example,
+
+erlang (program x,y = 1,z = 0,f = 0),
+
+(program x,y = 1,z = 0,f = 0),
+
+allows you to check whether y is 1, so you can use printf to put it directly into a program (without a variable declaration). In this particular instance, it can even be

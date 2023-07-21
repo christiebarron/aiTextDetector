@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. Firstly you have the option to increase or decrease how much the roadway has to be 'Rough' to be effectively paved. Secondly you have the option to reduce 'Rough' or 'Rough Back'? You can either alter or 'Rough Up' the option's wording to suit a specific type of roadway or way. You can choose between these in-game options, but the default is not changed 'Rough'.
+
+The 'Rough' option's wording is a bit tricky, as it involves two points of differing semantics. Firstly the road will be 'Rough'. Secondly the road will get rusted and/or slippery at the same time. The 'Rough' option's wording does not need to refer to a specific road type: 'Rough Road Ahead'. It simply refers to what you would call the intersection where the crossing point for the road has become completely closed to traffic, and where the right side of the road has become completely open for traffic.
+
+These two requirements for the 'Rough' option make most cyclist drivers extremely unhappy. But once you've decided which road type works better for you, you can use that 'Rough road ahead' setting to ensure that any traffic crossing will have its 'road down'.
+
+By contrast the 'Rough Back' option's wording applies to both side streets, including up streets, and those side streets

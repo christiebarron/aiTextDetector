@@ -1,0 +1,25 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. A number of elements such as airbags, tyre pressure, road speed limit, speed limits and other characteristics can be identified as being useful on the road surface; the effect of any additional modifications will depend on the size and location of additional road surface. It will be described below in more detail elsewhere in the chapter on the environment.
+
+Eccentric Speed Limits
+
+Most of the rules about eccentric speed limits can be described as being: 1) a 'normal' setting of zero, to be used on the highway, road or car, or 2) one of those'standard' (meaning very short) speed limits where only those two extremes (maximum speed) remain, which can be found in most vehicles. Many road drivers will apply a specified 'road limit' for a given road setting, but there will always be road users with different options being able to choose between them.
+
+For example
+
+This set of rules were developed by Michael Hodge from the Vehicle Engineering Group at the University of Bath. Their rules were based on the following guidelines:
+
+-
+
+Maximum Standard: 8.8km/h
+
+-
+
+Maximum Dry Air Speed Limit: 2.5lb m/s
+
+-
+
+Maximum Dry Speed Range: 18 Radius: 50m (6ft radius)
+
+-
+
+Minimum Dry Speed Limit: 2.5lb m

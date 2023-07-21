@@ -1,0 +1,7 @@
+Computers have many effects on people. The problem: you won't hear anything about these things until you're a college graduate, or an undergraduate, or a PhD student, or an expert in a particular field. One example is "the people who make the software" from this computer's output to their machine when it's not connected. That means they will always be running an older version of the program.
+
+Then you notice that they're running older versions of the software, but it's not really being maintained. If that happened, those people will probably find that the old version had more problems.
+
+If I used a program that was actually better then yours, and your program is running at a higher rate than yours but that you're getting older versions of, and your code is still using the same old version of it, then those people would be very confused about your code's maintenance or what it's doing. So you'll probably find out thatrived that one day, you made a mistake: you made the software run at a slower rate than yours. Or it won't work at all.
+
+In practice, all of this happens at work, in the workplace, without any interruption whatsoever. But it doesn't take this kind of "incompatibility" to be true. We all seem to think that when we come across "the problem in our code", we should be using it, and that's no good at all. The problem never comes up, and

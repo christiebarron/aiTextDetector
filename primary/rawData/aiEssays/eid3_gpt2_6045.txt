@@ -1,0 +1,18 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. The key example is the cyclist who tries not to hit the road but to make it so.
+
+
+The main approach and the wayward cyclist
+
+This particular scenario requires careful calculation of how far to cross the road. There are two general ways to do so using the RTS:
+
+
+The RTS gives you a general overview of the terrain you need to cross to get close to the road. In other words the RTS is the method at which a driver decides in advance how far down the road we travel and makes certain that at the end of every round he or she will approach the road.
+
+
+The RTS uses a number of tricks to calculate how far you need to cross the road. They include 'rolling' and 'walking' to obtain specific results. Rolling and walking have become popular methods of crossing the roads due to a variety of advantages and disadvantages to having to go faster and to reduce speed.
+
+
+Rough Road Ahead is a great way to make sure you know how far you need to go before turning right. This is different from other 'high street' rides which take advantage of a variety of rules and rules of engagement.
+
+
+As with all things that involve rules, there are rules you can follow. They are very subtle so be sure to check them out as they're just one of many things you can do in RTS to help you make good

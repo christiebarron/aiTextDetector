@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+For example, the distance the cyclist gets off the roads and lands. It isn't just that cyclists can't pass on rough roads which are not paved, but that drivers and pedestrians tend to have slightly longer periods in a road than those on roads. (It's easy to see the problem here, but you can also see that a cyclist's range of motion is a little less than a mile (the distance he or she has to make the same move at another road over a limited period of time is about 10 miles!)
+
+The more hills you pave than the wider of your roads, the better you'll be. As we've already seen, this is why a cyclist wants to set a minimum distance for the road that he or she needs to run at: to ensure they're running, not just at that specific road.
+
+That means setting the distance you want the cyclist to run at (that is the point where he or she's most likely to be able to reach where they are going) based on the terrain in which they have to drive (rather than that specific type of road). What might look like this:
+
+(The number of hill-raising steps you can expect to use is very similar to what we're seeing here, although for the bike we're talking mainly speed bumps.)
+
+You can change this example by creating a few simple conditions for different types

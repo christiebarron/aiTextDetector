@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The most important aspect though is the 'Road Ahead' setting, which provides a 'routine' map with key points on how cyclists should behave at certain points. Cycling can proceed quickly across a specific boundary, as they will do without a route. A road ahead will move fast enough that it must follow the same path as before, so not much work is required.
+
+However, it also makes sense to make attached conditions in the background that allow cycling through the 'Rough Road Ahead' map to go on. In the example under the diagram above, you can see that in that setting, the cyclist will keep on going up the road ahead, with any obstacles that might be present (including pedestrians, cars etc) on the first turn, on the second turn and so forth, until at least the final stop point.
+
+'Rough Road Ahead' settings can also be used to apply obstacles in the corners if desired. For example, if you are heading for the red light at one corner you could put some obstacles in the corners to allow any car or car traffic to get into the path of the cyclist as they may hit the car along the wrong way.
+
+In the above example, if you are trying to get to a left turn lane at the top of a turn then you will need 'Rough Road Ahead' setting, you could also include a road ahead

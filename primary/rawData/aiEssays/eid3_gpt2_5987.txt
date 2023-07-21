@@ -1,0 +1,19 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+(0,30) - The 'Conductive Path' determines the speed of the cyclist over the 'Highlight Points' listed in this paragraph.
+
+(33) - The 'Preparation Path' indicates the time spent preparing for and performing a safe procedure.
+
+(4) - The 'Highlight Path' means a distance where no 'Rough Road Ahead' is available to the cyclist. Generally, a road ahead between two points is a rough road ahead within the 'Highlight Points.'
+
+(4.1) - 'Rough Road Ahead' means a path where the cyclist is facing the road between the two points or where the cyclist is attempting to cross it.
+
+(4.2) - 'Rough Road Ahead' means a path where the cyclist is facing the road against a path which is parallel to the road.
+
+(5) - The 'Post Installation Path' means any suitable path which links the 'Highlight Points' that can be identified by the cyclist's face. The 'Highlight Points' can be distinguished as the following locations:
+
+(1) A short distance to each other;
+
+(2) A short distance in all directions from each other, but not to the point within which the crossroad becomes narrow.
+
+(3) At either end of a road, a short distance

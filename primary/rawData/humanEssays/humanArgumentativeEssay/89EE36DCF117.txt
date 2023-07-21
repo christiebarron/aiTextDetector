@@ -1,0 +1,13 @@
+IN the Article "Making Mona LIsa Smile", the auther describes how a new technology called the Facial Action Coding System enables ccomputers to identify human emotions like the Mona Lisa Smile.
+
+In the article it says that she is 83 percent happy, 9 percent disgust, 6 percent fearful, and 2 percent angry somethings or technology cant do that or some people cant do that at all and that is suprsing but what they call it is the "Da Vnci Code" an the name sounds cool and makes seans.
+
+Well the whole process begins when the computer constructs a 3-D computer model of all faces; all 44 major musals in the model must move like human muscels. Movement of one or more muscels is called an "action unit." Then Dr. Huang relies on the work of psychologist, such as Dr. Paul Eckman, Creator of FACS. Eckman has classifed six basic emotions-happiness, surprise, anger,disgust, fear, and sadness and then associated each with characteristic movements of the facial muscles .Here is a example in the article 1. Raise your lips at the corner of your mouth.
+
+2. Than Squint your eyes slightly, to produce wrinking at the corner of your eyes.
+
+3 Holding that, raise the outer parts of your cheeks up, toward your eyes.
+
+According to the Facial Feedback Theory of Emoton, moving your facial muscels not only expresses emotions, but also may even help produce them.
+
+A renowned drama couch, Constantin Stanislavsky, had his actors carefully reproduce smiling and frowning as a way of creating these emotons on stage.   

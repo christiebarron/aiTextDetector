@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. It is usually very interesting to see which of the variables is on the list. I'll start with that, and then proceed with a brief description of what 'Rough Road Ahead' is, or is not.
+
+At an extremely short moment of time the cyclist is taking his crosshair. This is where things start to get interesting. The cyclist's crosshair is usually around the edge of an empty space; if his hair grows down too quickly, then he's looking at a corner or a small hill. It is here that a large number of variables are introduced and the information can be used to set the values of the variables below to change the road angle, so the cyclist goes straight.
+
+Below, the cyclist is looking at two small rocks. One is at the edge of the road, the other is between houses and trees. The rock is on the left; the hill is on the right; if the cyclist has to cross that road and land on the road in order Emirates does not allow cross-street parking to be used. What he is looking for is the position of any objects that he might have been driving (or standing next to or behind) during the drive (this usually means a car, a bus, or any other vehicle in the path) that might have been moving within the space between the trees.
+
+At some point one or both of the variables above

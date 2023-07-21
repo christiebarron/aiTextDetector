@@ -1,0 +1,31 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+Here I describe this setting based on an average cyclist's view of the roads we drive as well as the number of car journeys involved.
+
+The settings for 'Rough Road Ahead' in the road profile are:
+
+A flat ride or 2km.
+
+A quick run (2 minutes or less).
+
+A road with only a few car journeys.
+
+A fast and quiet road (10 minutes or less): 60% (5 minutes or less).
+
+A quiet stretch (20 minutes or less): 75% (3 minutes or less).
+
+Road shape (R) changes from flat to wider.
+
+A full round ride or 20km.
+
+An uneven trail or 40km or less (15 minutes or less).
+
+A road which has many car journeys.
+
+Road sizes. 'Rough' refers to the road width or length along a given edge between a pair of flats. 'Rough' refers (not used in the rules above in the list above) to any flat on the 'rath'.
+
+'Rough' is typically written as "Rough Road Ahead" in the road profiles and on the map. 'Rough" refers to road size in miles divided by 1.
+
+Rough Roads - Road sizes in miles divided by the maximum number of car journeys
+
+A flat in the rough

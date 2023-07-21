@@ -1,0 +1,9 @@
+
+
+The building of the Empire State Building in 1931 presented a unique challenge that its constructors had to grapple with—the issue of allowing dirigibles to dock. The idea of allowing airships to dock atop the tallest building in the world had never been done before, and the architects and engineers collaborating on the project faced obstacles in designing a framework to make it a reality. 
+
+The most immediate challenge was structural stability. Designers had to take into account the weight of the dirigible, the additional weight of any passengers making use of the air travel, plus any equipment that would accompany them, and ensure that any accompanying mast would be able to safely bear the burden. The mast itself was designed with strength and durability in mind, with a framework of steel rods designed to stabilize and contain the airship while in port.
+
+The second obstacle was the issue of wind turbulence. Although gusts can be heavy at the top of the building, they are still lighter than at the ground level, preventing them from making a potentially dangerous impact on the docked dirigible. Engineers turned to two approaches to mitigate the issue. First, a turbine airfoil system was designed to minimize the turbulences. Secondly, the mast was designed with an inflatable balloon generator that could be used to create a barrier against the air currents if needed.
+
+The last challenge was making sure that the dirigibles could land safely during any rain or snow. To that end, the mast was

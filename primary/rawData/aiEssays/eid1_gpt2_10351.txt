@@ -1,0 +1,27 @@
+Computers have many effects on people.
+
+Here are a few:
+
+When computers fail to respond to commands that they know they won't find.
+
+When computers become too power-hungry to do specific calculations.
+
+When servers aren't able to handle large amounts of data on top of computers and so need to do their own configuration change to accommodate the increased power.
+
+When machines are trying to run some kind of software update that would break down the hard drive.
+
+When computers have problems running some form of Linux distribution with the ability to reboot on certain days.
+
+When data packets are written to disk every day.
+
+When problems start taking out their own SSDs.
+
+When computer errors start happening frequently and interruptions increase.
+
+When computers break down on the first day after the first set of troubleshooting is done because of some hardware failure.
+
+If you've got any of these things down that you plan to try in the future, feel free to try it here.
+
+I've also seen quite a few people with multiple computers that aren't even running the required updates to their machines without any data being changed, and that were unable to run the update due to the hardware failure and some sort of security change.
+
+To those on the other end, what's the big deal about all of this? Well, if you're on the "good side" of all of this and simply want to test the

@@ -1,0 +1,7 @@
+One time I experienced laughter in my life was when a woman was sitting on the subway with a baby and was shocked when she saw what looks like a man staring behind her. Now I don't understand why people are laughing systemd. systemd is a tool which is responsible for saving lives in the process but you know what? I never expected it would go that far. I couldn't believe I had seen this happening while I was writing this blog.
+
+You see I think you're right. I hope I got something out of it that you have not: systemd is open source. It'sloads of cool code (like the one on my GitHub page). I think the whole idea for systemd stemmed from some philosophical question I was having with somebody at Microsoft (who doesn't seem to be a geek) and I have to ask myself what it's all about.
+
+We know systemd is written in C++, I just don't know how to properly write the program like I was supposed to, so I think my solution is to use the "standard" C++ system. But if you're curious, it will be compiled to assembly, so you can use it to run applications.
+
+To me, systemd runs like a program written in C++. The main purpose of it, I presume, is to save lives which can be saved by using other means. For example, if you open your console (like the one under your desk at the bottom right) and you're running

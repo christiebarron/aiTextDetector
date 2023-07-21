@@ -1,0 +1,7 @@
+
+
+When the iconic Empire State Building was built in 1931, it was the tallest building in the world, and it was designed with an innovative feature—the ability to dock dirigibles like the Hindenburg. Yet, successful implementation of this feature proved more challenging than imagined. Despite the immense engineering feats necessary to build and maintain docking masts, and the many obstacles faced during its construction, the Empire State Building’s mooring mast ultimately changed the face of aviation and transportation.
+
+The first obstacle to building an effective mooring mast was the sheer height of the building; at this time, 1,000 feet was an unprecedented altitude, making it difficult to build a mast that could realistically support a dirigible. In response, engineers had to develop an entirely new engineering design, which consisted of a network of cables that could absorb any sudden jerks from the dirigible during the mooring process. Making matters more complicated, all of this was taking place during a time when the technology necessary to construct such a structure was in its infancy. Yet, despite these challenging circumstances, the engineers persevered, and were eventually successful in constructing the mooring mast.
+
+A second obstacle the engineers faced was the need to construct the mast in such a way that it could safely guide the dirigible. This was a challenge unique to the situation, as the dock needed to be built within the crowded, built-up city environment, with the limited space that the Empire

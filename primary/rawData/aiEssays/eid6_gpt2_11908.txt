@@ -1,0 +1,3 @@
+The builders of the Empire State Building faced several obstacles in allowing dirigibles to dock. Among them: the building's existing tower could not accommodate large space. Moreover, they needed to construct a building with enough space for the entire city space (where there were no residents).
+
+In their solution to this problem, the architects built a tower with multiple plans that both allow access to the city from the north and the east. The towers were connected with the subway, as in many contemporary skyscrapers. The towers were divided into two different towers. Both towers provided access for residents, as well as the city and central business districts.

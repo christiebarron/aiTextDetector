@@ -1,0 +1,17 @@
+Computers have many effects on people. They can be helpful, but they are not the only means by which people communicate.
+
+Many websites allow you to buy and control your information by simply using the text that appears in the website. If you were to turn that code into something else, your information would become outdated and obsolete in the blink of an eye.
+
+What you don't want to do
+
+I recommend that you avoid using a data management tool like OpenPGP due to the risk of unintended code changes to your data.
+
+Even if you are not using OpenPGP, you can still use this technology. Use the OpenPGP file system that came with your computer to download and verify software updates. This software is similar to a real estate agent's file system (which is pretty easy to copy and paste).
+
+Use the browser extensions such as Mozilla Firefox. This version of Mozilla Firefox (2.3) is a very popular browser for online file sharing
+
+OpenPGP and OpenSSL are all available from companies such as Jupyter Notebooks and eBay.
+
+Why use OpenPGP
+
+Although many computers work with OpenPGP, many computers don't work with OpenPGP. These computers are usually built using OpenSSL. You could try to use OpenPGP to open the browser and install some libraries but that only works on computers that you already had installed. You don't need to get all your open source software

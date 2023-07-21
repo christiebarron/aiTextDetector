@@ -1,0 +1,7 @@
+I believe that censorship of materials in libraries around the world is vital to our country's future. However, as with most laws, certain restrictions face challenges.
+
+In one particularly dangerous case, the United States Justice Department's (DoJ) Electronic Intelligence Sharing and Protection Act (ECIPA) forbids the use of "confidential and proprietary information." This allows the government the opportunity to seek judicial authorization to share with individuals' information without a warrant (or as a "privilege") about the content of any electronic communication, for example.
+
+This case involved a law student in New York who sought to share the information, but was denied by the New York legislature. The law gave access to the information to her student. She claimed that she had been targeted for blackmail and that she should only have a warrant for the information, since no individual would know whose information she had to obtain. She went to a local police force, received a search warrant, and went through the computer system. But the law prevented her from accessing information contained methodology for a review of her electronic communications.
+
+Although in other federal laws, the government can request access to any source or item of information, the Electronic Frontier Foundation (EFF) has done a study of these changes, and reported its findings for today's briefing at 059:03 UTC. The EFF does not take this case very seriously; EFF's Director of Public Policy, Mark Karp, did brief this day at 9:42 UTC to

@@ -1,0 +1,9 @@
+Computers have many effects on people. It's not something we're interested in discussing.
+
+However, what some of the most recent headlines say about Intel's technology is that it's not bad.
+
+Intel, along with the state-of-the-art Xeon processor that replaces the aging 28nm process core used in much of AMD's CPU lineup, has already hit a major milestone, with a series of milestone tests that will show that new processors are coming to a near parity with existing ones.
+
+Now that those "competitors" have arrived, you know that there are some important technical differences with Intel to keep in mind here. Here are three important points:
+
+Intel's processors are using the same motherboards that they use on other generations of desktop computers. That means that there are a lot of cores to work with to produce the higher-level, faster processors. When you look at the performance of the top-end Intel Xeon processors and a large-scale system-on-a-chip (SOC, EOS) computer such as the Dell Evernote Inspiron 11, you will see that they use lower-power Xeon CPUs and have lower clock speeds. For this reason, you will notice that Intel's chips are quite different from those used by other major makers. For example, some of the Xeon architecture uses 32-bit processors rather than 64-bit, while others use 32-bit and 64 bit processors. In short, many

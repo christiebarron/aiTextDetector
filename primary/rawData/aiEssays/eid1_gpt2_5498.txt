@@ -1,0 +1,27 @@
+Computers have many effects on people. People who like computers can be affected too.
+
+How it works
+
+Here you can find out:
+
+The difference between desktop and laptop computers
+
+The difference between mobile and desktop computers
+
+How a computer works using your computer
+
+How to configure power management controls and control other computer systems using an external power connector
+
+If you have a computer with your laptop and your PC's USB-HCI connector plugged, you can download the full program program here https://www.cdromtek.com/programs/cdrom-tek.zip.
+
+How to configure an external power connector.
+
+For this article we are going to assume that you have your USB or USB-C connection in your laptop. Our computer has 1.8Kbytes and we have no other USB input for power and we want to know that you have power connected to your computer. We would like to find out if the computer can play a game, open files on the desktop, etc. So that we can check "Device Info" in all of the menus and check our display for the output of the program.
+
+Start up a text editor
+
+Start up a text editor, e.g. tmux or vi (or another text editor for that matter) and use "Program Options".
+
+Click on the "Run as administrator" button (for tmux in tmux)
+
+Enter your

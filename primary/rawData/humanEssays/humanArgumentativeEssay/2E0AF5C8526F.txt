@@ -1,0 +1,11 @@
+The Facial Action Coding System enables computers to identify human emotions. This new software has a promising applications for a variety of industries. "Can we actually calculate emotions, like math homework?" "How can a computer recognize the subtle facial movements we humans use to express how we feel?"
+
+The process begins when the computer constructs a three-dimensional computer model of the face. All forty-four major muscles in the model must move like a human muscle. Movement of one or more muscles is called an "action unit." The facial expressions we use for each emotion is universal. The software can identify mixed emotions.
+
+The software is the latest innovation from Professor Thomas Huang. Dr. Huang and his colleague are experts at developing better ways for humans and computers to communicate. He then relies on his pyschologist Dr. Paul Eckman, the creator of Facial Action Coding System. He has classified six basic emotions like happiness, surprise, anger, disgust, fear, and sadness.
+
+In the article "Making Mona Lisa Smile", it tells us how a new technology called the Facial Action Coding System enables computers to identify human emotions. "Why would they want this?" Some students could use this software on there computer to use for when they have no one to talk to, to use for homework like instead of looking it up on the internet they could say,"hey computer what is two plus two." This could be the next siri, but on the computer.
+
+For students in a classroom to use this software could be valuable. The article, the psychologists, and the professor tells us the good things about this software. The Facial Action Coding System, we can use it for anything. You can also use it for anamonical information.
+
+The Facial Action Coding System enables computers to identify human emotions. Yes, we can actually calculate emotions, like math homework. The computer can recognize your emtions through software and through a special program Dr. Paul Eckman created. 

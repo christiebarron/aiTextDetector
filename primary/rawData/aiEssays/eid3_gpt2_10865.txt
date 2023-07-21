@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+This setting changes the balance of your bike in regards to height and weight - if a rider does not get enough use out of their front wheels, they will experience a 'Rough Road Ahead' effect. This may cause you to move the bike around too much. It might also affect whether you're able to maintain your distance for the rest of the run, or not. The Rough Road Ahead effect is more pronounced with low settings, although the effect might not be as pronounced as with high settings.
+
+Note that there will not be 'Rough Road Ahead' effects under any of the following conditions.
+
+Highlight: The rider is looking good at the end of the run and looks fine in that particular setting. In a road test, the rider will look very good, and should look at this location of the road and not a large circle or curve.
+
+The rider is looking good at the end of the run and looks fine in that particular setting. In a road test, the rider will look very good, and should look at this location of the road and not a large circle or curve. Lowlight: There is an 'Rough Road Ahead' effect with 'Lowlight' to show that the cyclist has taken off. In a road test, the cyclist won't be able to continue moving the bike in this particular setting for the rest of the run.

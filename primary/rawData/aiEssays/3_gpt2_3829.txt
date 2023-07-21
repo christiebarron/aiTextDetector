@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. The more complex a setting, the more it affects the cyclist. A bike can run on all streets in a given radius if it is equipped with all the cycling sensors on the bike. These are all present on the bike. But the bigger the set up, the more the setting is influencing. In low speeds this is not what is affecting the cyclist, but rather the set up itself.
+
+Most likely, a set up of 10,000 sensors, together with your existing cycling equipment, will not affect a cyclist's ability to run a road. If you have more of a set up, then you will not be affected by the more complex set up but it might be possible to reduce the number of road sensors by adding more to your set up.
+
+You should also consider using a set to reduce the overall number of sensors. The system can be built if you want it to, but this can also reduce the chance for a specific set-up to be used.
+
+Cyclists have different sets of data set-ups and different sets of data management systems. Some are designed to keep a few sensors in your device (e.g. road brake detection, but not other roads). There are also different sets of different "smart sensors" where your phone or computer will tell your driver if your bike is at fault. And then there may be no data at all because there is

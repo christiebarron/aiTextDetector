@@ -1,0 +1,15 @@
+Computers have many effects on people.
+
+To start using the IBM Watson operating system, the hardware is simple: a cluster of computer cores and virtual cores, with four nodes in each cluster.
+
+However, just because a node on that cluster is an external "memory" does not mean it is necessarily separate. For example, on your CPU the CPU is part of a global memory area, and the cluster of machines in that area, each running on the same network, does notyth a physical "memory" - it acts as a physical "memory" that is the basis of data that is created by the operating system.
+
+This physical "memory" is where the information that is created in the virtual memory, is applied to the operating system. "In the case of the human memory that is running the computer on the network, that data is sent to an external memory unit, and those units can access it," explains Tom Rees of IBM.
+
+So as an example, here is our IBM Watson application:
+
+[I]ne if we look at these applications that are doing various tasks.
+
+The program is not meant as being connected to the Internet, but as being plugged into the computer's network. What the program actually is doing is reading from the Internet. It does this so that some computations can be performed on it.
+
+The application takes the input from various parts of the computer. The program is able to send the data directly

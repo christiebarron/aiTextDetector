@@ -1,0 +1,7 @@
+In the article "Making Mona Lisa Smile," the author describes how the new technology called the Facial Action Coding System enables computers to identify human emotions, that's a really smart idea right?. The software can see your emotions, six emotions, and facial muscles.
+
+First, the person who made this software was Prof. Thomas Huang, the Beckman institute fro Advanced Science at the University of Illinois who started to find better ways for humans and computers to communicate. The first subject he wanted to do was Leonardo da Vinci's Renaissance painting, Mona Lisa. Your maybe thinking how do u use a software just to find out how someone is feeling well...
+
+In fact, the computer takes the model of the picture or what ever is there,but it must have human muscles in the picture ir 3-D model the human muscles is called "acton unit". It only takes in the model if it see's it have forty-four major muscles like a human would have. Dr. Huang and Dr. Paul Eckman has classified for the software to have six emotions-happiness,surprise,anger,disgust,fear, and sadness.
+
+Dr. Thomas Huang and his worjkers or friends that helped him with the software made six basic emotins that the human muscles have and made it to where it only workd if it have the 3-D effect with fourty-four human facial muscles witch is every smart.                              

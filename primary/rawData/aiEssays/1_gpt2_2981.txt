@@ -1,0 +1,11 @@
+Computers have many effects on people. These include:
+
+Actions that have no effect when the user is doing something stupid. Sometimes we're playing with the wrong action in multiplayer. We have to remember in multiplayer what actions are considered stupid.
+
+Actions that are considered stupid because they will be triggered on cooldown. They are triggered once every second, they can be changed once, can happen many times.
+
+Changes in UI settings. Some of them have the effect of stopping the game in the short term, some of them can't be stopped. Some of them will cause the game to go down for a while, but most times it doesn't. The same stuff happens to us when we hit reload in multiplayer, or when we set the timer with our health over 10 seconds. These are the "worst" effects, but they will still stop the game in the short term. This can also happen if we're under some stress or pressure, something that we haven't done. For example, you aren't able to play a game if you don't know if you're going to restart any times.
+
+Changes that cause no effect on you. Most often, because you have an active skill, you are required to play again to get new skills. This means this will often stop the game, but we'll save that and just reload. If we can prevent that from happening, we'll do something really simple.
+
+Changes that cause that we do things that

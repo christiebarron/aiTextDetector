@@ -1,0 +1,7 @@
+Computers have many effects on people. The more data you want to be able to use, the better.
+
+There are lots of tools out there to help you do all types of things from running some of your apps, to being able to change the behavior of your UI or how it tries to navigate or what messages appear in messages or chat messages. But if you can get people to do all this, you should also have their trust tell them "Okay, let me go look into getting these bots," because there isn't some standard protocol to do all this. For that, a common practice is to set up a centralized service that will send your app messages and send those messages to the people in your control. This is where many of these bots start and some of them do quite poorly.
+
+As with your app, you should always have a system there to send your bots all these data to. If you do that all at once, and at the same time, get all of the messages out as quickly as possible to get them going back to where they were meant to be, you're going to make a lot of money as an application company. For this, we recommend doing some background research and making a spreadsheet for your bot, making sure all of your information is in that format and using a "Send all calls to the correct person for the exact same message to the right person for that same message to be routed through the right way" protocol.
+
+Here are

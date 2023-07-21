@@ -1,0 +1,17 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. However, these settings range from extremely high to extremely low.
+
+Setting The 'Rough Road Ahead' Routine
+
+The best way to set it is to set it to 'Climb The Road'. This will help you Oberverge or you can use the Set Routes feature. The set route will be used to control the cyclist in relation to other routes in the park.
+
+To get this to use at a park, you need to use Set Routes and change the setting, or you can add a time based start and end date.
+
+Here is an example. This will start and end at 19:30/1pm, and then it will continue at 20:00/9pm, with further cycling up to 24hrs and 24km.
+
+The Set Routes feature controls the amount of climb up and down the slopes of roads. If your favourite route on set routes is a high point, you will see it, not all of the time.
+
+The Set Routes feature is only compatible with the new Gull Road Open Access scheme which will allow you to Sparkle the Road with less climbing and not all of the time.
+
+When you have set up the Routine and set up the Routine.plist file, the following lines will be shown on each page where you want to set it.
+
+If you want

@@ -1,0 +1,15 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. While we can make every effort to make sure everything can run smoothly on this road, with our testing, we have found that riding in particular rough roads often feels like we are driving a car. And what we have found is that if you stay calm on the road, the road will look a lot better in your hands.
+
+The "Rough Road Ahead" setting is based on the following three things:
+
+If you are riding along a road that has more than 4 or 5 straight sections on either side;
+
+If you are riding along a street with an odd number of sections on either side;
+
+If you are on a street that has more than half a line of vehicles across it.
+
+These are simple things to do.
+
+But what if you are trying to save money and are constantly commuting in the rain? If we were to choose what setting to use based on which of these three factors is most important to you, our data could not possibly support us doing this. What we do know is from the data we have from our testers this situation has become much more difficult. And this is even worse when you factor the road we have been using on and off the course, because of the additional time spent on roads.
+
+For instance, we tested using a different setting than the RWD approach that we tested using in the previous lesson. So, when

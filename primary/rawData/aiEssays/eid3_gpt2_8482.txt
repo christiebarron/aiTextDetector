@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+From the start, the 'Rough Road Ahead' setting appears to be useful for setting up the road in the first place. However, 'Rough Road Ahead' will also sometimes get confusing as you'll not see any clear boundaries, and roads with specific sections of the setting may not be visible on the map.
+
+The 'Rough Road Ahead' setting has the effect of moving your bike around to a wider area. When you start a bike tour in the 'Rough Road Ahead' setting, this will cause the 'road' to move to another area when you don't use the 'Rough Road Ahead' setting yet.
+
+This changes the way bikes get around in the 'Rough Road Ahead' setting, as the 'road' move its centre of gravity around more specific sections. This will make the 'road' more accessible and this changes where the 'riding' setting can be used. It also makes it more clear if you intend to be on a limited or high speed, as the 'road' will move your bike to a more narrow area of the setting. In general, cycling around your new 'riding' setting will look like this.
+
+A specific section of the 'road' setting may be selected in relation to a particular setting, for example in the 'Road Round Up' setting, where the setting 'Road Round Up'

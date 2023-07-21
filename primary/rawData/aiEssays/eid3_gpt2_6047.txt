@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. If the setting contains a value with 'True' and 'Normal', and the Cycling Direction is set to On (without specifying) the 'riding' will be marked with a blue icon that appears between the corresponding red icons associated with this setting. If the Cycling Direction is set to Disabled (without specifying) the cycle will not be moved to either the left or either the right side.
+
+While the setting itself is not directly applied to a cycling situation (which it does in many ways), it indirectly affects other factors influencing a cyclist or cyclist-friendly riding pattern.
+
+The 'Rough Road Ahead' setting is used in several areas. Firstly, and most importantly as a means for making a cycling mode more friendly and accessible! We are going to discuss this setting in a bit more detail in another feature.
+
+The setting is useful to help cyclists, cyclists without the need for special equipment and/or motorised equipment and to set up cycling facilities where possible.
+
+In some cases, the setting might be necessary for such purposes. Some cycling situations may necessitate that there be a further rider over the course of one hour, or this may be taken into account by providing additional capacity. In both cases, the cyclist is required to ensure that the new 'road mode' ofcasts the cycle will not get stuck in traffic, even though this is a possibility by setting "Rough

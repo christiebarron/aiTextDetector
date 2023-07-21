@@ -1,0 +1,11 @@
+Computers have many effects on people. However, the general experience of computing is that people should not be surprised how much their brains perform. A computer, which is designed primarily for personal computing, is designed to perform as efficiently as possible.
+
+Now, I understand many people who have a computer that runs with an 8-bit version of Adobe Photoshop or other programs (i.e., an 8-bit Windows 8.1 operating system.) As opposed to an 8-bit Windows system like Adobe Illustrator, which is designed for personal computers only, the operating system has the performance advantages of natively running software on its operating system software (ASP) computer. These advantages include, but are not limited to:
+
+CPUs can run on a PC with native memory which is extremely low on speed.
+
+When using computer graphics or other graphics processing applications, natively running graphics applications can run at native resolution (at least 30 Hz) as well as on graphics processors.
+
+The operating system software can read the GPU as it actually runs, while the actual file data, like the program headers, can be modified in computer emulation, or through some other emulation mechanism.
+
+The operating system uses an integrated circuit board to drive all of the graphics hardware. This circuit board connects the processor to the graphics cards in the computer through a special pin on the graphics controller. Although many people have already stated that there is very little difference in performance or performance between a computer with and

@@ -1,0 +1,7 @@
+I believe that censorship of materials in libraries is, and will continue to be, a fundamental legal right that is guaranteed by the First Amendment, but in particular if your library has a copyright owner that has a monopoly on the content of its books. I'm not arguing that libraries are bad, but it's important to have a good sense of the context.
+
+I'll begin by asking a few difficult questions.
+
+Is the problem really with the copyright holder of a file, or is it simply the author of it?
+
+Well, I don't think we've had any good way to figure it out because we didn't have a good way to compare copyright holder who are in the same place in the world and who might have written that file to, say, Microsoft, an American company. In fact, we didn't have a fair way to actually compare those who are either in the same place or do work from there with American, so instead we decided to just compare the file. That would be the most straightforward way to look at it. The more accurate way would be to say that Microsoft copied any of our source code, provided it didn't infringe Apple's patents, and therefore you don't have a copyright owner that could force the Apple's to pay for that copy. It's so different from a legal battle that just took place in some part of the world where some folks who are actually in the same country may have a patent infringement. We're only looking at

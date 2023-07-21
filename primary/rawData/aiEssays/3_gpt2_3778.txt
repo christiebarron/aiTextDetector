@@ -1,0 +1,18 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The setting is to move a vehicle along the route as intended from the point where it is stopping, as if turning a corner, as it happens to be on the right.
+
+There should not be changes from this mode, it changes how the cyclist is shown on the map at all. The option 'Smart' is selected so the cyclist can see information if they want to return to the next corner on the map based on their position on the road (by turning a few left off the map or to any other angle of motion).
+
+If a cyclist feels they are being used by their motorcycling partner that will be turned to 'Smart' when they turn.
+
+
+Cycling to the end of the 'Lantern Road'
+
+The 'Rough Road Ahead' settings can be moved further from the road if there is no additional movement or there is also permission for further movement along the route to be allowed. This applies to any motorbike only, and will only apply to the 'Lantern Road' option.
+
+The setting will cause a slight shift in traffic speed down the "Lantern Road" route, for better or worse depending on the type of vehicle you use and other factors such as road conditions.
+
+Cycling to the End of the 'Lantern Road'
+
+This option is only to be used in conjunction with

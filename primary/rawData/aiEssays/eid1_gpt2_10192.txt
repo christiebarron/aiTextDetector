@@ -1,0 +1,11 @@
+Computers have many effects on people. How can you create computers that are so efficient that they can do your job for you? But here's the problem, we'll never do that.
+
+The best computers have many different algorithms, and many different operating systems and applications. You might see people that use a lot of the power that can go into your computer, they could run a program that could actually do some computing work on them, say, with your laptop.
+
+The computers that you run around are made off of different kinds of semiconductors—scanners and magnetic fields, magnetic rings and magnetometers, etc. You couldn't make them all the way round. This one that I've created looks at a typical transistor.
+
+Then there's all this stuff you could do with this thing that we're just sitting around in our office and it'll come out in an inexpensive time like this, and it'll be usable for some reason.
+
+We have people that are running their own processors. The one that I've built is a chip that can compute with a million watts of power. You're never going to see any of these processors that are a million billion watts. It is just a fact of computer technology.
+
+But if we don't have a way to make them all work well, then where can they go? When you look at a transistor, it's really hard to say and it's not as good as it could be if you were

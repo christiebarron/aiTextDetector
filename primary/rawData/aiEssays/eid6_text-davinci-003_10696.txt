@@ -1,0 +1,7 @@
+
+
+The Empire State Building presented a unique challenge to designers and engineers in the 1930s in the form of constructing a docking station for dirigibles. There were numerous obstacles the builders had to face in order to make this possible, which are described in "The Mooring Mast" by Marcia Amidon Lüsted.
+
+The first obstacle the builders had to take into consideration was height. The Empire State Building stands at 1,452 feet tall, and there was no existing mast of this size prior to its construction. In order for the dirigibles to be able to dock safely, they would need to be able to reach a height that did not exceed the building. This seemingly impossible task was accomplished through several innovations. The main structure of the mast was constructed from steel and featured a three-dimensional tripod design. This allowed the mast to be tall enough to meet the needs of the dirigibles, yet also provided stability against the wind. Additionally, mast tension rods were attached to each of the three legs of the mast to enable it to hold the weight of the dirigibles.
+
+The second obstacle the builders had to take into account was the weight of the dirigible. Dirigibles can be very large and heavy, and due to their size, they need to be able to attach securely to the mast. To accommodate this, the mast was equipped with a special device called a mooring saddle. This saddle hinges around the mast and includes an arm that

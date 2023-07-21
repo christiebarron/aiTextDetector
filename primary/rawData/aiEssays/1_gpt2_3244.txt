@@ -1,0 +1,11 @@
+Computers have many effects on people. If the system doesn't think you're right, it'll automatically turn off your computer. The most effective way to stop the system going on is to turn off their Internet service. This will stop it and restart the computer. If all goes well, any of their programs and your computer will be offline.
+
+2. To install your own firmware and your other files:
+
+If necessary, read the installation instructions. If you already have your own computer, then the easiest way is always to copy your own firmware (usually included in each Windows 10 install). Note for the most part the only way the firmware will work is to download and install it locally on the machine. For our example, I'm using FUSE and I am building my own firmware.
+
+3. If you'll be using an external hard drive, you may want to make sure you have all the drivers, registry software, and the like bundled. Because the software would be lost when the program crashes: no-one wants to do that for them.
+
+4. If you can get help with making your own patches, try the Forum at http://pugie.me. If you are curious about what I'm talking about, I'd really appreciate it if you join me in this forum and help me write about it. (If you're just interested in helping out, let me know. I'd be happy to help!)
+
+What are your troubles

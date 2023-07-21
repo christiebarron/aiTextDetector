@@ -1,0 +1,9 @@
+
+
+The Empire State Building was built between 1930-1931 and quickly became known as a landmark in New York City. The building itself was an ambitious feat of engineering, but designers and engineers were tasked with an even greater challenge: creating a mast high enough on the building in order to allow dirigibles to dock. In order for a dirigible dock to be successful, the mast had to be able to withstand gale-force winds and still be strong enough to hold the dirigible firmly in place.
+
+The engineers' first challenge was designing the mooring mast. Designers had to account for the size of the dirigible, the amount of weight that the mast had to bear, and the winds that would affect the mooring. After designing and constructing the initial mast, the engineers encountered issues with its structural integrity. During tests, the mast was able to sway up to 9 feet in both wind and calm conditions, leading the engineers to conclude that the original mooring design was not sufficient.
+
+In order to make the mooring mast capable of sustaining the force of the gale-force winds, the engineers had to design and build an additional structure, called a "stiffening truss", that was to be placed around the mast's midsection. This additional framework would provide additional support and strength, thus creating a stronger and stable mooring system.
+
+The engineers also had to account for the fact that the dock had to support

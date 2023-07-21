@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. 'Rough Road Ahead' is a map with a high resolution view that allows us to observe all sorts of vehicles in and around the area. For example, drivers can take a look at any vehicle that passes by and know where to go on. In this map for the London 2010 Olympic 'Rough Road Ahead', that's an amazing scene, but if you have the time to go around and look from different angles we can find an even bigger amount of things inside the city centre. It's all visual information and we'll keep adding new vehicles throughout the year - we're already in the process of increasing the amount of people that can use the roads in Rotherham.
+
+The map below is a composite of many streets. As this data has grown we have included more streets in every category, and they all correspond to the same city, so you can see quite a lot. In fact you can find a map of the street using this map provided by the BBC London Cycling Map for all the different streets in the city that are listed.
+
+The city of London
+
+In all cases the only difference between these two maps is that the Roddall Street map is used together for all street data and the London 2010 Olympic Map is used together with both roads to allow us to see much more of the city.
+
+The 'RoughRoad Ahead' map shows the various elements of

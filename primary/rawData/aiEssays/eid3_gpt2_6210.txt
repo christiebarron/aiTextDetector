@@ -1,0 +1,17 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. For example, cycling into the next town where there is a car is likely to be harder. Driving from one side of town to the other is possible (particularly in the northern part, where there is more traffic). Other modes, such as "Tougher Cycle," (which works best on the city side), are most commonly used.
+
+The following mode is used to find a bike lane after a specific stop in the middle of a road:
+
+Distance from start to stop, in miles, through the city, from the start of the morning to the end of the work day.
+
+The following two sections are used to find a bike path after the start of a road (with a stop sign at the end):
+
+Distance from the start of the morning to the end of the day.
+
+Distance from the start of the morning to the end of tomorrow, in days; in days at the end of the month.
+
+While they are mostly the same, they make their own sense if you take an approach during the day, or if you are working in a busy city, in a quiet place, or have very little sleep.
+
+In the middle of the road we need a bike path. And this is a problem because there is more traffic coming through and out the centre lanes, and so all those travelling the fastest have to go slower.
+
+B

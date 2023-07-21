@@ -1,0 +1,24 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. But what other options do they have?
+
+Rough Road Ahead includes the following options:
+
+
+• Easy Roads: The bike is now more likely to run the pavement, but there is an increase in number of collisions.
+
+
+• Motorised roads (MOB-1, MOB-3, MOB-10 and MOB-11).
+
+• High Traffic areas like bridges and lanes where there is a large number of pedestrians on pavements.
+
+• High lighted areas (ROO-1 and MOO-2) as the street is under traffic control.
+
+
+• Low traffic areas (IODA and TUDOR) as the street is under emergency.
+
+• Intersection of Highlighted Spaces (JACK) and Low Lighted Spaces (LINKS).
+
+• Highlighting of Crosswalk or Slant areas if there are no pedestrians present. In addition, if the bicycle is in Sides 1 or 2, it's more likely to run the road if there are no pedestrians or crosswalked vehicles. Even though there aren't many pedestrian traffic signals, they can cause accidents or make driving less friendly and potentially dangerous if there are no pedestrians on the pavement.
+
+• Bicycles run under more serious traffic laws.
+
+• People riding, running, or even just passing from street to street are driving at

@@ -1,0 +1,9 @@
+I believe that censorship of materials in libraries and websites is not the problem but rather censorship itself
+
+In November 2014, Amnesty International documented a major security breach at a Swedish computer library that cost nearly 200 million Swedish kronor, which is more than five times that of a comparable Swedish newspaper. The security breach did not affect the work of Swedish researchers, while, in some of the other cases documented in this report, the work of other Swedish researchers in a separate country had already caused problems.
+
+In this report we report on more than half a dozen Swedish computer security breaches in January 2016, including a three-month-long period in August 2014 and July 2015 in which software software vulnerabilities were found in more than 100 local and foreign computer security systems (such as an online chat server or web browser). We offer a broad review of the scope of Swedish computer security breaches and explain why these serious breaches might not be linked to the right to privacy and security, and how we have responded to their findings.
+
+Despite such serious breaches—particularly in Sweden with which the two governments have agreed to work together in more detail following the attack—security data and communication are not the only things that are critical to law enforcement and civil society when dealing with computer security incidents. To do this, we look at some of the largest and most complex financial and technology breaches we have seen in a recent decade.
+
+In the year over which we've written this report, the Swedish government and industry collectively paid

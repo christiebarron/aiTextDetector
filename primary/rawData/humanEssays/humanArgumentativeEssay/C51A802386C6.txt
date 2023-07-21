@@ -1,0 +1,9 @@
+The Mona Lisa is a subject painting by Leonardo Da Vinci who tried to show the perfect emotion of her, Mona Lisa's face 83 percent happy, 9 percent disgusted, 6 percent fearful and 2 percent angry, How could we know that in a neutral face? Is not magic, is just technology.
+
+Now exist a new system that can recognize the emotions, thsi new innovation from Prof. Thomas Huang of the Beckham Institute with collaboration prof. Nicu Sebe of the University of Amsterdam, they are experts at developing better ways for Humans and computers to communicate, this actually is not like math homework when we can calculate.
+
+The process begins when the computer constructs a 3-D computer model of the face. Then, Dr Huang relies on the work of psychologists, such as Dr Pail Eckman creator of FACS (Facial Action Coding System). This man classified six basic emotions HAPPINNES, SURPRISE, ANGER, DISGUST, FEAR and SADNESS, and he associated each characteristic movement of the facial muscles.
+
+In fact,we humans perform this same impressive "calculation" every day, so, you can probablly tell how a friend is feeling simply by the look on her face.
+
+The Mona Lisa demostration is really extented to bring a smile to your face, while it shows just how much this computer can do, however the same technology can make computer-animated faces more expressive- for video games or video surgery. For now this is the answer for the questions of the beginnig, this is the new technology can do today, What will can do next?

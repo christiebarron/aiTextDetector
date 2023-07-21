@@ -1,0 +1,27 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+For example: a cyclist might be sitting on narrow roads or a track that narrows considerably and they could pass a lot of road and then encounter a lot of bumps, trees, hills and other obstacles.
+
+When the setting is relaxed, your cyclist will tend to see better conditions like the ones described under 'Rough Road Ahead' in more detailed maps, as well as on some of our latest weather and terrain maps.
+
+These maps have been used in our tests to understand the effects of the setting but we've been trying to take them at face value and they do work for us.
+
+We suggest you test or comment about your ride.
+
+Rough Road Ahead
+
+This setting will help you to identify what areas of roads you will need to check.
+
+As each cyclist is asked to test the set of rough roads, they must select a road they will use or drive to.
+
+The setting will be 'Rough Road Ahead'.
+
+To get on, you'll need a bicycle (or other vehicle, such as a truck or coach) that meets the following conditions (in descending order):
+
+The distance from the start to the end of a straight line.
+
+The speed of light.
+
+The distance from the head of the cyclist to an end of the straight line.
+
+As you are asked the cyclist's speed

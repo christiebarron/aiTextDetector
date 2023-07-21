@@ -1,0 +1,7 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. Firstly, this map will show you how to configure the specific road markings for use, and give you a better idea of the level of visibility that will be required to prevent this on the road. Secondly, the map of the street to follow will include the correct route through the area. Finally, the map of the road to avoid will include a clear warning about the danger you may encounter on the road ahead, and will be updated as you get on your way. This will give you an idea as to the level of visibility that will be required in each neighbourhood in the area to pass this warning, as well as provide Observer Service support to the community. It is important to keep the use of the map simple and the information relevant, but also the use of the map of the road, given that on each street in the area there are several ways to obtain these information, with some situations involving a pedestrian or cyclist potentially taking it to the other end of the street.
+
+In addition to the street map there will be an optional 'route marker' on this map that will tell you the exact number of metres your vehicle needs to remain in use. If you have the vehicle in your street by the end of your run, these markers will include the route marker.
+
+How to use the map
+
+Please make sure to enable the 'Route Map for The Cycling Coalition' header in your browser,

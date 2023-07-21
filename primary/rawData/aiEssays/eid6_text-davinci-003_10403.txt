@@ -1,0 +1,7 @@
+
+
+The construction of the Empire State Building presented a unique opportunity in 1931, as the building boasted a distinct feature at the time: a mooring mast meant to serve as a docking port for passenger dirigibles. However, the obstacles faced by the builders for the project quickly piled up.
+
+First, the mooring mast was a challenge to construct. At that time, the technology was relatively new, and the Empire State Building was the first to ever house a mast of its kind. In addition to this, the mast was built with an unusual design, as it was outfitted with both a flexing arm and a counterweight. This combination of mechanisms was intended to catch and contain the powerful airships, but it had never been successfully tested. To make matters worse, the high altitude of the mast (located on the 102nd floor of the building) created structures that were extremely vulnerable to strong winds, hence the need for a completely enclosed, secure landing structure.
+
+Second, making the mooring mast operational posed a number of other difficulties. To power the system, the builders had to install a custom-made electrical system; the latest in high-voltage technology was used to power the arm and counterweight. Additionally, the relatively primordial radio-navigation system of 1931 had to be completely reworked. This required a team of radio operators manning the mast at all times and an intensive safety program in order to protect pilots, passengers,

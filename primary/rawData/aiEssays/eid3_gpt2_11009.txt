@@ -1,0 +1,21 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.
+
+The setting is defined like this:
+
+# set ROUTER_BRIEFING
+
+# set TARGET_ROADING
+
+Rough Road Ahead
+
+The "road ahead" is how you go from zero to 100 km per hour if you take care of roads. The setting is defined as having a maximum speed of 100 km/h between 0 s and 0 h. This is the maximum speed of the road, the level at which it should not break. It is also the minimum speed if the cyclist moves further into a corner than expected – meaning if the cyclist moves too fast from the left to the right, this means that he or she could end up breaking.
+
+It is best to choose the setting that will best suit your cycling style. For example, in this case, say:
+
+FIVE is a perfect set. But there is one more setting that is a bit 'blah blah blah', and that is FOUR:
+
+ROUTER_BRIEFING
+
+A higher ROUTER_BRIEFING setting will more easily affect you, and is best used to determine which settings are important (i.e., best with a slightly higher default setting).
+
+A higher ROUTER_BRIEFING setting will result in significantly better response times at the start and finish of every ride. However

@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. By setting the 'Highlight' value of the 'Highlight:'option, you're providing some level of detail about whether someone will be able to drive. While others are set as 'Highlight:'and 'Highlight:'options, both of them could give you additional information about how they might be able to be safely off the road or how they might be able to cross the road. Some more specific information can be provided about the driving range:
+
+Note – you may also want to set the 'Highlight' value to 'Highlight::, or a combination of these which may make the value more useful for you in other scenarios.
+
+There are 4 main types of 'Highlight:' messages. These range from 'Not Used:', 'Exposure Only:', 'Staying Open:', 'Lowlight:', and 'Off 'light' options.
+
+Note that, while there may be 3, 5, or 6 types of messages set, for each combination, there are two 'Options': 'Close to the Car' and, 'Unclear'. The Close/Unclear option means the current range won't reach the vehicle through the front or rear and the Other option means they won't be driven for any distance below the cars speed limit (see the 'Driving Distance Calculator' on our website).
+
+What are the advantages

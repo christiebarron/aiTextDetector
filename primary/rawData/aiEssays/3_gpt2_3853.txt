@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. Some are simply less significant than others (though others are significant enough that there are no discernible non-threatening changes in the situation), but there are serious impacts to road users.
+
+The new 'Road Safety Mode' feature will introduce in-use, limited steering, or manual braking to reduce 'rudent' or 'disorienting' behaviour on the roads.
+
+You'll see the same results when you first turn the brake. The driver will move left immediately, using his hands towards the rear wheels to give you more direct control.
+
+The driver will then give you more control of each lane based on the speed that you've chosen. For example, if, for example, you're driving over your target, you'll see the driver turn slowly, but slowly, until you hit your target at 50mph, then quickly turn off with the car and avoid the target again: this increases road rage. (I'm not sure if the results are actually statistically significant either, but that seems like a reasonably large penalty for making a mistake to avoid an unsafe situation on the road, while leaving the car running.)
+
+You'll notice that the amount of steering control used at different locations is not necessarily identical, but the results are similar, and the driver will use the same amount of hand-to-hand steering to steer the driver away from a lane that you haven't chosen

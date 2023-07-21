@@ -1,0 +1,9 @@
+
+
+The Empire State Building was developed to be the world’s tallest skyscraper in Manhattan during the early 1930s. As the building rose higher than any other structure at the time, there were plans to incorporate docking berths for dirigibles (airships) at the building’s top. Although the original plans envisioned the mooring mast, the project faced many obstacles.
+
+The primary problem engineers faced was the lack of stability of the airships at high altitudes. Due to the hot air inside, airships were known to rise or fall with changes in temperature. This posed a challenge for the engineers: how could they construct a structure that ensured the airships were tethered to a stable position? To overcome this obstacle, engineers had to devise an anchoring system that could be used to secure the airships in place and withstand routine fluctuations in the temperature.
+
+To accomplish this, engineers mounted a fifty-foot, steel pole, known as the mooring mast, to the top of the Empire State Building. It was designed to provide a sturdy anchor point for the airships. At the same time, the mooring mast was capable of extending into the sky, allowing the airships to make a snug berth.
+
+The second challenge engineers faced was the wind. Airships maneuver differently than airplanes and can be affected by strong gusts of wind. To counteract the impact of the wind, engineers added guy wires to the mooring

@@ -1,0 +1,11 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. For instance, it could be that you're driving too much and want to take a break from driving in certain scenarios. This option can be configured and activated by calling the following command:
+
+bike.set_mixed_braking=true bike.set_pitched_braking=true
+
+In case there are any other restrictions (eg. your car feels fast or you have a rough ride, for instance), this setting will toggle mode for you. To add this feature to your phone from an SMS app such as CarPlay, send a notification to ring 918 715 4538 (SMS: SMS10). In that case,'set_mixed_braking' should return nil on device activation.
+
+When going down a stretch, your bike's setting might have turned too sharp due to improper handling. This can happen as a result of the driver shifting into the wrong lane in an attempt to take extra points. If the setting stays on or goes off later on, a crash might occur and your bicycle might stay stuck to a curb.
+
+What you can do
+
+If you still want to disable "rough roads ahead" with your MotoGP bike settings in your SMS app or other applications, add the following code to your text and make it a "set_mixed_braking" call. This is useful when you don't

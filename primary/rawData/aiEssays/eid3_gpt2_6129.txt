@@ -1,0 +1,9 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways. It will tell you the location of each of your routes (and that the road is straight) from your point of reference. You will see the exact street of that route (and the number of "pitches"), but if you are not riding on those routes you will see the number in your road map (you will have to look up the details of what they mean if you are driving on those roads). That being said, the "Rough Road Ahead" setting is not set to be the starting point of the bike route, which is why its only visible in a single route.
+
+This means that you can use the same street every time to use the same route and it will do a very good job of showing the way you go (e.g. the number behind and behind an intersection with a similar street will tell you where you are going, etc).
+
+When the bike is switched across its street, its only visible to the cyclist who already has this setting turned on.
+
+If the bike is on both sides of its street the setting is set to ON by default. If you have either set it to ON or ONV it will act as this, meaning that if you turn on your bike you will change the bike's street to ON mode.
+
+In the previous example, the car's position is the same in both directions and on both sides as it was

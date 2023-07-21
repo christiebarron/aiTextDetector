@@ -1,0 +1,17 @@
+Features of the setting affect the cyclist in 'Rough Road Ahead' in many ways.SQL
+
+(db-migration=y, config=db.db)
+
+The sql-settings.yml file has some interesting information about the database settings including the settings stored between sessions.sql
+
+(db-migration=y, config=db.db, query=v2, v1=db.db_v1_db, config=db.db)
+
+sql-settings.yml was updated in SQL 2013 to include this line -
+
+db.db_query ='SELECT ids FROM sql_db JOIN sql_sml_query ON ids ='WHERE ids.sql_name eq ';'+ sql_query + " '" + sql_name)
+
+This will set the data to the name of the database user at the query parameter (select=sql.select) and to the value of the variable 'i' when entering into the query() statement.
+
+The second column of the config file provides a configuration to show what data it will store.
+
+The next, three sections can be accessed using the sql-settings.yml file. These three sections give the user the option of 'allocating a seat', or adding up all the data. If the default database settings are used, all the data is assigned to the specified database user.
