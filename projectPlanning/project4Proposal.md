@@ -89,5 +89,15 @@ Our web application will be deployed on a web server or cloud platform, making i
 ### Conclusion: 
 Our final product, a web application for text analysis and prediction, will leverage Flask, NLP libraries, and machine learning models. The application will provide users with an intuitive interface to submit essays, extract features, perform analysis, and generate predictions. By combining the power of NLP and machine learning, our goal is to deliver a valuable tool for users to gain insights from their text data.
 
+## Work Breakdown
 
-   
+
+|Task | Person | Deadline|
+| ----------- | ----------- |  ----------- |
+|Backend: NLP Pipeline     |  Christie   |  Thurs July 27   |
+|Front End     |  Maisam   |  tbd  |
+|Data Visualizations     |  Vareesha   |  tbd  |
+|Machine learning     |  Gayan   |  tbd  |
+|Machine learning     |  Paramdeep   |  tbd  |
+
+
