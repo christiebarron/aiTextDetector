@@ -97,7 +97,7 @@ Our final product, a web application for text analysis and prediction, will leve
 |Backend: NLP Pipeline     |  Christie   |  Thurs July 27   |
 |Front End     |  Maisam   |  tbd  |
 |Data Visualizations     |  Vareesha   |  tbd  |
-|Machine learning     |  Gayan   |  tbd  |
+|Machine learning     |  Gayan   | Thurs July 27  |
 |Machine learning     |  Paramdeep   |  tbd  |
 
 
