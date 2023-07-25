@@ -98,6 +98,6 @@ Our final product, a web application for text analysis and prediction, will leve
 |Front End     |  Maisam   |  Thurs July 27 |
 |Data Visualizations     |  Vareesha   |  Thurs July 27th  |
 |Machine learning     |  Gayan   |  tbd  |
-|Machine learning     |  Paramdeep   |  tbd  |
+|Machine learning     |  Paramdeep   |  Thurs July 27th  |
 
 
