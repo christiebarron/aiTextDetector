@@ -7,6 +7,9 @@
 #mac folder metadata
 **/*.DS_Store
 
+#ignore the big excel file with lots of data
+**/*4aFeaturesAsap.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +172,4 @@ cython_debug/
 #.idea/
 asapData/scripts/config.py
 *.pptx
+primary/cleanData/4aFeaturesAsap.xlsx
