@@ -192,4 +192,4 @@ sentiment_feature = sentiment_analysis_scores(test_text)
 
 # COMBINE ALL FEATURES
 features = {**all_lexical_features, **all_syntactic_features, **all_stylistic_features, **all_avg_punctuation, **passive_sentence_feature, **readability_feature, **sentiment_feature}
-features
+print(features)
