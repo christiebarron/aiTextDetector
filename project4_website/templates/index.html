@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" type="text/css" href="static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="login-register">
+            <ul class="tabs">
+                <li class="tab-link current" data-tab="login">Login</li>
+                <li class="tab-link" data-tab="register">Register</li>
+            </ul>
+
+            <div id="login" class="tab-content current">
+                <input type="text" id="login-username" placeholder="Username">
+                <input type="password" id="login-password" placeholder="Password">
+                <button id="login-button">Login</button>
+                <button id="forgot-password-button">Forgot Password</button>
+            </div>
+
+            <div id="register" class="tab-content">
+                <input type="text" id="register-username" placeholder="Username">
+                <input type="password" id="register-password" placeholder="Password">
+                <button id="register-button">Register</button>
+            </div>
+        </div>
+    </div>
+    <script src="static/js/scripts.js"></script>
+</body>
+</html>
