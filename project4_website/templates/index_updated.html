@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" type="text/css" href="static/css/styles.css">
+    <style>
+        .username-display {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+    </style>
+</head>
+<body>
+    {% if current_user.is_authenticated %}
+        <div class="username-display">
+            Welcome {{ current_user.username }}!
+        </div>
+        <h1>Welcome to our Text Predictor!</h1>
+        <p>This app allows you to predict whether a given text is written by a human or an AI.</p>
+        <p><a href="{{ url_for('predict_nn') }}">Predict with Neural Network model</a></p>
+        <p><a href="{{ url_for('predict_keras') }}">Predict with Keras Sequential model</a></p>
+        <p><a href="{{ url_for('visualizations') }}">See visualizations</a></p>
+        <p>Please enter a text with a minimum length of 500 words for the best prediction results.</p>
+    {% else %}
+        <div class="container">
+            <div class="login-register">
+                <ul class="tabs">
+                    <li class="tab-link current" data-tab="login">Login</li>
+                    <li class="tab-link" data-tab="register">Register</li>
+                </ul>
+
+                <div id="login" class="tab-content current">
+                    <form action="/login" method="post">
+                        <input type="text" id="login-username" name="username" placeholder="Username">
+                        <input type="password" id="login-password" name="password" placeholder="Password">
+                        <button type="submit" id="login-button">Login</button>
+                    </form>
+                    <button id="forgot-password-button">Forgot Password</button>
+                </div>
+                
+
+                <div id="register" class="tab-content">
+                    <input type="text" id="register-username" placeholder="Username">
+                    <input type="password" id="register-password" placeholder="Password">
+                    <button id="register-button">Register</button>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    <script src="static/js/scripts.js"></script>
+</body>
+</html>
