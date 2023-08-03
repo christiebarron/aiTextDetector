@@ -1,0 +1,43 @@
+<html>
+<head>
+  <title>Text Prediction</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <style>
+    body {
+        background-image: url("{{ url_for('static', filename='images/login.jpg') }}");
+        background-size: cover; /* This will make the image as large as possible while still showing it entirely, either vertically or horizontally. */
+        background-repeat: no-repeat; /* This will prevent the image from repeating. */
+        background-position: center 25%; /* This will center the image on the page. */
+        opacity: 0.8;
+        color: rgb(0, 0, 0);
+    }
+</style>
+</head>
+<body>
+  <div class="container">
+    <h2 class="my-4">Text Prediction</h2>
+    <p class="lead">Input text:</p>
+    <p>{{ text_input }}</p>
+    <p class="lead">Prediction score: {{ prediction }}</p>
+    <p class="lead">Prediction Category: {{ prediction_category }}</p>
+    <p class="lead">Features:</p>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for key, value in features.items() %}
+        <tr>
+          <td>{{ key }}</td>
+          <td>{{ value }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <a class="btn btn-primary" href="{{ url_for('predict_keras') }}">Back</a>
+  </div>
+</body>
+</html>

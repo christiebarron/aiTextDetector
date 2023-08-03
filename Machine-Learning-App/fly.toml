@@ -1,0 +1,8 @@
+app = "textual-detectives"
+
+[build]
+  builtin = "python"
+
+[env]
+  PORT = "5000"
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ML API</title>
+    <style>
+        /* Styles for textarea */
+        textarea {
+            display: block;
+            width: 100%;
+            height: 300px;
+            padding: 12px 20px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            background-color: #ffffff;
+            font-size: 16px;
+            resize: none;
+        }
+        
+        /* Styles for the submit button */
+        .submit-button {
+            background-color: #910e6e; /* you can choose any color you like */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 12px;
+        }
+
+        body {
+            background-image: url("{{ url_for('static', filename='images/login.jpg') }}");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center 25%;
+            opacity: 0.8;
+            color: rgb(0, 0, 0);
+        }
+    </style>
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <form method="POST">
+        <label for="text_input">Enter text:</label><br>
+        <textarea id="text_input" name="text_input" rows="22" cols="60"></textarea><br>
+        <button type="submit" class="submit-button">Submit</button>
+    </form>
+</body>
+</html>

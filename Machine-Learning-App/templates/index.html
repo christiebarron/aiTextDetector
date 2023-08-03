@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" type="text/css" href="static/css/styles.css">
+    <style>
+        .title {
+            text-align: center;
+            padding-top: 5px; /* add space from the top if needed */
+        }
+        .username-display {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+        .centered-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 40vh; /* This will take the full height of the viewport. */
+        }
+        body {
+            background-image: url("{{ url_for('static', filename='images/main_neolaw.png') }}");
+            background-size: cover; /* This will make the image as large as possible while still showing it entirely, either vertically or horizontally. */
+            background-repeat: no-repeat; /* This will prevent the image from repeating. */
+            background-position: center 25%; /* This will center the image on the page. */
+            opacity: 0.8;
+            color: rgb(0, 0, 0);
+        }
+        .pop-in {
+  animation: pop-in 1.8s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
+}
+
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.text {
+  margin: 10px;
+  font-size: 1.25em;
+}
+</style>
+
+<script>
+window.onload = function() {
+  var delay = 0;
+  document.querySelectorAll('.text').forEach(function(element) {
+    delay += 0.5; // You can change this value to adjust the delay time
+    element.style.animationDelay = delay + 's';
+    element.classList.add('pop-in');
+  });
+};
+</script>
+
+</head>
+<body>
+    {% if current_user.is_authenticated %}
+        <div class="centered-content">
+            <div class="username-display">
+                Welcome {{ current_user.username }}!
+            </div>
+            <h1 class="title text">Welcome to our Text Predictor!</h1>
+            <p class="text">This app allows you to predict whether a given text is written by a human or an AI.</p>
+            <p class="text"><a href="{{ url_for('essay') }}">Predict with Neural Network model</a></p>
+            <p class="text"><a href="{{ url_for('predict_keras') }}">Predict with Keras Sequential model</a></p>
+            <p class="text"><a href="{{ url_for('tableau_visualization') }}">See visualizations</a></p>
+            <p class="text"><a href="{{ url_for('documentation') }}">See documentation</a></p>
+            <p class="text">Please enter a text with a maximum length of 500 words for the best prediction results.</p>
+        </div>
+    {% else %}
+        <div class="container">
+            <div class="login-register">
+                <ul class="tabs">
+                    <li class="tab-link current" data-tab="login">Login</li>
+                    <li class="tab-link" data-tab="register">Register</li>
+                </ul>
+
+                <div id="login" class="tab-content current">
+                    <form action="/login" method="post">
+                        <input type="text" id="login-username" name="username" placeholder="Username">
+                        <input type="password" id="login-password" name="password" placeholder="Password">
+                        <button type="submit" id="login-button">Login</button>
+                    </form>
+                    <button id="forgot-password-button">Forgot Password</button>
+                </div>
+                
+
+                <div id="register" class="tab-content">
+                    <input type="text" id="register-username" placeholder="Username">
+                    <input type="password" id="register-password" placeholder="Password">
+                    <button id="register-button">Register</button>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    <script src="static/js/scripts.js"></script>
+</body>
+</html>
